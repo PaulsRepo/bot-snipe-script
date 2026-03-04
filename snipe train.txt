@@ -1,0 +1,432 @@
+16[2025-12-30 09:31:40] <@Quackbot> \o< *quack* The duck waddles away safely.
+21[2025-12-30 09:48:52] <@url> !duckhelp
+18[2025-12-30 09:48:52] <@Quackbot> url > Please check your PM for the duckhunt command list.
+21[2025-12-30 09:52:02] <@url> !duckstats
+18[2025-12-30 09:52:03] <@Quackbot> url: Lv1 Duck Novice | 0XP (Need 40 XP for Pond Visitor) | 1 shot | 0 befriended | 76% accuracy | 100.0% hit rate | Armed | 6/6|3 mags | 15% jam chance
+21[2025-12-30 09:52:12] <@url> !topduck
+16[2025-12-30 09:52:12] <@Quackbot> Top XP:  #1 end3r:170XP | #2 fffejjj:104XP | #3 clive_rosfield:65XP
+16[2025-12-30 09:52:12] <@Quackbot> Top Hunters:  #1 fffejjj:11 | #2 end3r:9 | #3 clive_rosfield:3
+21[2025-12-30 09:52:29] <@url> !ducklaunch
+16[2025-12-30 09:52:30] <@Quackbot> \_O<  *q u a c k*  (respawned)
+21[2025-12-30 09:52:30] <@url> !bang
+18[2025-12-30 09:52:31] <@Quackbot> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 2]
+21[2025-12-30 09:52:34] <@url> !ducklaunch
+16[2025-12-30 09:52:34] <@Quackbot> ・゜゜・。。・゜゜\_O< QUACK!
+21[2025-12-30 09:52:35] <@url> !bang
+18[2025-12-30 09:52:35] <@Quackbot> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 3]
+21[2025-12-30 09:52:39] <@url> !ducklaunch
+16[2025-12-30 09:52:39] <@Quackbot> ≋≋≋ \_O< ≋≋≋  QUACK!
+21[2025-12-30 09:52:40] <@url> !bang
+18[2025-12-30 09:52:40] <@Quackbot> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 4]
+21[2025-12-30 09:52:45] <@url> !ducklaunch golden
+16[2025-12-30 09:52:46] <@Quackbot> ・゜゜・。。・゜゜\_O< QUACK!
+21[2025-12-30 09:52:46] <@url> !bang
+18[2025-12-30 09:52:47] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [2 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 09:52:47] <@url> !bang
+18[2025-12-30 09:52:47] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [1 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 09:52:48] <@url> !bang
+18[2025-12-30 09:52:48] <@Quackbot> url > *BANG* You killed the GOLDEN DUCK! [+45 xp] [Total ducks: 5]
+21[2025-12-30 09:52:49] <@url> !bang
+18[2025-12-30 09:52:49] <@Quackbot> url > *BANG* What did you shoot at? There is no duck in the area... [GUN CONFISCATED]
+21[2025-12-30 09:53:01] <@url> !rearm url
+18[2025-12-30 09:53:01] <@Quackbot> [ADMIN] url has been rearmed by url
+21[2025-12-30 09:53:04] <@url> !ducklaunch golden
+16[2025-12-30 09:53:04] <@Quackbot> ・゜゜・。。・゜゜\_O< QUACK!
+21[2025-12-30 09:53:05] <@url> !bang
+18[2025-12-30 09:53:05] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [2 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 09:53:06] <@url> !bang
+18[2025-12-30 09:53:06] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [1 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 09:53:07] <@url> !bang
+18[2025-12-30 09:53:07] <@Quackbot> url > *BANG* You killed the GOLDEN DUCK! [+45 xp] [Total ducks: 6]
+21[2025-12-30 09:53:08] <@url> !bang
+18[2025-12-30 09:53:08] <@Quackbot> url > *BANG* What did you shoot at? There is no duck in the area... [GUN CONFISCATED]
+21[2025-12-30 09:53:15] <@url> !rearm url
+18[2025-12-30 09:53:16] <@Quackbot> [ADMIN] url has been rearmed by url
+21[2025-12-30 09:53:17] <@url> !ducklaunch golden
+16[2025-12-30 09:53:18] <@Quackbot> ・゜゜・。。・゜゜\_O< QUACK!
+21[2025-12-30 09:53:18] <@url> !bang
+18[2025-12-30 09:53:19] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [4 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 09:53:19] <@url> !bang
+18[2025-12-30 09:53:20] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [3 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 09:53:21] <@url> !bang
+18[2025-12-30 09:53:21] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [2 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 09:53:22] <@url> !bang
+18[2025-12-30 09:53:22] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [1 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 09:53:23] <@url> !bang
+18[2025-12-30 09:53:23] <@Quackbot> url > *BANG* You killed the GOLDEN DUCK! [+75 xp] [Total ducks: 7]
+18[2025-12-30 09:53:23] <@Quackbot> url > The golden duck dropped a Buy Gun Back! [Added to inventory]
+21[2025-12-30 09:53:24] <@url> !bang
+18[2025-12-30 09:53:24] <@Quackbot> url > *BANG* What did you shoot at? There is no duck in the area... [GUN CONFISCATED]
+21[2025-12-30 09:53:27] <@url> !rearm url
+18[2025-12-30 09:53:28] <@Quackbot> [ADMIN] url has been rearmed by url
+21[2025-12-30 09:53:30] <@url> !ducklaunch golden
+16[2025-12-30 09:53:31] <@Quackbot> ・゜゜・。。・゜゜\_O< QUACK!
+21[2025-12-30 09:53:31] <@url> !bang
+18[2025-12-30 09:53:32] <@Quackbot> url > *click* Your gun jammed! [AMMO WASTED]
+21[2025-12-30 09:53:37] <@url> fucker
+21[2025-12-30 09:53:40] <@url> !bang
+18[2025-12-30 09:53:41] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [4 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 09:53:41] <@url> !bang
+18[2025-12-30 09:53:42] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [3 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 09:53:42] <@url> !bang
+18[2025-12-30 09:53:43] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [2 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 09:53:43] <@url> !bang
+18[2025-12-30 09:53:44] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [1 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 09:53:44] <@url> !bang
+18[2025-12-30 09:53:45] <@Quackbot> url > *BANG* You killed the GOLDEN DUCK! [+75 xp] [Total ducks: 8]
+18[2025-12-30 09:53:45] <@Quackbot> url > The golden duck dropped a Hunter's Insurance! [Added to inventory]
+21[2025-12-30 09:53:45] <@url> !bang
+18[2025-12-30 09:53:46] <@Quackbot> url > *click* You're out of ammo! Use !reload
+21[2025-12-30 09:53:56] <@url> !rearm url
+18[2025-12-30 09:53:56] <@Quackbot> [ADMIN] url has been rearmed by url
+21[2025-12-30 09:54:03] <@url> this is so much fun
+21[2025-12-30 09:54:12] <@url> its like JO in public
+21[2025-12-30 09:54:19] <@url> !topduck
+18[2025-12-30 09:54:20] <@Quackbot> Top XP:  #1 url:280XP | #2 end3r:170XP | #3 fffejjj:104XP
+18[2025-12-30 09:54:20] <@Quackbot> Top Hunters:  #1 fffejjj:11 | #2 end3r:9 | #3 url:8
+21[2025-12-30 09:54:23] <@url> :D
+21[2025-12-30 09:54:46] <@url> i will abuse this
+21[2025-12-30 09:56:13] <@url> !shop
+16[2025-12-30 09:56:14] <@Quackbot> DuckHunt Shop: (1) Single Bullet - 5 XP | (2) Magazine - 15 XP | (3) Sand - 10 XP | (4) Gun Brush - 20 XP | (5) Bread - 50 XP | (6) Hunter's Insurance - 75 XP | (7) Buy Gun Back - 40 XP | (8) Bucket of Water - 25 XP | You have 280 XP
+21[2025-12-30 09:56:22] <@url> !use 6
+18[2025-12-30 09:56:22] <@Quackbot> url > You activated Hunter's Insurance! Protected from friendly fire penalties for 24 hours.
+21[2025-12-30 09:56:38] <@url> !duckstats
+18[2025-12-30 09:56:39] <@Quackbot> url: Lv3 Duck Hunter | 80XP (Need 20 XP for Wetland Stalker) | 8 shot | 0 befriended | 95% accuracy | 72.7% hit rate | Armed | 6/6|3 mags | 15% jam chance | Items: Buy Gun Back x1 | Effects:Hunter's Insurance
+21[2025-12-30 09:56:52] <@url> !ducklaunch golden
+16[2025-12-30 09:56:53] <@Quackbot> ≋≋≋ \_O< ≋≋≋  QUACK!
+21[2025-12-30 09:56:53] <@url> !bang
+18[2025-12-30 09:56:54] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [3 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 09:56:54] <@url> !bang
+18[2025-12-30 09:56:55] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [2 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 09:56:55] <@url> !bang
+18[2025-12-30 09:56:55] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [1 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 09:56:56] <@url> !bang
+18[2025-12-30 09:56:56] <@Quackbot> url > *BANG* You killed the GOLDEN DUCK! [+60 xp] [Total ducks: 9]
+18[2025-12-30 09:56:56] <@Quackbot> url > The golden duck dropped a Magazine! [Added to inventory]
+21[2025-12-30 09:56:57] <@url> !bang
+18[2025-12-30 09:56:57] <@Quackbot> url > *BANG* What did you shoot at? There is no duck in the area... [GUN CONFISCATED]
+21[2025-12-30 09:57:05] <@url> !rearm url
+18[2025-12-30 09:57:05] <@Quackbot> [ADMIN] url has been rearmed by url
+21[2025-12-30 09:57:08] <@url> !ducklaunch golden
+16[2025-12-30 09:57:09] <@Quackbot> ・゜゜・。。・゜゜\_O> *flap flap*
+21[2025-12-30 09:57:09] <@url> !bang
+18[2025-12-30 09:57:09] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [3 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 09:57:10] <@url> !bang
+18[2025-12-30 09:57:10] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [2 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 09:57:11] <@url> !bang
+18[2025-12-30 09:57:11] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [1 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 09:57:12] <@url> !bang
+18[2025-12-30 09:57:12] <@Quackbot> url > *BANG* You killed the GOLDEN DUCK! [+60 xp] [Total ducks: 10]
+18[2025-12-30 09:57:12] <@Quackbot> url > The golden duck dropped a Hunter's Insurance! [Added to inventory]
+21[2025-12-30 09:57:13] <@url> !bang
+18[2025-12-30 09:57:13] <@Quackbot> url > *BANG* What did you shoot at? There is no duck in the area... [GUN CONFISCATED]
+21[2025-12-30 09:57:17] <@url> !rearm url
+18[2025-12-30 09:57:17] <@Quackbot> [ADMIN] url has been rearmed by url
+21[2025-12-30 09:57:20] <@url> !ducklaunch golden
+16[2025-12-30 09:57:20] <@Quackbot> ~\_O<~  QUACK!  ~
+21[2025-12-30 09:57:21] <@url> !bang
+18[2025-12-30 09:57:21] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [3 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 09:57:22] <@url> !bang
+18[2025-12-30 09:57:22] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [2 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 09:57:23] <@url> !bang
+18[2025-12-30 09:57:23] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [1 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 09:57:23] <@url> !bang
+18[2025-12-30 09:57:24] <@Quackbot> url > *BANG* You killed the GOLDEN DUCK! [+60 xp] [Total ducks: 11]
+21[2025-12-30 09:57:24] <@url> !bang
+18[2025-12-30 09:57:25] <@Quackbot> url > *BANG* What did you shoot at? There is no duck in the area... [GUN CONFISCATED]
+21[2025-12-30 09:57:28] <@url> !rearm url
+18[2025-12-30 09:57:29] <@Quackbot> [ADMIN] url has been rearmed by url
+21[2025-12-30 09:57:31] <@url> :D
+21[2025-12-30 09:57:36] <@url> !topduck
+18[2025-12-30 09:57:36] <@Quackbot> Top XP:  #1 url:460XP | #2 end3r:170XP | #3 fffejjj:104XP
+18[2025-12-30 09:57:36] <@Quackbot> Top Hunters:  #1 fffejjj:11 | #2 url:11 | #3 end3r:9
+21[2025-12-30 09:58:02] <@url> !rearm url
+18[2025-12-30 09:58:03] <@Quackbot> [ADMIN] url has been rearmed by url
+21[2025-12-30 09:58:08] <@url> !ducklaunch
+16[2025-12-30 09:58:08] <@Quackbot> ・゜゜・。。・゜゜\_O> *flap flap*
+21[2025-12-30 09:58:09] <@url> !bang
+18[2025-12-30 09:58:09] <@Quackbot> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 12]
+18[2025-12-30 09:58:09] <@Quackbot> url > The duck dropped a Single Bullet! [Added to inventory]
+21[2025-12-30 09:58:12] <@url> !ducklaunch
+16[2025-12-30 09:58:12] <@Quackbot> ·.¸¸.·´¯`·.¸¸.·´¯`·. \_O<  QUACK!
+21[2025-12-30 09:58:13] <@url> !bang
+18[2025-12-30 09:58:13] <@Quackbot> url > *BANG* You missed and hit p1x4l! [INSURANCE PROTECTED - No penalties]
+21[2025-12-30 09:58:14] <@url> !bang
+18[2025-12-30 09:58:14] <@Quackbot> url > *click* Your gun jammed! [AMMO WASTED]
+21[2025-12-30 09:58:21] <@url> !ducklaunch
+16[2025-12-30 09:58:21] <@Quackbot> ≋≋≋ \_O< ≋≋≋  QUACK!
+21[2025-12-30 09:58:22] <@url> !bang
+18[2025-12-30 09:58:22] <@Quackbot> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 13]
+18[2025-12-30 09:58:22] <@Quackbot> url > The duck dropped a Sand! [Added to inventory]
+21[2025-12-30 09:58:26] <@url> !ducklaunch
+16[2025-12-30 09:58:26] <@Quackbot> ・゜゜・。。・゜゜\_O< QUACK!
+21[2025-12-30 09:58:27] <@url> !bang
+18[2025-12-30 09:58:27] <@Quackbot> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 14]
+21[2025-12-30 09:58:30] <@url> !rearm url
+18[2025-12-30 09:58:31] <@Quackbot> [ADMIN] url has been rearmed by url
+21[2025-12-30 09:58:35] <@url> !ducklaunch
+16[2025-12-30 09:58:36] <@Quackbot> ..::: \_O< :::..  QUACK!
+21[2025-12-30 09:58:36] <@url> !bang
+18[2025-12-30 09:58:37] <@Quackbot> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 15]
+21[2025-12-30 09:58:40] <@url> !ducklaunch
+16[2025-12-30 09:58:40] <@Quackbot> \_O< ≫ Q U A C K ≪
+21[2025-12-30 09:58:41] <@url> !bang
+18[2025-12-30 09:58:41] <@Quackbot> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 16]
+21[2025-12-30 09:58:43] <@url> !ducklaunch
+16[2025-12-30 09:58:43] <@Quackbot> ⟦\_O<⟧  Q U A C K
+21[2025-12-30 09:58:43] <@url> !bang
+18[2025-12-30 09:58:44] <@Quackbot> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 17]
+21[2025-12-30 09:58:45] <@url> !ducklaunch
+16[2025-12-30 09:58:46] <@Quackbot> ⟦\_O<⟧  Q U A C K
+21[2025-12-30 09:58:46] <@url> !bang
+18[2025-12-30 09:58:47] <@Quackbot> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 18]
+21[2025-12-30 09:58:54] <@url> !duckstats
+18[2025-12-30 09:58:55] <@Quackbot> url: Lv4 Wetland Stalker | 29XP (Need 71 XP for Apex Predator) | 18 shot | 0 befriended | 100% accuracy | 72.0% hit rate | Armed | 2/6|3 mags | 15% jam chance | Items: Buy Gun Back x1, Magazine x1, Hunter's Insurance x1, Single Bullet x1, Sand x1 | Effects:Hunter's Insurance
+21[2025-12-30 09:59:01] <@url> !use 1
+18[2025-12-30 09:59:02] <@Quackbot> url > Used Single Bullet!
+21[2025-12-30 09:59:12] <@url> !reload
+18[2025-12-30 09:59:12] <@Quackbot> url > *click* New magazine loaded! [Ammo: 6/6] [Spare magazines: 1]
+21[2025-12-30 09:59:17] <@url> !use 2
+18[2025-12-30 09:59:18] <@Quackbot> url > Used Magazine!
+21[2025-12-30 09:59:31] <@url> !ducklaunch golden
+16[2025-12-30 09:59:31] <@Quackbot> ・゜゜・。。・゜゜\_O< QUACK!
+21[2025-12-30 09:59:32] <@url> !bang
+18[2025-12-30 09:59:32] <@Quackbot> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 19]
+21[2025-12-30 09:59:44] <@url> !ducklaunch golden
+16[2025-12-30 09:59:45] <@Quackbot> ・゜゜・。。・゜゜\_O< QUACK!
+21[2025-12-30 09:59:45] <@url> !bang
+18[2025-12-30 09:59:46] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [3 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 09:59:46] <@url> !bang
+18[2025-12-30 09:59:47] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [2 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 09:59:47] <@url> !bang
+18[2025-12-30 09:59:48] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [1 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 09:59:48] <@url> !bang
+18[2025-12-30 09:59:49] <@Quackbot> url > *BANG* You killed the GOLDEN DUCK! [+60 xp] [Total ducks: 20]
+21[2025-12-30 09:59:49] <@url> !bang
+18[2025-12-30 09:59:50] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [2 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 09:59:50] <@url> !bang
+18[2025-12-30 09:59:51] <@Quackbot> url > *click* You're out of ammo! Use !reload
+21[2025-12-30 09:59:59] <@url> !reload
+18[2025-12-30 09:59:59] <@Quackbot> url > *click* New magazine loaded! [Ammo: 6/6] [Spare magazines: 1]
+21[2025-12-30 10:00:02] <@url> !bang
+18[2025-12-30 10:00:02] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [1 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 10:00:03] <@url> !bang
+18[2025-12-30 10:00:03] <@Quackbot> url > *BANG* You missed the duck! [-1 XP]
+21[2025-12-30 10:00:06] <@url> !bang
+18[2025-12-30 10:00:06] <@Quackbot> url > *BANG* You killed the GOLDEN DUCK! [+45 xp] [Total ducks: 21]
+21[2025-12-30 10:00:07] <@url> !bang
+18[2025-12-30 10:00:07] <@Quackbot> url > *BANG* What did you shoot at? There is no duck in the area... [GUN CONFISCATED]
+21[2025-12-30 10:00:20] <@url> !ream url
+21[2025-12-30 10:00:27] <@url> !rearmm url
+21[2025-12-30 10:00:31] <@url> !rearm url
+18[2025-12-30 10:00:32] <@Quackbot> [ADMIN] url has been rearmed by url
+21[2025-12-30 10:00:40] <@url> !duckstats
+18[2025-12-30 10:00:40] <@Quackbot> url: Lv5 Apex Predator | 43XP (Need 357 XP for Duck Whisperer) | 21 shot | 0 befriended | 99% accuracy | 70.0% hit rate | Armed | 6/6|3 mags | 15% jam chance | Items: Buy Gun Back x1, Hunter's Insurance x1, Sand x1 | Effects:Hunter's Insurance
+16[2025-12-30 10:20:07] <@Quackbot> ・゜゜・。。・゜゜\_O> *flap flap*
+21[2025-12-30 10:20:08] <@url> !bang
+18[2025-12-30 10:20:08] <@Quackbot> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 22]
+21[2025-12-30 10:26:32] <@url> !duckstats
+18[2025-12-30 10:26:32] <@Quackbot> url: Lv5 Apex Predator | 53XP (Need 347 XP for Duck Whisperer) | 22 shot | 0 befriended | 100% accuracy | 71.0% hit rate | Armed | 5/6|3 mags | 15% jam chance | Items: Buy Gun Back x1, Hunter's Insurance x1, Sand x1 | Effects:Hunter's Insurance
+21[2025-12-30 10:26:52] <@url> !shop
+16[2025-12-30 10:26:53] <@Quackbot> DuckHunt Shop: (1) Single Bullet - 5 XP | (2) Magazine - 15 XP | (3) Sand - 10 XP | (4) Gun Brush - 20 XP | (5) Bread - 50 XP | (6) Hunter's Insurance - 75 XP | (7) Buy Gun Back - 40 XP | (8) Bucket of Water - 25 XP | You have 653 XP
+21[2025-12-30 10:27:03] <@url> !shop 4
+18[2025-12-30 10:27:04] <@Quackbot> url > Successfully purchased Gun Brush for 20 XP! Stored in inventory (x1). Remaining XP: 633
+21[2025-12-30 10:27:05] <@url> !shop 4
+18[2025-12-30 10:27:05] <@Quackbot> url > Successfully purchased Gun Brush for 20 XP! Stored in inventory (x2). Remaining XP: 613
+21[2025-12-30 10:27:06] <@url> !shop 4
+18[2025-12-30 10:27:07] <@Quackbot> url > Successfully purchased Gun Brush for 20 XP! Stored in inventory (x3). Remaining XP: 593
+21[2025-12-30 10:27:10] <@url> @use 4
+21[2025-12-30 10:27:13] <@url> !use 4
+18[2025-12-30 10:27:14] <@Quackbot> url > Used Gun Brush! (2 remaining)
+21[2025-12-30 10:27:16] <@url> !use 4
+18[2025-12-30 10:27:16] <@Quackbot> url > Used Gun Brush! (1 remaining)
+21[2025-12-30 10:27:18] <@url> !use 4
+18[2025-12-30 10:27:19] <@Quackbot> url > Used Gun Brush!
+21[2025-12-30 10:27:22] <@url> !duckstats
+18[2025-12-30 10:27:22] <@Quackbot> url: Lv4 Wetland Stalker | 93XP (Need 7 XP for Apex Predator) | 22 shot | 0 befriended | 100% accuracy | 71.0% hit rate | Armed | 5/6|3 mags | 0% jam chance | Items: Buy Gun Back x1, Hunter's Insurance x1, Sand x1 | Effects:Hunter's Insurance
+16[2025-12-30 11:31:33] <&ComputerTech> !duckstats
+16[2025-12-30 11:31:33] <@Quackbot> ComputerTech: Lv1 Duck Novice | XP (Need 50 XP for Pond Visitor) | 0 shot | 0 befriended | 75% accuracy | 0% hit rate | Armed | 6/6|3 mags | 15% jam chance
+16[2025-12-30 11:31:35] <&ComputerTech> !reload
+16[2025-12-30 11:31:35] <@Quackbot> ComputerTech > Your gun is already loaded!
+16[2025-12-30 11:31:37] <&ComputerTech> woo
+16[2025-12-30 14:41:52] <@Quackbot> -.,¸¸.-·°'`'°·-.,¸¸.-·°'`'°· \_O<   QUACK
+16[2025-12-30 14:42:13] <@Quackbot> \o< *whoosh* The fast duck is gone!
+16[2025-12-30 15:14:45] <@Quackbot> ・゜゜・。。・゜゜\_o< quack~
+16[2025-12-30 15:15:05] <@Quackbot> \o< Too slow! The fast duck has already escaped!
+21[2025-12-30 15:45:24] <@url> !duckstats
+18[2025-12-30 15:45:25] <@Quackbot> url: Lv4 Wetland Stalker | 93XP (Need 7 XP for Apex Predator) | 22 shot | 0 befriended | 100% accuracy | 71.0% hit rate | Armed | 5/6|3 mags | 0% jam chance | Items: Buy Gun Back x1, Hunter's Insurance x1, Sand x1 | Effects:Hunter's Insurance
+21[2025-12-30 15:45:45] <@url> !ducklaunch golden
+16[2025-12-30 15:45:46] <@Quackbot> ・゜゜・。。・゜゜\_O< QUACK!
+21[2025-12-30 15:45:52] <@url> !bang
+18[2025-12-30 15:45:52] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [3 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 15:45:54] <@url> !bang
+18[2025-12-30 15:45:55] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [2 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 15:45:56] <@url> !bang
+18[2025-12-30 15:45:56] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [1 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 15:45:57] <@url> !bang
+18[2025-12-30 15:45:57] <@Quackbot> url > *BANG* You killed the GOLDEN DUCK! [+60 xp] [Total ducks: 23]
+21[2025-12-30 15:46:51] <@url> !rearm url
+18[2025-12-30 15:46:52] <@Quackbot> [ADMIN] url has been rearmed by url
+21[2025-12-30 15:46:56] <@url> !ducklaunch golden
+16[2025-12-30 15:46:57] <@Quackbot> ・゜゜・。。・゜゜\_O< QUACK!
+21[2025-12-30 15:46:57] <@url> !bang
+18[2025-12-30 15:46:58] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [4 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 15:46:58] <@url> !bang
+18[2025-12-30 15:46:59] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [3 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 15:46:59] <@url> !bang
+18[2025-12-30 15:47:00] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [2 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 15:47:00] <@url> !bang
+18[2025-12-30 15:47:01] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [1 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 15:47:01] <@url> !bang
+18[2025-12-30 15:47:02] <@Quackbot> url > *BANG* You missed and hit computertech! [INSURANCE PROTECTED - No penalties]
+21[2025-12-30 15:47:02] <@url> !bang
+18[2025-12-30 15:47:03] <@Quackbot> url > *BANG* You killed the GOLDEN DUCK! [+75 xp] [Total ducks: 24]
+18[2025-12-30 15:47:03] <@Quackbot> url > The golden duck dropped a Single Bullet! [Added to inventory]
+21[2025-12-30 15:47:03] <@url> !bang
+18[2025-12-30 15:47:04] <@Quackbot> url > *click* You're out of ammo! Use !reload
+21[2025-12-30 15:47:05] <@url> !rearm url
+18[2025-12-30 15:47:06] <@Quackbot> [ADMIN] url has been rearmed by url
+21[2025-12-30 15:47:09] <@url> !ducklaunch golden
+16[2025-12-30 15:47:09] <@Quackbot> ・゜゜・。。・゜゜\_O< QUACK!
+21[2025-12-30 15:47:10] <@url> !bang
+18[2025-12-30 15:47:10] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [4 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 15:47:11] <@url> !bang
+18[2025-12-30 15:47:11] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [3 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 15:47:12] <@url> !bang
+18[2025-12-30 15:47:12] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [2 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 15:47:13] <@url> !bang
+18[2025-12-30 15:47:13] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [1 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 15:47:14] <@url> !bang
+18[2025-12-30 15:47:14] <@Quackbot> url > *BANG* You killed the GOLDEN DUCK! [+75 xp] [Total ducks: 25]
+21[2025-12-30 15:47:15] <@url> !bang
+18[2025-12-30 15:47:15] <@Quackbot> url > *BANG* What did you shoot at? There is no duck in the area... [GUN CONFISCATED]
+21[2025-12-30 15:47:18] <@url> !rearm url
+18[2025-12-30 15:47:19] <@Quackbot> [ADMIN] url has been rearmed by url
+21[2025-12-30 15:47:22] <@url> !ducklaunch golden
+16[2025-12-30 15:47:22] <@Quackbot> ・゜゜・。。・゜゜\_O< QUACK!
+21[2025-12-30 15:47:23] <@url> !bang
+18[2025-12-30 15:47:23] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [2 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 15:47:23] <@url> !bang
+18[2025-12-30 15:47:24] <@Quackbot> url > *click* Your gun jammed! [AMMO WASTED]
+21[2025-12-30 15:47:29] <@url> !bang
+18[2025-12-30 15:47:29] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [1 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 15:47:29] <@url> !bang
+18[2025-12-30 15:47:30] <@Quackbot> url > *BANG* You missed the duck! [-1 XP]
+21[2025-12-30 15:47:33] <@url> !bang
+18[2025-12-30 15:47:33] <@Quackbot> url > *BANG* You killed the GOLDEN DUCK! [+45 xp] [Total ducks: 26]
+18[2025-12-30 15:47:33] <@Quackbot> url > The golden duck dropped a Single Bullet! [Added to inventory]
+21[2025-12-30 15:47:34] <@url> !bang
+18[2025-12-30 15:47:34] <@Quackbot> url > *BANG* What did you shoot at? There is no duck in the area... [GUN CONFISCATED]
+21[2025-12-30 15:47:38] <@url> !rearm url
+18[2025-12-30 15:47:39] <@Quackbot> [ADMIN] url has been rearmed by url
+21[2025-12-30 15:47:42] <@url> !ducklaunch golden
+16[2025-12-30 15:47:43] <@Quackbot> \_O<  *q u a c k*  (respawned)
+21[2025-12-30 15:47:43] <@url> !bang
+18[2025-12-30 15:47:44] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [2 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 15:47:44] <@url> !bang
+18[2025-12-30 15:47:45] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [1 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 15:47:45] <@url> !bang
+18[2025-12-30 15:47:46] <@Quackbot> url > *BANG* You killed the GOLDEN DUCK! [+45 xp] [Total ducks: 27]
+18[2025-12-30 15:47:46] <@Quackbot> url > The golden duck dropped a Buy Gun Back! [Added to inventory]
+21[2025-12-30 15:47:46] <@url> !bang
+18[2025-12-30 15:47:47] <@Quackbot> url > *BANG* What did you shoot at? There is no duck in the area... [GUN CONFISCATED]
+21[2025-12-30 15:47:50] <@url> !rearm url
+18[2025-12-30 15:47:51] <@Quackbot> [ADMIN] url has been rearmed by url
+21[2025-12-30 15:47:55] <@url> !ducklaunch golden
+16[2025-12-30 15:47:55] <@Quackbot> ≋≋≋ \_O< ≋≋≋  QUACK!
+21[2025-12-30 15:47:56] <@url> !bang
+18[2025-12-30 15:47:56] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [2 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 15:47:57] <@url> !bang
+18[2025-12-30 15:47:57] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [1 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 15:47:58] <@url> !bang
+18[2025-12-30 15:47:58] <@Quackbot> url > *BANG* You missed the duck! [-1 XP]
+21[2025-12-30 15:48:02] <@url> !bang
+18[2025-12-30 15:48:03] <@Quackbot> url > *BANG* You killed the GOLDEN DUCK! [+45 xp] [Total ducks: 28]
+21[2025-12-30 15:48:04] <@url> !bang
+18[2025-12-30 15:48:04] <@Quackbot> url > *BANG* What did you shoot at? There is no duck in the area... [GUN CONFISCATED]
+21[2025-12-30 15:48:13] <@url> !rearm url
+18[2025-12-30 15:48:14] <@Quackbot> [ADMIN] url has been rearmed by url
+21[2025-12-30 15:48:17] <@url> !ducklaunch golden
+16[2025-12-30 15:48:18] <@Quackbot> ・゜゜・。。・゜゜\_o< quack~
+21[2025-12-30 15:48:18] <@url> !bang
+18[2025-12-30 15:48:19] <@Quackbot> url > *BANG* You missed the duck! [-1 XP]
+21[2025-12-30 15:48:23] <@url> !bang
+18[2025-12-30 15:48:23] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [3 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 15:48:24] <@url> !bang
+18[2025-12-30 15:48:24] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [2 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 15:48:25] <@url> !bang
+18[2025-12-30 15:48:25] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [1 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 15:48:26] <@url> !bang
+18[2025-12-30 15:48:26] <@Quackbot> url > *BANG* You killed the GOLDEN DUCK! [+60 xp] [Total ducks: 29]
+21[2025-12-30 15:48:27] <@url> !bang
+18[2025-12-30 15:48:27] <@Quackbot> url > *BANG* What did you shoot at? There is no duck in the area... [GUN CONFISCATED]
+21[2025-12-30 15:48:33] <@url> !rearm url
+18[2025-12-30 15:48:33] <@Quackbot> [ADMIN] url has been rearmed by url
+21[2025-12-30 15:48:37] <@url> !ducklaunch golden
+16[2025-12-30 15:48:37] <@Quackbot> ≋≋≋ \_O< ≋≋≋  QUACK!
+21[2025-12-30 15:48:38] <@url> !bang
+18[2025-12-30 15:48:38] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [4 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 15:48:39] <@url> !bang
+18[2025-12-30 15:48:39] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [3 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 15:48:40] <@url> !bang
+18[2025-12-30 15:48:40] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [2 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 15:48:41] <@url> !bang
+18[2025-12-30 15:48:41] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [1 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 15:48:42] <@url> !bang
+18[2025-12-30 15:48:42] <@Quackbot> url > *BANG* You killed the GOLDEN DUCK! [+75 xp] [Total ducks: 30]
+21[2025-12-30 15:48:43] <@url> !bang
+18[2025-12-30 15:48:43] <@Quackbot> url > *BANG* What did you shoot at? There is no duck in the area... [GUN CONFISCATED]
+21[2025-12-30 15:48:52] <@url> !rearm url
+18[2025-12-30 15:48:53] <@Quackbot> [ADMIN] url has been rearmed by url
+21[2025-12-30 15:48:57] <@url> !ducklaunch golden
+16[2025-12-30 15:48:57] <@Quackbot> ・゜゜・。。・゜゜\_O< QUACK!
+21[2025-12-30 15:48:57] <@url> !bang
+18[2025-12-30 15:48:58] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [4 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 15:48:58] <@url> !bang
+18[2025-12-30 15:48:59] <@Quackbot> url > *BANG* You missed the duck! [-1 XP]
+21[2025-12-30 15:49:03] <@url> !bang
+18[2025-12-30 15:49:03] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [3 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 15:49:04] <@url> !bang
+18[2025-12-30 15:49:04] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [2 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 15:49:05] <@url> !bang
+18[2025-12-30 15:49:05] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [1 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 15:49:06] <@url> !bang
+18[2025-12-30 15:49:06] <@Quackbot> url > *BANG* You missed the duck! [-1 XP]
+21[2025-12-30 15:49:10] <@url> !bang
+18[2025-12-30 15:49:10] <@Quackbot> url > *click* You're out of ammo! Use !reload
+21[2025-12-30 15:49:15] <@url> !rearm url
+18[2025-12-30 15:49:16] <@Quackbot> [ADMIN] url has been rearmed by url
+21[2025-12-30 15:49:20] <@url> !bang
+18[2025-12-30 15:49:20] <@Quackbot> url > *BANG* You killed the GOLDEN DUCK! [+75 xp] [Total ducks: 31]
+18[2025-12-30 15:49:20] <@Quackbot> url > The golden duck dropped a Magazine! [Added to inventory]
+21[2025-12-30 15:49:21] <@url> !bang
+18[2025-12-30 15:49:21] <@Quackbot> url > *BANG* What did you shoot at? There is no duck in the area... [GUN CONFISCATED]
+21[2025-12-30 15:49:25] <@url> !rearm url
+18[2025-12-30 15:49:25] <@Quackbot> [ADMIN] url has been rearmed by url
+21[2025-12-30 15:49:29] <@url> !ducklaunch golden
+16[2025-12-30 15:49:29] <@Quackbot> ..::: \_O< :::..  QUACK!
+21[2025-12-30 15:49:30] <@url> !bang
+18[2025-12-30 15:49:30] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [4 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 15:49:30] <@url> !bang
+18[2025-12-30 15:49:31] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [3 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 15:49:31] <@url> !bang
+18[2025-12-30 15:49:32] <@Quackbot> url > *BANG* You missed the duck! [-1 XP]
+21[2025-12-30 15:49:40] <@url> !bang
+18[2025-12-30 15:49:40] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [2 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 15:49:41] <@url> !bang
+18[2025-12-30 15:49:41] <@Quackbot> url > *BANG* You shot a GOLDEN DUCK! [1 HP remaining] [+15 xp] [Total ducks: 0]
+21[2025-12-30 15:49:42] <@url> !bang
+18[2025-12-30 15:49:42] <@Quackbot> url > *BANG* You killed the GOLDEN DUCK! [+75 xp] [Total ducks: 32]
+21[2025-12-30 15:49:43] <@url> !bang
+18[2025-12-30 15:49:43] <@Quackbot> url > *click* You're out of ammo! Use !reload
+21[2025-12-30 15:49:53] <@url> !topduck
+18[2025-12-30 15:49:53] <@Quackbot> Top XP:  #1 url:1216XP | #2 end3r:170XP | #3 fffejjj:104XP
+18[2025-12-30 15:49:53] <@Quackbot> Top Hunters:  #1 url:32 | #2 fffejjj:11 | #3 end3r:9
+21[2025-12-30 15:50:07] <@url> !duckstats
+18[2025-12-30 15:50:07] <@Quackbot> url: Lv6 Duck Whisperer | 216XP (Need 784 XP for Legendary Hunter) | 32 shot | 0 befriended | 100% accuracy | 58.2% hit rate | Armed | 0/6|3 mags | 0% jam chance | Items: Buy Gun Back x2, Hunter's Insurance x1, Sand x1, Single Bullet x2, Magazine x1 | Effects:Hunter's Insurance
+21[2025-12-30 15:50:16] <@url> !use 1
+18[2025-12-30 15:50:16] <@Quackbot> url > Used Single Bullet! (1 remaining)
+21[2025-12-30 15:50:27] <@url> !reload
+18[2025-12-30 15:50:27] <@Quackbot> url > *click* New magazine loaded! [Ammo: 6/6] [Spare magazines: 1]
+21[2025-12-30 15:50:37] <@url> !use 2
+18[2025-12-30 15:50:37] <@Quackbot> url > Used Magazine!

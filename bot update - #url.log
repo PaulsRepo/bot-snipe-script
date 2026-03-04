@@ -1,0 +1,776 @@
+16[2026-02-22 22:47:08] *** [#url] Inventory check: Buy Gun Back x2
+24[2026-02-23 00:00:00] * Day changed to Monday, 23. Feb 2026
+16[2026-02-23 03:45:04] <DuckHunt> ≋≋≋ \_O< ≋≋≋  QUACK!
+21[2026-02-23 03:45:05] <@url> !bang
+18[2026-02-23 03:45:06] <DuckHunt> url > *BANG* You shot a FAST DUCK! [+12 xp] [Total ducks: 243]
+21[2026-02-23 04:08:05] <@url> !duckstats
+18[2026-02-23 04:08:05] <DuckHunt> url: Lv6 Duck Whisperer | 208XP (Need 792 XP for Legendary Hunter) | 243 shot | 0 befriended | 100% accuracy | 75.2% hit rate | Armed | 2/6|3 mags | 0% jam chance | Items: Magazine x10, Buy Gun Back x2
+16[2026-02-23 04:08:05] *** [#url] DEBUG: Items string: Magazine x10, Buy Gun Back x2
+16[2026-02-23 04:08:05] *** [#url] Inventory check: Buy Gun Back x2
+21[2026-02-23 04:08:13] <@url> !reload
+18[2026-02-23 04:08:14] <DuckHunt> url > *click* New magazine loaded! [Ammo: 6/6] [Spare magazines: 1]
+21[2026-02-23 04:08:19] <@url> !use 2
+18[2026-02-23 04:08:20] <DuckHunt> url > Used Magazine! (9 remaining)
+21[2026-02-23 04:08:20] <@url> !use 2
+18[2026-02-23 04:08:21] <DuckHunt> url > Already at maximum magazines (3) for current level!
+21[2026-02-23 04:08:26] <@url> !duckstats
+18[2026-02-23 04:08:27] <DuckHunt> url: Lv6 Duck Whisperer | 208XP (Need 792 XP for Legendary Hunter) | 243 shot | 0 befriended | 100% accuracy | 75.2% hit rate | Armed | 6/6|3 mags | 0% jam chance | Items: Magazine x9, Buy Gun Back x2
+16[2026-02-23 04:08:27] *** [#url] DEBUG: Items string: Magazine x9, Buy Gun Back x2
+16[2026-02-23 04:08:27] *** [#url] Inventory check: Buy Gun Back x2
+16[2026-02-23 06:49:21] *** DuckHunt Auto-Reply: ENABLED (Channel: #url only)
+16[2026-02-23 06:49:21] *** Retry on miss: DISABLED
+21[2026-02-23 06:49:23] <@url> !duckstats
+18[2026-02-23 06:49:24] <DuckHunt> url: Lv6 Duck Whisperer | 208XP (Need 792 XP for Legendary Hunter) | 243 shot | 0 befriended | 100% accuracy | 75.2% hit rate | Armed | 6/6|3 mags | 0% jam chance | Items: Magazine x9, Buy Gun Back x2
+16[2026-02-23 06:49:24] *** [#url] DEBUG: Items string: Magazine x9, Buy Gun Back x2
+16[2026-02-23 06:49:24] *** [#url] Inventory check: Buy Gun Back x2
+16[2026-02-23 06:49:28] *** Retry on miss: ENABLED (Warning: Can hit bystanders!)
+16[2026-02-23 07:16:42] <DuckHunt> ..::: \_O< :::..  QUACK!
+21[2026-02-23 07:16:43] <@url> !bang
+18[2026-02-23 07:16:44] <DuckHunt> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 244]
+16[2026-02-23 08:16:27] <DuckHunt> ・゜゜・。。・゜゜\_O> *flap flap*
+21[2026-02-23 08:16:28] <@url> !bang
+18[2026-02-23 08:16:29] <DuckHunt> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 245]
+21[2026-02-23 08:18:58] <@url> !duckstats
+18[2026-02-23 08:18:58] <DuckHunt> url: Lv6 Duck Whisperer | 228XP (Need 772 XP for Legendary Hunter) | 245 shot | 0 befriended | 100% accuracy | 75.4% hit rate | Armed | 4/6|3 mags | 0% jam chance | Items: Magazine x9, Buy Gun Back x2
+16[2026-02-23 08:18:58] *** [#url] DEBUG: Items string: Magazine x9, Buy Gun Back x2
+16[2026-02-23 08:18:58] *** [#url] Inventory check: Buy Gun Back x2
+16[2026-02-23 12:24:34] <DuckHunt> ..::: \_O< :::..  QUACK!
+16[2026-02-23 12:24:34] *** [#url] DUCK SPAWNED
+21[2026-02-23 12:24:35] <@url> !bang
+18[2026-02-23 12:24:35] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [4 HP remaining] [+15 xp] [Total ducks: 0]
+16[2026-02-23 12:24:35] *** [#url] HIT! Duck HP: 4
+21[2026-02-23 12:24:36] <@url> !bang
+18[2026-02-23 12:24:37] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [3 HP remaining] [+15 xp] [Total ducks: 0]
+16[2026-02-23 12:24:37] *** [#url] HIT! Duck HP: 3
+21[2026-02-23 12:24:38] <@url> !bang
+18[2026-02-23 12:24:39] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [2 HP remaining] [+15 xp] [Total ducks: 0]
+16[2026-02-23 12:24:39] *** [#url] HIT! Duck HP: 2
+21[2026-02-23 12:24:40] <@url> !bang
+18[2026-02-23 12:24:40] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [1 HP remaining] [+15 xp] [Total ducks: 0]
+16[2026-02-23 12:24:40] *** [#url] HIT! Duck HP: 1
+21[2026-02-23 12:24:41] <@url> !bang
+18[2026-02-23 12:24:42] <DuckHunt> url > *click* You're out of ammo! Use !reload
+16[2026-02-23 12:24:42] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-23 12:24:42] <@url> !reload
+18[2026-02-23 12:24:43] <DuckHunt> url > *click* New magazine loaded! [Ammo: 6/6] [Spare magazines: 1]
+21[2026-02-23 12:25:05] <@url> !bang
+18[2026-02-23 12:25:06] <DuckHunt> url > *click* Your gun jammed! [AMMO WASTED]
+16[2026-02-23 12:25:06] *** [#url] GUN JAMMED - RETRYING
+21[2026-02-23 12:25:07] <@url> !bang
+18[2026-02-23 12:25:08] <DuckHunt> url > *BANG* You missed the duck! [-1 XP]
+16[2026-02-23 12:25:08] *** [#url] MISSED THE DUCK
+16[2026-02-23 12:25:08] *** [#url] RETRYING (retry enabled)
+21[2026-02-23 12:25:09] <@url> !bang
+18[2026-02-23 12:25:09] <DuckHunt> url > *click* Your gun jammed! [AMMO WASTED]
+16[2026-02-23 12:25:09] *** [#url] GUN JAMMED - RETRYING
+21[2026-02-23 12:25:10] <@url> !bang
+18[2026-02-23 12:25:11] <DuckHunt> url > *BANG* You missed the duck! [-1 XP]
+16[2026-02-23 12:25:11] *** [#url] MISSED THE DUCK
+16[2026-02-23 12:25:11] *** [#url] RETRYING (retry enabled)
+21[2026-02-23 12:25:12] <@url> !bang
+18[2026-02-23 12:25:13] <DuckHunt> url > *BANG* You killed the GOLDEN DUCK! [+75 xp] [Total ducks: 246]
+16[2026-02-23 12:25:13] *** [#url] DUCK KILLED - STOPPING
+18[2026-02-23 12:25:13] <DuckHunt> url > The golden duck dropped a Hunter's Insurance! [Added to inventory]
+21[2026-02-23 12:25:25] <@url> !shop
+16[2026-02-23 12:25:25] <DuckHunt> DuckHunt Shop: (1) Single Bullet - 5 XP | (2) Magazine - 15 XP | (3) Sand - 10 XP | (4) Gun Brush - 20 XP | (5) Bread - 50 XP | (6) Hunter's Insurance - 75 XP | (7) Buy Gun Back - 40 XP | (8) Bucket of Water - 25 XP | You have 1301 XP
+21[2026-02-23 12:25:34] <@url> !duckstats
+18[2026-02-23 12:25:35] <DuckHunt> url: Lv6 Duck Whisperer | 301XP (Need 699 XP for Legendary Hunter) | 246 shot | 0 befriended | 97% accuracy | 75.0% hit rate | Armed | 1/6|2 mags | 0% jam chance | Items: Magazine x9, Buy Gun Back x2, Hunter's Insurance x1
+16[2026-02-23 12:25:35] *** [#url] DEBUG: Items string: Magazine x9, Buy Gun Back x2, Hunter's Insurance x1
+16[2026-02-23 12:25:35] *** [#url] Inventory check: Buy Gun Back x2
+21[2026-02-23 12:25:41] <@url> !reload
+18[2026-02-23 12:25:41] <DuckHunt> url > *click* New magazine loaded! [Ammo: 6/6] [Spare magazines: 0]
+21[2026-02-23 12:25:46] <@url> !use 2
+18[2026-02-23 12:25:46] <DuckHunt> url > Used Magazine! (8 remaining)
+21[2026-02-23 12:25:48] <@url> !use 2
+18[2026-02-23 12:25:48] <DuckHunt> url > Used Magazine! (7 remaining)
+21[2026-02-23 12:25:50] <@url> !use 2
+18[2026-02-23 12:25:51] <DuckHunt> url > Already at maximum magazines (3) for current level!
+21[2026-02-23 12:25:55] <@url> !use 7
+18[2026-02-23 12:25:56] <DuckHunt> url > Your gun is not confiscated. (1 remaining)
+16[2026-02-23 12:25:56] *** [#url] Gun is OK (not confiscated)
+21[2026-02-23 12:26:07] <@url> !use 6
+18[2026-02-23 12:26:08] <DuckHunt> url > You activated Hunter's Insurance! Protected from friendly fire penalties for 24 hours.
+21[2026-02-23 12:26:14] <@url> !duckstats
+18[2026-02-23 12:26:15] <DuckHunt> url: Lv6 Duck Whisperer | 301XP (Need 699 XP for Legendary Hunter) | 246 shot | 0 befriended | 97% accuracy | 75.0% hit rate | Armed | 6/6|3 mags | 0% jam chance | Items: Magazine x7, Buy Gun Back x1 | Effects:Hunter's Insurance
+16[2026-02-23 12:26:15] *** [#url] DEBUG: Items string: Magazine x7, Buy Gun Back x1 | Effects:Hunter's Insurance
+16[2026-02-23 12:26:15] *** [#url] Inventory check: Buy Gun Back x1
+16[2026-02-23 14:56:10] <DuckHunt> ・゜゜・。。・゜゜\_O< QUACK!
+16[2026-02-23 14:56:10] *** [#url] DUCK SPAWNED
+21[2026-02-23 14:56:11] <@url> !bang
+18[2026-02-23 14:56:11] <DuckHunt> url > *BANG* You missed the duck! [-1 XP]
+16[2026-02-23 14:56:11] *** [#url] MISSED THE DUCK
+16[2026-02-23 14:56:11] *** [#url] RETRYING (retry enabled)
+21[2026-02-23 14:56:12] <@url> !bang
+18[2026-02-23 14:56:13] <DuckHunt> url > *BANG* You shot a FAST DUCK! [+12 xp] [Total ducks: 247]
+16[2026-02-23 14:56:13] *** [#url] DUCK KILLED
+24[2026-02-23 15:15:06] * Disconnected..
+16[2026-02-23 15:15:06] *** DuckHunt: Timers cleared on disconnect
+16[2026-02-23 15:15:09] *** DuckHunt: Timers cleared on disconnect
+16[2026-02-23 15:15:10] *** DuckHunt: Timers cleared on disconnect
+24[2026-02-23 15:15:43] * Rejoined #url
+25[2026-02-23 15:15:43] * Now talking in: #url
+16[2026-02-23 16:47:15] *** DuckHunt Auto-Reply: ENABLED (Channel: #url only)
+16[2026-02-23 16:47:15] *** Retry on miss: DISABLED
+21[2026-02-23 16:47:17] <@url> !duckstats
+18[2026-02-23 16:47:18] <DuckHunt> url: Lv6 Duck Whisperer | 312XP (Need 688 XP for Legendary Hunter) | 247 shot | 0 befriended | 96% accuracy | 74.8% hit rate | Armed | 4/6|3 mags | 0% jam chance | Items: Magazine x7, Buy Gun Back x1 | Effects:Hunter's Insurance
+16[2026-02-23 16:47:18] *** [#url] DEBUG: Items string: Magazine x7, Buy Gun Back x1 | Effects:Hunter's Insurance
+16[2026-02-23 16:47:18] *** [#url] Inventory check: Buy Gun Back x1
+16[2026-02-23 16:47:22] *** Retry on miss: ENABLED (Warning: Can hit bystanders!)
+16[2026-02-23 17:07:47] <DuckHunt> -.,¸¸.-·°'`'°·-.,¸¸.-·°'`'°· \_O<   QUACK
+16[2026-02-23 17:07:47] *** [#url] DUCK SPAWNED
+21[2026-02-23 17:07:48] <@url> !bang
+18[2026-02-23 17:07:49] <DuckHunt> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 248]
+16[2026-02-23 17:07:49] *** [#url] DUCK KILLED
+21[2026-02-23 17:29:09] <@url> !duckstats
+18[2026-02-23 17:29:10] <DuckHunt> url: Lv6 Duck Whisperer | 322XP (Need 678 XP for Legendary Hunter) | 248 shot | 0 befriended | 97% accuracy | 74.9% hit rate | Armed | 3/6|3 mags | 0% jam chance | Items: Magazine x7, Buy Gun Back x1 | Effects:Hunter's Insurance
+16[2026-02-23 17:29:10] *** [#url] DEBUG: Items string: Magazine x7, Buy Gun Back x1 | Effects:Hunter's Insurance
+16[2026-02-23 17:29:10] *** [#url] Inventory check: Buy Gun Back x1
+16[2026-02-23 18:04:15] <DuckHunt> ・゜゜・。。・゜゜\_O< QUACK!
+21[2026-02-23 18:04:16] <@url> !bang
+18[2026-02-23 18:04:16] <DuckHunt> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 249]
+18[2026-02-23 18:04:16] <DuckHunt> url > The duck dropped a Magazine! [Added to inventory]
+16[2026-02-23 18:44:24] <DuckHunt> ・゜゜・。。・゜゜\_O< QUACK!
+21[2026-02-23 18:44:25] <@url> !bang
+18[2026-02-23 18:44:26] <DuckHunt> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 250]
+21[2026-02-23 18:53:22] <@url> !duckstats
+18[2026-02-23 18:53:22] <DuckHunt> url: Lv6 Duck Whisperer | 342XP (Need 658 XP for Legendary Hunter) | 250 shot | 0 befriended | 99% accuracy | 75.1% hit rate | Armed | 1/6|3 mags | 0% jam chance | Items: Magazine x8, Buy Gun Back x1 | Effects:Hunter's Insurance
+16[2026-02-23 18:53:22] *** [#url] DEBUG: Items string: Magazine x8, Buy Gun Back x1 | Effects:Hunter's Insurance
+16[2026-02-23 18:53:22] *** [#url] Inventory check: Buy Gun Back x1
+21[2026-02-23 18:53:31] <@url> !reload
+18[2026-02-23 18:53:32] <DuckHunt> url > *click* New magazine loaded! [Ammo: 6/6] [Spare magazines: 1]
+21[2026-02-23 18:53:37] <@url> !use 2
+18[2026-02-23 18:53:38] <DuckHunt> url > Used Magazine! (7 remaining)
+21[2026-02-23 18:53:40] <@url> !use 2
+18[2026-02-23 18:53:40] <DuckHunt> url > Already at maximum magazines (3) for current level!
+21[2026-02-23 18:54:01] <@url> !shop 7
+18[2026-02-23 18:54:01] <DuckHunt> url > Successfully purchased Buy Gun Back for 40 XP! Stored in inventory (x2). Remaining XP: 1302
+16[2026-02-23 18:54:01] *** [#url] PURCHASED Buy Gun Back (now have: 2)
+16[2026-02-23 18:54:01] *** [#url] Buy Gun Back stored in inventory (not using it unless confiscated)
+21[2026-02-23 18:54:15] <@url> !shop 7
+18[2026-02-23 18:54:15] <DuckHunt> url > Successfully purchased Buy Gun Back for 40 XP! Stored in inventory (x3). Remaining XP: 1262
+16[2026-02-23 18:54:15] *** [#url] PURCHASED Buy Gun Back (now have: 3)
+16[2026-02-23 18:54:15] *** [#url] Buy Gun Back stored in inventory (not using it unless confiscated)
+21[2026-02-23 18:54:22] <@url> !duckstats
+18[2026-02-23 18:54:23] <DuckHunt> url: Lv6 Duck Whisperer | 262XP (Need 738 XP for Legendary Hunter) | 250 shot | 0 befriended | 99% accuracy | 75.1% hit rate | Armed | 6/6|3 mags | 0% jam chance | Items: Magazine x7, Buy Gun Back x3 | Effects:Hunter's Insurance
+16[2026-02-23 18:54:23] *** [#url] DEBUG: Items string: Magazine x7, Buy Gun Back x3 | Effects:Hunter's Insurance
+16[2026-02-23 18:54:23] *** [#url] Inventory check: Buy Gun Back x3
+16[2026-02-23 19:14:13] <DuckHunt> \_O< ≫ Q U A C K ≪
+21[2026-02-23 19:14:14] <@url> !bang
+18[2026-02-23 19:14:15] <DuckHunt> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 251]
+18[2026-02-23 19:14:15] <DuckHunt> url > The duck dropped a Magazine! [Added to inventory]
+21[2026-02-23 19:14:42] <@url> !duckstats
+18[2026-02-23 19:14:42] <DuckHunt> url: Lv6 Duck Whisperer | 272XP (Need 728 XP for Legendary Hunter) | 251 shot | 0 befriended | 100% accuracy | 75.1% hit rate | Armed | 5/6|3 mags | 0% jam chance | Items: Magazine x8, Buy Gun Back x3 | Effects:Hunter's Insurance
+16[2026-02-23 19:14:42] *** [#url] DEBUG: Items string: Magazine x8, Buy Gun Back x3 | Effects:Hunter's Insurance
+16[2026-02-23 19:14:42] *** [#url] Inventory check: Buy Gun Back x3
+16[2026-02-23 19:49:44] <DuckHunt> ・゜゜・。。・゜゜\_o< quack~
+16[2026-02-23 19:49:44] *** [#url] DUCK SPAWNED
+21[2026-02-23 19:49:45] <@url> !bang
+18[2026-02-23 19:49:45] <DuckHunt> url > *BANG* You shot a FAST DUCK! [+12 xp] [Total ducks: 252]
+16[2026-02-23 19:49:45] *** [#url] DUCK KILLED
+16[2026-02-23 21:24:12] <DuckHunt> ・゜゜・。。・゜゜\_o< quack~
+21[2026-02-23 21:24:13] <@url> !bang
+18[2026-02-23 21:24:13] <DuckHunt> url > *BANG* You missed the duck! [-1 XP]
+21[2026-02-23 21:24:14] <@url> !bang
+18[2026-02-23 21:24:15] <DuckHunt> url > *BANG* You shot a FAST DUCK! [+12 xp] [Total ducks: 253]
+16[2026-02-23 23:18:35] <DuckHunt> ・゜゜・。。・゜゜\_O> *flap flap*
+21[2026-02-23 23:18:36] <@url> !bang
+18[2026-02-23 23:18:37] <DuckHunt> url > *BANG* You shot a FAST DUCK! [+12 xp] [Total ducks: 254]
+16[2026-02-23 23:54:18] <DuckHunt> ・゜゜・。。・゜゜\_O< QUACK!
+21[2026-02-23 23:54:19] <@url> !bang
+18[2026-02-23 23:54:20] <DuckHunt> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 255]
+21[2026-02-23 23:55:54] <@url> !duckstats
+18[2026-02-23 23:55:55] <DuckHunt> url: Lv6 Duck Whisperer | 317XP (Need 683 XP for Legendary Hunter) | 255 shot | 0 befriended | 100% accuracy | 75.2% hit rate | Armed | 0/6|3 mags | 0% jam chance | Items: Magazine x8, Buy Gun Back x3 | Effects:Hunter's Insurance
+16[2026-02-23 23:55:55] *** [#url] DEBUG: Items string: Magazine x8, Buy Gun Back x3 | Effects:Hunter's Insurance
+16[2026-02-23 23:55:55] *** [#url] Inventory check: Buy Gun Back x3
+21[2026-02-23 23:56:03] <@url> !reload
+18[2026-02-23 23:56:03] <DuckHunt> url > *click* New magazine loaded! [Ammo: 6/6] [Spare magazines: 1]
+21[2026-02-23 23:56:10] <@url> !use 2
+18[2026-02-23 23:56:10] <DuckHunt> url > Used Magazine! (7 remaining)
+21[2026-02-23 23:56:11] <@url> !use 2
+18[2026-02-23 23:56:12] <DuckHunt> url > Already at maximum magazines (3) for current level!
+21[2026-02-23 23:56:17] <@url> !duckstats
+18[2026-02-23 23:56:17] <DuckHunt> url: Lv6 Duck Whisperer | 317XP (Need 683 XP for Legendary Hunter) | 255 shot | 0 befriended | 100% accuracy | 75.2% hit rate | Armed | 6/6|3 mags | 0% jam chance | Items: Magazine x7, Buy Gun Back x3 | Effects:Hunter's Insurance
+16[2026-02-23 23:56:18] *** [#url] DEBUG: Items string: Magazine x7, Buy Gun Back x3 | Effects:Hunter's Insurance
+16[2026-02-23 23:56:18] *** [#url] Inventory check: Buy Gun Back x3
+24[2026-02-24 00:00:00] * Day changed to Tuesday, 24. Feb 2026
+16[2026-02-24 00:30:34] <DuckHunt> ⟦\_O<⟧  Q U A C K
+16[2026-02-24 00:30:34] *** [#url] DUCK SPAWNED
+21[2026-02-24 00:30:35] <@url> !bang
+18[2026-02-24 00:30:35] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [3 HP remaining] [+15 xp] [Total ducks: 0]
+16[2026-02-24 00:30:35] *** [#url] HIT! Duck HP: 3
+21[2026-02-24 00:30:36] <@url> !bang
+18[2026-02-24 00:30:37] <DuckHunt> url > *BANG* You missed and hit antitheus! [INSURANCE PROTECTED - No penalties]
+16[2026-02-24 00:30:37] *** [#url] MISSED AND HIT SOMEONE - HANDLING CONFISCATION NOW
+16[2026-02-24 00:30:37] *** [#url] Using Buy Gun Back from inventory (3 available)
+21[2026-02-24 00:30:38] <@url> !use 7
+18[2026-02-24 00:30:39] <DuckHunt> url > Your gun is not confiscated. (2 remaining)
+16[2026-02-24 00:30:39] *** [#url] Gun is OK (not confiscated)
+21[2026-02-24 00:31:08] <@url> !bang
+18[2026-02-24 00:31:09] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [2 HP remaining] [+15 xp] [Total ducks: 0]
+16[2026-02-24 00:31:09] *** [#url] HIT! Duck HP: 2
+21[2026-02-24 00:31:12] <@url> !bang
+18[2026-02-24 00:31:12] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [1 HP remaining] [+15 xp] [Total ducks: 0]
+16[2026-02-24 00:31:12] *** [#url] HIT! Duck HP: 1
+21[2026-02-24 00:31:14] <@url> !bang
+18[2026-02-24 00:31:15] <DuckHunt> url > *BANG* You killed the GOLDEN DUCK! [+60 xp] [Total ducks: 256]
+16[2026-02-24 00:31:15] *** [#url] DUCK KILLED - STOPPING
+21[2026-02-24 00:31:19] <@url> !duckstats
+18[2026-02-24 00:31:19] <DuckHunt> url: Lv6 Duck Whisperer | 376XP (Need 624 XP for Legendary Hunter) | 256 shot | 0 befriended | 100% accuracy | 75.1% hit rate | Armed | 1/6|3 mags | 0% jam chance | Items: Magazine x7, Buy Gun Back x2 | Effects:Hunter's Insurance
+16[2026-02-24 00:31:19] *** [#url] DEBUG: Items string: Magazine x7, Buy Gun Back x2 | Effects:Hunter's Insurance
+16[2026-02-24 00:31:19] *** [#url] Inventory check: Buy Gun Back x2
+21[2026-02-24 00:31:37] <@url> !reload
+18[2026-02-24 00:31:38] <DuckHunt> url > *click* New magazine loaded! [Ammo: 6/6] [Spare magazines: 1]
+21[2026-02-24 00:31:44] <@url> !use 2
+18[2026-02-24 00:31:44] <DuckHunt> url > Used Magazine! (6 remaining)
+21[2026-02-24 00:31:50] <@url> !use 2
+18[2026-02-24 00:31:51] <DuckHunt> url > Already at maximum magazines (3) for current level!
+21[2026-02-24 00:31:54] <@url> !duckstats
+18[2026-02-24 00:31:55] <DuckHunt> url: Lv6 Duck Whisperer | 376XP (Need 624 XP for Legendary Hunter) | 256 shot | 0 befriended | 100% accuracy | 75.1% hit rate | Armed | 6/6|3 mags | 0% jam chance | Items: Magazine x6, Buy Gun Back x2 | Effects:Hunter's Insurance
+16[2026-02-24 00:31:55] *** [#url] DEBUG: Items string: Magazine x6, Buy Gun Back x2 | Effects:Hunter's Insurance
+16[2026-02-24 00:31:55] *** [#url] Inventory check: Buy Gun Back x2
+21[2026-02-24 00:32:09] <@url> !shop 2
+18[2026-02-24 00:32:09] <DuckHunt> url > Successfully purchased Magazine for 15 XP! Stored in inventory (x7). Remaining XP: 1361
+21[2026-02-24 00:32:10] <@url> !shop 2
+18[2026-02-24 00:32:10] <DuckHunt> url > Successfully purchased Magazine for 15 XP! Stored in inventory (x8). Remaining XP: 1346
+21[2026-02-24 00:32:11] <@url> !shop 2
+18[2026-02-24 00:32:11] <DuckHunt> url > Successfully purchased Magazine for 15 XP! Stored in inventory (x9). Remaining XP: 1331
+21[2026-02-24 00:32:11] <@url> !shop 2
+21[2026-02-24 00:32:12] <@url> !shop 2
+18[2026-02-24 00:32:12] <DuckHunt> url > Successfully purchased Magazine for 15 XP! Stored in inventory (x10). Remaining XP: 1316
+18[2026-02-24 00:32:12] <DuckHunt> url > Successfully purchased Magazine for 15 XP! Stored in inventory (x11). Remaining XP: 1301
+21[2026-02-24 00:32:17] <@url> !duckstats
+18[2026-02-24 00:32:17] <DuckHunt> url: Lv6 Duck Whisperer | 301XP (Need 699 XP for Legendary Hunter) | 256 shot | 0 befriended | 100% accuracy | 75.1% hit rate | Armed | 6/6|3 mags | 0% jam chance | Items: Magazine x11, Buy Gun Back x2 | Effects:Hunter's Insurance
+16[2026-02-24 00:32:17] *** [#url] DEBUG: Items string: Magazine x11, Buy Gun Back x2 | Effects:Hunter's Insurance
+16[2026-02-24 00:32:17] *** [#url] Inventory check: Buy Gun Back x2
+21[2026-02-24 03:27:08] <@url> !duckstats
+16[2026-02-24 03:27:25] *** DuckHunt Auto-Reply: ENABLED (Channel: #url only)
+16[2026-02-24 03:27:26] *** Retry on miss: DISABLED
+21[2026-02-24 03:27:28] <@url> !duckstats
+16[2026-02-24 03:27:34] *** Retry on miss: ENABLED (Warning: Can hit bystanders!)
+21[2026-02-24 03:27:41] <@url> !duckstats
+16[2026-02-24 04:10:57] <End3r> happy?
+21[2026-02-24 04:11:04] <@url> legend
+21[2026-02-24 04:11:08] <@url> thank you!!!
+16[2026-02-24 04:11:53] *** Retry on miss: ENABLED (Warning: Can hit bystanders!)
+21[2026-02-24 04:12:04] <@url> !duckstats
+18[2026-02-24 04:12:05] <DuckHunt> url: Lv6 Duck Whisperer | 1301XP (Need 699 XP for Legendary Hunter) | 256 shot | 0 befriended | 100% accuracy | 75.1% hit rate | Armed | 6/6|3 mags | 0% jam chance | Items: Magazine x11, Buy Gun Back x2 | Effects:Hunter's Insurance
+16[2026-02-24 04:12:05] *** [#url] DEBUG: Items string: Magazine x11, Buy Gun Back x2 | Effects:Hunter's Insurance
+16[2026-02-24 04:12:05] *** [#url] Inventory check: Buy Gun Back x2
+21[2026-02-24 04:12:10] <@url> !shop
+16[2026-02-24 04:12:11] <DuckHunt> DuckHunt Shop: (1) Single Bullet - 5 XP | (2) Magazine - 15 XP | (3) Sand - 10 XP | (4) Gun Brush - 20 XP | (5) Bread - 50 XP | (6) Hunter's Insurance - 75 XP | (7) Buy Gun Back - 40 XP | (8) Bucket of Water - 25 XP | (9) Dry Clothes - 30 XP | (10) 4-Leaf Clover - 250 XP | (11) Binoculars - 30 XP | (12) Hunting Dog - 80 XP | (13) Scope - 60 XP | (14) Body Armor - 100 XP | (15) Decoy Trap - 45 XP |
+16[2026-02-24 04:12:11] <DuckHunt> (16) Mystery Box - 35 XP | You have 1301 XP
+21[2026-02-24 04:12:59] <@url> !shop 12
+18[2026-02-24 04:13:00] <DuckHunt> url > Successfully purchased Hunting Dog for 80 XP! Stored in inventory (x1). Remaining XP: 1221
+21[2026-02-24 04:13:07] <@url> !use 12
+18[2026-02-24 04:13:08] <DuckHunt> url > Used Hunting Dog!
+21[2026-02-24 04:14:22] <@url> !shop 5
+18[2026-02-24 04:14:23] <DuckHunt> url > Successfully purchased Bread for 50 XP! Stored in inventory (x1). Remaining XP: 1171
+21[2026-02-24 04:14:27] <@url> !use 5
+18[2026-02-24 04:14:28] <DuckHunt> url > You scattered bread around the pond! Ducks will spawn 2.0x faster for 20 minutes.
+16[2026-02-24 04:36:02] *** DuckHunt Auto-Reply: ENABLED (Channel: #url only)
+16[2026-02-24 04:36:02] *** Retry on miss: DISABLED
+21[2026-02-24 04:36:04] <@url> !duckstats
+18[2026-02-24 04:36:05] <DuckHunt> url: Lv6 Duck Whisperer | 1171XP (Need 829 XP for Legendary Hunter) | 256 shot | 0 befriended | 100% accuracy | 75.1% hit rate | Armed | 6/6|3 mags | 0% jam chance | Items: Magazine x11, Buy Gun Back x2 | Effects:Hunter's Insurance,Hunting Dog
+16[2026-02-24 04:36:05] *** [#url] DEBUG: Items string: Magazine x11, Buy Gun Back x2 | Effects:Hunter's Insurance,Hunting Dog
+16[2026-02-24 04:36:05] *** [#url] Inventory check: Buy Gun Back x2
+16[2026-02-24 04:36:09] *** Retry on miss: ENABLED (Warning: Can hit bystanders!)
+16[2026-02-24 04:52:24] <DuckHunt> ·.¸¸.·´¯`·.¸¸.·´¯`·. \_O<  QUACK! [Weather: 🌧️ Rainy]
+21[2026-02-24 04:52:25] <@url> !bang
+18[2026-02-24 04:52:26] <DuckHunt> url > *click* Your gun jammed! [AMMO WASTED]
+21[2026-02-24 04:52:27] <@url> !bang
+18[2026-02-24 04:52:27] <DuckHunt> url > *BANG* You hit the FAST DUCK for 1 damage! It has 0 HP left. [+12 xp] [Total ducks: 257]
+18[2026-02-24 04:52:27] <DuckHunt> 🏆 url unlocked achievement: 🩸 First Blood — Shot your first duck!
+18[2026-02-24 04:52:27] <DuckHunt> 🏆 url unlocked achievement: 💯 Century Hunter — Shot 100 ducks!
+21[2026-02-24 04:53:24] <@url> !duckstats
+18[2026-02-24 04:53:24] <DuckHunt> url: Lv6 Duck Whisperer | 1183XP (Need 817 XP for Legendary Hunter) | 257 shot | 0 befriended | 100% accuracy | 75.1% hit rate | Armed | 4/6|3 mags | 0% jam chance | Items: Magazine x11, Buy Gun Back x2 | Effects:Hunter's Insurance,Hunting Dog
+16[2026-02-24 04:53:24] *** [#url] DEBUG: Items string: Magazine x11, Buy Gun Back x2 | Effects:Hunter's Insurance,Hunting Dog
+16[2026-02-24 04:53:24] *** [#url] Inventory check: Buy Gun Back x2
+16[2026-02-24 05:43:53] <DuckHunt> ·.¸¸.·´¯`·.¸¸.·´¯`·. \_O<  QUACK! [Weather: 🌧️ Rainy]
+21[2026-02-24 05:43:54] <@url> !bang
+18[2026-02-24 05:43:54] <DuckHunt> url > *BANG* You hit the GOLDEN DUCK for 1 damage! It has 4 HP left. [+15 xp] [Total ducks: 0]
+21[2026-02-24 05:44:20] <@url> !bang
+18[2026-02-24 05:44:21] <DuckHunt> url > *BANG* You hit the GOLDEN DUCK for 1 damage! It has 3 HP left. [+15 xp] [Total ducks: 0]
+21[2026-02-24 05:44:23] <@url> !bang
+18[2026-02-24 05:44:23] <DuckHunt> url > *BANG* You hit the GOLDEN DUCK for 1 damage! It has 2 HP left. [+15 xp] [Total ducks: 0]
+21[2026-02-24 05:44:25] <@url> !bang
+18[2026-02-24 05:44:26] <DuckHunt> url > *click* Your gun jammed! [AMMO WASTED]
+16[2026-02-24 05:44:26] *** [#url] GUN JAMMED - RETRYING
+21[2026-02-24 05:44:27] <@url> !bang
+18[2026-02-24 05:44:27] <DuckHunt> url > *click* You're out of ammo! Use !reload
+16[2026-02-24 05:44:27] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 05:44:27] <@url> !reload
+18[2026-02-24 05:44:28] <DuckHunt> url > *click* New magazine loaded! [Ammo: 6/6] [Spare magazines: 1]
+21[2026-02-24 05:44:36] <@url> !bang
+18[2026-02-24 05:44:36] <DuckHunt> url > *BANG* You hit the GOLDEN DUCK for 1 damage! It has 1 HP left. [+15 xp] [Total ducks: 0]
+21[2026-02-24 05:44:41] <@url> !bang
+18[2026-02-24 05:44:41] <DuckHunt> url > *BANG* You hit the GOLDEN DUCK for 1 damage! It has 0 HP left. [+75 xp] [Total ducks: 258]
+18[2026-02-24 05:44:41] <DuckHunt> 🏆 url unlocked achievement: 🥇 Golden Slayer — Killed a golden duck!
+16[2026-02-24 05:44:41] *** [#url] DUCK KILLED - STOPPING
+21[2026-02-24 05:44:50] <@url> !use 2
+18[2026-02-24 05:44:50] <DuckHunt> url > Used Magazine! (10 remaining)
+21[2026-02-24 05:45:01] <@url> !duckstats
+18[2026-02-24 05:45:01] <DuckHunt> url: Lv6 Duck Whisperer | 1258XP (Need 742 XP for Legendary Hunter) | 258 shot | 0 befriended | 100% accuracy | 75.2% hit rate | Armed | 4/6|3 mags | 0% jam chance | Items: Magazine x10, Buy Gun Back x2 | Effects:Hunter's Insurance
+16[2026-02-24 05:45:01] *** [#url] DEBUG: Items string: Magazine x10, Buy Gun Back x2 | Effects:Hunter's Insurance
+16[2026-02-24 05:45:01] *** [#url] Inventory check: Buy Gun Back x2
+21[2026-02-24 06:20:26] <@url> !profile
+18[2026-02-24 06:20:26] <DuckHunt> url > Profile sent to your PM! 📬
+21[2026-02-24 06:25:02] <@url> !shop 13
+18[2026-02-24 06:25:03] <DuckHunt> url > Successfully purchased Scope for 60 XP! Stored in inventory (x1). Remaining XP: 1198
+21[2026-02-24 06:25:17] <@url> !use 13
+18[2026-02-24 06:25:18] <DuckHunt> url > Used Scope!
+21[2026-02-24 07:02:46] <@url> !duckstats
+18[2026-02-24 07:02:47] <DuckHunt> url: Lv6 Duck Whisperer | 1198XP (Need 802 XP for Legendary Hunter) | 258 shot | 0 befriended | 100% accuracy | 75.2% hit rate | Armed | 4/6|3 mags | 0% jam chance | Items: Magazine x10, Buy Gun Back x2 | Effects:Hunter's Insurance,Scope
+16[2026-02-24 07:02:47] *** [#url] DEBUG: Items string: Magazine x10, Buy Gun Back x2 | Effects:Hunter's Insurance,Scope
+16[2026-02-24 07:02:47] *** [#url] Inventory check: Buy Gun Back x2
+16[2026-02-24 07:08:06] <DuckHunt> ·.¸¸.·´¯`·.¸¸.·´¯`·. \_O<  QUACK! [Weather: ☀️ Clear]
+16[2026-02-24 07:08:06] *** [#url] DUCK SPAWNED
+21[2026-02-24 07:08:07] <@url> !bang
+18[2026-02-24 07:08:08] <DuckHunt> url > *BANG* You hit the duck for 1 damage! It has 0 HP left. \_X<   *KWAK*  [+10 xp] [Total ducks: 259]
+16[2026-02-24 08:38:17] <DuckHunt> ·.¸¸.·´¯`·.¸¸.·´¯`·. \_O<  QUACK! [Weather: 🌪️ Stormy]
+16[2026-02-24 08:38:17] *** [#url] DUCK SPAWNED
+21[2026-02-24 08:38:18] <@url> !bang
+18[2026-02-24 08:38:18] <DuckHunt> url > *BANG* You hit the duck for 1 damage! It has 0 HP left. \_X<   *KWAK*  [+20 xp] [Total ducks: 260]
+18[2026-02-24 08:38:19] <DuckHunt> 🏆 url unlocked achievement: ⛈️ Storm Hunter — Shot a duck during a storm!
+16[2026-02-24 08:38:19] *** [#url] DUCK KILLED
+16[2026-02-24 09:55:29] <DuckHunt> 💀 A BOSS DUCK has appeared with 8 HP! Everyone !bang to take it down! [Weather: ☀️ Clear]
+16[2026-02-24 09:56:30] <DuckHunt> The massive boss duck effortlessly takes off and disappears into the clouds. ·°'`'°-.,¸¸.·°'`
+16[2026-02-24 10:14:17] *** DuckHunt Auto-Reply: ENABLED (Channel: #url only)
+16[2026-02-24 10:14:17] *** Retry on miss: DISABLED
+16[2026-02-24 10:14:17] *** Befriend decoys: ENABLED
+21[2026-02-24 10:14:19] <@url> !inv
+18[2026-02-24 10:14:19] <DuckHunt> url > 🎒 Inventory: Magazine x10 (#2) | Buy Gun Back x2 (#7)
+16[2026-02-24 10:14:19] *** [#url] Inventory: Buy Gun Back x2
+21[2026-02-24 10:14:21] <@url> !daily
+18[2026-02-24 10:14:22] <DuckHunt> url > 🎁 Daily bonus claimed! +19 XP (🔥 1-day streak!) Come back tomorrow!
+16[2026-02-24 10:14:22] *** [#url] Daily XP bonus claimed!
+16[2026-02-24 10:14:55] *** Retry on miss: ENABLED (Warning: increases friendly-fire risk!)
+21[2026-02-24 10:33:43] <@url> !effects
+16[2026-02-24 10:33:43] *** DuckHunt Auto-Reply Script Loaded (v2.5)
+16[2026-02-24 10:33:43] *** Limited to channel: #url only
+16[2026-02-24 10:33:43] *** Duck types: Normal, Golden, Fast, Ninja, Boss, Decoy, Flock
+16[2026-02-24 10:33:43] *** Type: /duckhunt on to enable
+16[2026-02-24 10:33:43] *** Type: /duckhunt off to disable
+16[2026-02-24 10:33:43] *** Type: /duckhunt retry on|off to toggle retry on miss (risky)
+16[2026-02-24 10:33:43] *** Type: /duckhunt befriend on|off to toggle befriend for decoy ducks
+16[2026-02-24 10:33:43] *** Type: /duckhunt to check full status
+16[2026-02-24 10:33:43] *** Type: /duckhunt.check to check inventory (!inv)
+16[2026-02-24 10:33:43] *** Type: /duckhunt.daily to manually claim daily XP
+16[2026-02-24 10:33:43] *** Type: /duckhunt.effects to check active buffs/debuffs
+18[2026-02-24 10:33:44] <DuckHunt> url > Active effects: Hunter's Insurance [1h 52m]
+16[2026-02-24 11:00:33] <DuckHunt> ·.¸¸.·´¯`·.¸¸.·´¯`·. \_O<  QUACK! [Weather: 🌫️ Foggy]
+16[2026-02-24 11:00:33] *** [#url] DUCK SPAWNED
+21[2026-02-24 11:00:34] <@url> !bang
+18[2026-02-24 11:00:35] <DuckHunt> url > *BANG* You hit the FAST DUCK for 1 damage! It has 0 HP left. [+12 xp] [Total ducks: 261]
+18[2026-02-24 11:00:35] <DuckHunt> url > The fast duck dropped a Magazine! [Added to inventory]
+21[2026-02-24 11:01:06] <@url> !inv
+18[2026-02-24 11:01:07] <DuckHunt> url > 🎒 Inventory: Magazine x11 (#2) | Buy Gun Back x2 (#7)
+16[2026-02-24 11:01:07] *** [#url] Inventory: Buy Gun Back x2
+21[2026-02-24 11:01:17] <@url> !duckstats
+18[2026-02-24 11:01:17] <DuckHunt> url: Lv6 Duck Whisperer | 1259XP (Need 741 XP for Legendary Hunter) | 261 shot | 0 befriended | 100% accuracy | 75.4% hit rate | Armed | 1/6|3 mags | 0% jam chance | Items: Magazine x11, Buy Gun Back x2 | Effects:Hunter's Insurance
+16[2026-02-24 11:01:17] *** [#url] Inventory: Buy Gun Back x2
+16[2026-02-24 11:01:17] *** [#url] BEFRIEND SUCCESSFUL
+21[2026-02-24 11:01:26] <@url> !reload
+18[2026-02-24 11:01:27] <DuckHunt> url > *click* New magazine loaded! [Ammo: 6/6] [Spare magazines: 1]
+16[2026-02-24 11:28:10] <DuckHunt> ·.¸¸.·´¯`·.¸¸.·´¯`·. \_O<  QUACK! [Weather: 🌪️ Stormy]
+16[2026-02-24 11:28:10] *** [#url] DUCK SPAWNED
+21[2026-02-24 11:28:11] <@url> !bang
+18[2026-02-24 11:28:11] <DuckHunt> url > *BANG* You hit the duck for 1 damage! It has 0 HP left. \_X<   *KWAK*  [+20 xp] [Total ducks: 262]
+16[2026-02-24 11:49:15] <DuckHunt> ·.¸¸.·´¯`·.¸¸.·´¯`·. \_O<  QUACK! [Weather: ☀️ Clear]
+16[2026-02-24 11:49:15] *** [#url] DUCK SPAWNED
+21[2026-02-24 11:49:16] <@url> !bang
+18[2026-02-24 11:49:17] <DuckHunt> url > *BANG* You hit the duck for 1 damage! It has 0 HP left. \_X<   *KWAK*  [+10 xp] [Total ducks: 263]
+16[2026-02-24 13:11:58] <DuckHunt> 🦆🦆🦆 A flock of 4 ducks has landed! Type !bang to pick them off! [Weather: 🌫️ Foggy]
+16[2026-02-24 13:12:28] <DuckHunt> The duck flaps away, living another day. ·°'`'°-.,¸¸.·°'`
+16[2026-02-24 13:12:28] <DuckHunt> \o< *quack* The duck waddles away safely.
+16[2026-02-24 13:12:28] <DuckHunt> \o< *flap* *flap* The duck has escaped!
+16[2026-02-24 13:12:28] <DuckHunt> The duck escapes into the sky! ·°'`'°-.,¸¸.·°'`
+21[2026-02-24 13:13:03] <@url> !shop
+16[2026-02-24 13:13:04] <DuckHunt> DuckHunt Shop: (1) Single Bullet - 5 XP | (2) Magazine - 15 XP | (3) Sand - 10 XP | (4) Gun Brush - 20 XP | (5) Bread - 50 XP | (6) Hunter's Insurance - 75 XP | (7) Buy Gun Back - 40 XP | (8) Bucket of Water - 25 XP | (9) Dry Clothes - 30 XP | (10) 4-Leaf Clover - 250 XP | (11) Binoculars - 30 XP | (12) Hunting Dog - 80 XP | (13) Scope - 60 XP | (14) Body Armor - 100 XP | (15) Decoy Trap - 45 XP |
+16[2026-02-24 13:13:04] <DuckHunt> (16) Mystery Box - 35 XP | You have 1289 XP
+21[2026-02-24 13:13:23] <@url> !duckstats
+18[2026-02-24 13:13:23] <DuckHunt> url: Lv6 Duck Whisperer | 1289XP (Need 711 XP for Legendary Hunter) | 263 shot | 0 befriended | 100% accuracy | 75.6% hit rate | Armed | 4/6|2 mags | 0% jam chance | Items: Magazine x11, Buy Gun Back x2
+16[2026-02-24 13:13:23] *** [#url] Inventory: Buy Gun Back x2
+16[2026-02-24 13:13:23] *** [#url] BEFRIEND SUCCESSFUL
+16[2026-02-24 13:56:50] <DuckHunt> ·.¸¸.·´¯`·.¸¸.·´¯`·. \_O<  QUACK! [Weather: 🌫️ Foggy]
+21[2026-02-24 13:56:51] <@url> !bang
+18[2026-02-24 13:56:52] <DuckHunt> url > *BANG* You hit the duck for 1 damage! It has 0 HP left. \_X<   *KWAK*  [+10 xp] [Total ducks: 264]
+16[2026-02-24 14:26:31] <DuckHunt> ·.¸¸.·´¯`·.¸¸.·´¯`·. \_O<  QUACK! [Weather: ☀️ Clear]
+21[2026-02-24 14:26:32] <@url> !bang
+18[2026-02-24 14:26:33] <DuckHunt> url > *BANG* You missed the duck! [-1 XP]
+21[2026-02-24 14:26:34] <@url> !bang
+18[2026-02-24 14:26:34] <DuckHunt> url > *BANG* You hit the FAST DUCK for 1 damage! It has 0 HP left. [+12 xp] [Total ducks: 265]
+24[2026-02-24 17:46:21] * Disconnected..
+24[2026-02-24 17:47:03] * Rejoined #url
+25[2026-02-24 17:47:03] * Now talking in: #url
+24[2026-02-24 17:49:23] * Disconnected..
+24[2026-02-24 17:55:14] * Rejoined #url
+25[2026-02-24 17:55:14] * Now talking in: #url
+24[2026-02-24 18:36:34] * Disconnected..
+24[2026-02-24 18:38:07] * Rejoined #url
+25[2026-02-24 18:38:07] * Now talking in: #url
+24[2026-02-24 18:42:56] * Disconnected..
+24[2026-02-24 18:43:30] * Rejoined #url
+25[2026-02-24 18:43:30] * Now talking in: #url
+16[2026-02-24 19:07:36] <DuckHunt> ·.¸¸.·´¯`·.¸¸.·´¯`·. \_O<  QUACK! [Weather: 🌧️ Rainy]
+21[2026-02-24 19:07:37] <@url> !bang
+18[2026-02-24 19:07:38] <DuckHunt> url > *BANG* You hit the FAST DUCK for 1 damage! It has 0 HP left. [+12 xp] [Total ducks: 266]
+24[2026-02-24 19:15:33] * Disconnected..
+24[2026-02-24 19:21:23] * Rejoined #url
+25[2026-02-24 19:21:23] * Now talking in: #url
+16[2026-02-24 20:04:03] <DuckHunt> 🦆🦆🦆 A flock of 4 ducks has landed! Type !bang to pick them off! [Weather: ☀️ Clear]
+16[2026-02-24 20:05:04] <DuckHunt> \o< The duck disappears into the distance.
+16[2026-02-24 20:05:04] <DuckHunt> \o< *flap* *flap* The duck has escaped!
+16[2026-02-24 20:05:04] <DuckHunt> The duck flaps away, living another day. ·°'`'°-.,¸¸.·°'`
+16[2026-02-24 20:05:04] <DuckHunt> The duck flaps away, living another day. ·°'`'°-.,¸¸.·°'`
+25[2026-02-24 20:46:23] * Now talking in: #url
+16[2026-02-24 20:48:20] <DuckHunt> ·.¸¸.·´¯`·.¸¸.·´¯`·. \_O<  QUACK! [Weather: 🌧️ Rainy]
+16[2026-02-24 20:48:42] <DuckHunt> The swift duck darts away before you can blink! ·°'`'°-.,¸¸.·°'`
+16[2026-02-24 21:02:17] *** DuckHunt Auto-Reply: ENABLED (Channel: #url only)
+16[2026-02-24 21:02:17] *** Retry on miss: DISABLED
+16[2026-02-24 21:02:17] *** Befriend decoys: ENABLED
+21[2026-02-24 21:02:19] <@url> !inv
+18[2026-02-24 21:02:19] <DuckHunt> url > 🎒 Inventory: Magazine x11 (#2) | Buy Gun Back x2 (#7)
+16[2026-02-24 21:02:19] *** [#url] Inventory: Buy Gun Back x2
+21[2026-02-24 21:02:21] <@url> !daily
+18[2026-02-24 21:02:21] <DuckHunt> url > ⏳ Daily already claimed! Come back in 13h 12m.
+16[2026-02-24 21:02:21] *** [#url] Daily XP already claimed today
+16[2026-02-24 21:02:27] *** Retry on miss: ENABLED (Warning: increases friendly-fire risk!)
+25[2026-02-24 21:24:31] * Now talking in: #url
+16[2026-02-24 21:33:40] *** DuckHunt Auto-Reply: ENABLED (Channel: #url only)
+16[2026-02-24 21:33:40] *** Retry on miss: DISABLED
+16[2026-02-24 21:33:40] *** Befriend decoys: ENABLED
+21[2026-02-24 21:33:42] <@url> !inv
+18[2026-02-24 21:33:42] <DuckHunt> url > 🎒 Inventory: Magazine x11 (#2) | Buy Gun Back x2 (#7)
+16[2026-02-24 21:33:42] *** [#url] Inventory: Buy Gun Back x2
+21[2026-02-24 21:33:44] <@url> !daily
+18[2026-02-24 21:33:44] <DuckHunt> url > ⏳ Daily already claimed! Come back in 12h 40m.
+16[2026-02-24 21:33:44] *** [#url] Daily XP already claimed today
+16[2026-02-24 21:33:45] *** Retry on miss: ENABLED (Warning: increases friendly-fire risk!)
+21[2026-02-24 21:33:55] <@url> !inv
+18[2026-02-24 21:33:55] <DuckHunt> url > 🎒 Inventory: Magazine x11 (#2) | Buy Gun Back x2 (#7)
+16[2026-02-24 21:33:55] *** [#url] Inventory: Buy Gun Back x2
+21[2026-02-24 21:34:03] <@url> !shop
+16[2026-02-24 21:34:03] <DuckHunt> DuckHunt Shop: (1) Single Bullet - 5 XP | (2) Magazine - 15 XP | (3) Sand - 10 XP | (4) Gun Brush - 20 XP | (5) Bread - 50 XP | (6) Hunter's Insurance - 75 XP | (7) Buy Gun Back - 40 XP | (8) Bucket of Water - 25 XP | (9) Dry Clothes - 30 XP | (10) 4-Leaf Clover - 250 XP | (11) Binoculars - 30 XP | (12) Hunting Dog - 80 XP | (13) Scope - 60 XP | (14) Body Armor - 100 XP | (15) Decoy Trap - 45 XP |
+16[2026-02-24 21:34:04] <DuckHunt> (16) Mystery Box - 35 XP | You have 1322 XP
+21[2026-02-24 21:34:17] <@url> !shop 12
+18[2026-02-24 21:34:18] <DuckHunt> url > Successfully purchased Hunting Dog for 80 XP! Stored in inventory (x1). Remaining XP: 1242
+21[2026-02-24 21:35:01] <@url> !effects
+16[2026-02-24 21:35:01] *** DuckHunt Auto-Reply Script Loaded (v2.5)
+16[2026-02-24 21:35:01] *** Limited to channel: #url only
+16[2026-02-24 21:35:01] *** Duck types: Normal, Golden, Fast, Ninja, Boss, Decoy, Flock
+16[2026-02-24 21:35:01] *** Type: /duckhunt on to enable
+16[2026-02-24 21:35:01] *** Type: /duckhunt off to disable
+16[2026-02-24 21:35:01] *** Type: /duckhunt retry on|off to toggle retry on miss (risky)
+16[2026-02-24 21:35:01] *** Type: /duckhunt befriend on|off to toggle befriend for decoy ducks
+16[2026-02-24 21:35:01] *** Type: /duckhunt to check full status
+16[2026-02-24 21:35:01] *** Type: /duckhunt.check to check inventory (!inv)
+16[2026-02-24 21:35:01] *** Type: /duckhunt.daily to manually claim daily XP
+16[2026-02-24 21:35:01] *** Type: /duckhunt.effects to check active buffs/debuffs
+18[2026-02-24 21:35:01] <DuckHunt> url > No active effects. Visit !shop to get some!
+21[2026-02-24 21:35:19] <@url> !use 12
+18[2026-02-24 21:35:20] <DuckHunt> url > Used Hunting Dog!
+21[2026-02-24 21:35:24] <@url> !effects
+16[2026-02-24 21:35:24] *** DuckHunt Auto-Reply Script Loaded (v2.5)
+16[2026-02-24 21:35:24] *** Limited to channel: #url only
+16[2026-02-24 21:35:24] *** Duck types: Normal, Golden, Fast, Ninja, Boss, Decoy, Flock
+16[2026-02-24 21:35:24] *** Type: /duckhunt on to enable
+16[2026-02-24 21:35:24] *** Type: /duckhunt off to disable
+16[2026-02-24 21:35:24] *** Type: /duckhunt retry on|off to toggle retry on miss (risky)
+16[2026-02-24 21:35:24] *** Type: /duckhunt befriend on|off to toggle befriend for decoy ducks
+16[2026-02-24 21:35:24] *** Type: /duckhunt to check full status
+16[2026-02-24 21:35:24] *** Type: /duckhunt.check to check inventory (!inv)
+16[2026-02-24 21:35:24] *** Type: /duckhunt.daily to manually claim daily XP
+16[2026-02-24 21:35:24] *** Type: /duckhunt.effects to check active buffs/debuffs
+18[2026-02-24 21:35:24] <DuckHunt> url > Active effects: Hunting Dog [59m 55s]
+16[2026-02-24 21:36:02] *** Befriend mode: DISABLED (will skip decoy ducks entirely)
+16[2026-02-24 21:36:09] *** Befriend mode: ENABLED (will !bef decoy ducks)
+16[2026-02-24 22:20:22] <DuckHunt> ·.¸¸.·´¯`·.¸¸.·´¯`·. \_O<  QUACK! [Weather: 🌫️ Foggy]
+16[2026-02-24 22:20:22] *** [#url] DUCK SPAWNED
+21[2026-02-24 22:20:23] <@url> !bang
+18[2026-02-24 22:20:23] <DuckHunt> url > *click* You're out of ammo! Use !reload
+16[2026-02-24 22:20:23] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:20:23] <@url> !reload
+18[2026-02-24 22:20:23] <DuckHunt> url > *click* New magazine loaded! [Ammo: 6/6] [Spare magazines: 0]
+16[2026-02-24 22:20:52] <DuckHunt> 🐕 A hunting dog fetches the duck back! It's still out there!
+21[2026-02-24 22:21:06] <@url> !bang
+18[2026-02-24 22:21:07] <DuckHunt> url > *BANG* You missed the duck! [-1 XP]
+16[2026-02-24 22:21:07] *** [#url] MISSED THE DUCK
+16[2026-02-24 22:21:07] *** [#url] RETRYING (retry enabled)
+21[2026-02-24 22:21:08] <@url> !bang
+18[2026-02-24 22:21:08] <DuckHunt> url > *click* You're trying to shoot too fast! Calm down and aim.
+21[2026-02-24 22:21:13] <@url> !bang
+18[2026-02-24 22:21:13] <DuckHunt> url > *BANG* You hit the GOLDEN DUCK for 1 damage! It has 3 HP left. [+15 xp] [Total ducks: 0]
+21[2026-02-24 22:21:17] <@url> !bang
+18[2026-02-24 22:21:18] <DuckHunt> url > *BANG* You hit the GOLDEN DUCK for 1 damage! It has 2 HP left. [+15 xp] [Total ducks: 0]
+21[2026-02-24 22:21:20] <@url> !bang
+18[2026-02-24 22:21:21] <DuckHunt> url > *BANG* You hit the GOLDEN DUCK for 1 damage! It has 1 HP left. [+15 xp] [Total ducks: 0]
+16[2026-02-24 22:21:22] <DuckHunt> The precious golden duck escapes to safety! ·°'`'°-.,¸¸.·°'`
+16[2026-02-24 22:21:22] *** [#url] DUCK ESCAPED
+21[2026-02-24 22:21:24] <@url> !bang
+18[2026-02-24 22:21:24] <DuckHunt> url > *BANG* What did you shoot at? There is no duck in the area... [GUN CONFISCATED]
+16[2026-02-24 22:21:24] *** [#url] GUN CONFISCATED!
+16[2026-02-24 22:21:24] *** [#url] Using Buy Gun Back from inventory (2 available)
+21[2026-02-24 22:21:25] <@url> !use 7
+18[2026-02-24 22:21:25] <DuckHunt> url > Your gun has been returned with 1 bullets and 0 magazines. (1 remaining)
+16[2026-02-24 22:21:25] *** [#url] GUN RECOVERED!
+21[2026-02-24 22:21:26] <@url> !reload
+18[2026-02-24 22:21:27] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:27] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:27] <@url> !reload
+18[2026-02-24 22:21:27] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:27] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:27] <@url> !reload
+18[2026-02-24 22:21:27] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:27] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:27] <@url> !reload
+18[2026-02-24 22:21:27] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:27] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:27] <@url> !reload
+18[2026-02-24 22:21:27] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:27] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:27] <@url> !reload
+18[2026-02-24 22:21:28] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:28] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:28] <@url> !reload
+18[2026-02-24 22:21:28] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:28] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:28] <@url> !reload
+18[2026-02-24 22:21:28] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:28] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:28] <@url> !reload
+18[2026-02-24 22:21:29] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:29] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:29] <@url> !reload
+18[2026-02-24 22:21:29] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:29] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:29] <@url> !reload
+18[2026-02-24 22:21:30] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:30] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:30] <@url> !reload
+18[2026-02-24 22:21:30] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:30] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:30] <@url> !reload
+18[2026-02-24 22:21:31] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:31] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:31] <@url> !reload
+18[2026-02-24 22:21:31] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:31] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:31] <@url> !reload
+18[2026-02-24 22:21:32] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:32] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:32] <@url> !reload
+18[2026-02-24 22:21:32] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:32] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:32] <@url> !reload
+18[2026-02-24 22:21:33] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:33] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:33] <@url> !reload
+18[2026-02-24 22:21:33] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:33] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:33] <@url> !reload
+18[2026-02-24 22:21:34] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:34] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:34] <@url> !reload
+18[2026-02-24 22:21:34] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:34] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:34] <@url> !reload
+18[2026-02-24 22:21:35] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:35] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:35] <@url> !reload
+18[2026-02-24 22:21:35] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:35] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:35] <@url> !reload
+18[2026-02-24 22:21:36] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:36] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:36] <@url> !reload
+18[2026-02-24 22:21:36] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:36] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:36] <@url> !reload
+18[2026-02-24 22:21:37] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:37] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:37] <@url> !reload
+18[2026-02-24 22:21:37] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:37] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:37] <@url> !reload
+18[2026-02-24 22:21:38] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:38] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:38] <@url> !reload
+18[2026-02-24 22:21:38] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:38] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:38] <@url> !reload
+18[2026-02-24 22:21:39] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:39] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:39] <@url> !reload
+18[2026-02-24 22:21:39] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:39] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:39] <@url> !reload
+18[2026-02-24 22:21:40] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:40] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:40] <@url> !reload
+18[2026-02-24 22:21:40] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:40] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:40] <@url> !reload
+18[2026-02-24 22:21:41] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:41] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:41] <@url> !reload
+18[2026-02-24 22:21:41] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:41] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:41] <@url> !reload
+18[2026-02-24 22:21:42] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:42] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:42] <@url> !reload
+18[2026-02-24 22:21:42] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:42] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:42] <@url> !reload
+18[2026-02-24 22:21:43] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:43] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:43] <@url> !reload
+18[2026-02-24 22:21:43] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:43] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:43] <@url> !reload
+18[2026-02-24 22:21:44] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:44] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:44] <@url> !reload
+18[2026-02-24 22:21:44] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:44] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:44] <@url> !reload
+18[2026-02-24 22:21:45] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:45] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:45] <@url> !reload
+18[2026-02-24 22:21:45] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:45] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:45] <@url> !reload
+18[2026-02-24 22:21:46] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:46] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:46] <@url> !reload
+18[2026-02-24 22:21:46] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:46] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:46] <@url> !reload
+18[2026-02-24 22:21:47] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:47] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:47] <@url> !reload
+18[2026-02-24 22:21:47] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:47] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:47] <@url> !reload
+18[2026-02-24 22:21:48] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:48] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:48] <@url> !reload
+18[2026-02-24 22:21:48] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:48] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:48] <@url> !reload
+18[2026-02-24 22:21:49] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:49] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:49] <@url> !reload
+18[2026-02-24 22:21:49] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:49] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:49] <@url> !reload
+18[2026-02-24 22:21:50] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:50] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:50] <@url> !reload
+18[2026-02-24 22:21:50] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:50] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:50] <@url> !reload
+18[2026-02-24 22:21:51] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:51] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:51] <@url> !reload
+18[2026-02-24 22:21:52] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:52] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:52] <@url> !reload
+18[2026-02-24 22:21:52] <DuckHunt> url > You're out of ammo!
+16[2026-02-24 22:21:52] *** [#url] OUT OF AMMO - RELOADING
+21[2026-02-24 22:21:52] <@url> !reload
+16[2026-02-24 22:21:52] *** DuckHunt Auto-Reply: DISABLED
+18[2026-02-24 22:21:53] <DuckHunt> url > You're out of ammo!
+21[2026-02-24 22:22:13] <@url> !duckstats
+18[2026-02-24 22:22:13] <DuckHunt> url: Lv6 Duck Whisperer | 1241XP (Need 759 XP for Legendary Hunter) | 266 shot | 0 befriended | 100% accuracy | 75.1% hit rate | Armed | 1/6|1 mags | 0% jam chance | Items: Magazine x11, Buy Gun Back x1
+21[2026-02-24 22:22:23] <@url> !use 7
+18[2026-02-24 22:22:23] <DuckHunt> url > Your gun is not confiscated.
+21[2026-02-24 22:22:36] <@url> !use 2
+18[2026-02-24 22:22:36] <DuckHunt> url > Used Magazine! (10 remaining)
+21[2026-02-24 22:22:38] <@url> !use 2
+18[2026-02-24 22:22:38] <DuckHunt> url > Used Magazine! (9 remaining)
+21[2026-02-24 22:22:51] <@url> !reload
+18[2026-02-24 22:22:51] <DuckHunt> url > *click* New magazine loaded! [Ammo: 6/6] [Spare magazines: 1]
+21[2026-02-24 22:22:56] <@url> !use 2
+18[2026-02-24 22:22:56] <DuckHunt> url > Used Magazine! (8 remaining)
+21[2026-02-24 22:22:59] <@url> !duckstats
+18[2026-02-24 22:23:00] <DuckHunt> url: Lv6 Duck Whisperer | 1241XP (Need 759 XP for Legendary Hunter) | 266 shot | 0 befriended | 100% accuracy | 75.1% hit rate | Armed | 6/6|3 mags | 0% jam chance | Items: Magazine x8
+16[2026-02-24 22:41:47] <DuckHunt> ·.¸¸.·´¯`·.¸¸.·´¯`·. \_O<  QUACK! [Weather: 🌧️ Rainy]
+16[2026-02-24 22:42:47] <DuckHunt> The ninja duck drops a smoke bomb and vanishes! *poof*
+16[2026-02-24 23:36:56] <DuckHunt> ·.¸¸.·´¯`·.¸¸.·´¯`·. \_O<  QUACK! [Weather: ☀️ Clear]
+16[2026-02-24 23:37:57] <DuckHunt> \o< The golden duck glides away gracefully, its feathers shimmering.
+24[2026-02-25 00:00:00] * Day changed to Wednesday, 25. Feb 2026
+16[2026-02-25 00:17:39] <DuckHunt> ·.¸¸.·´¯`·.¸¸.·´¯`·. \_O<  QUACK! [Weather: 🌧️ Rainy]
+16[2026-02-25 00:18:39] <DuckHunt> The duck flies away. ·°'`'°-.,¸¸.·°'`
+16[2026-02-25 01:34:38] <DuckHunt> ·.¸¸.·´¯`·.¸¸.·´¯`·. \_O<  QUACK! [Weather: 🌫️ Foggy]
+16[2026-02-25 01:35:10] <DuckHunt> The ninja duck drops a smoke bomb and vanishes! *poof*
+16[2026-02-25 03:08:43] *** DuckHunt: Timers cleared on disconnect
+16[2026-02-25 03:08:43] *** DuckHunt: Timers cleared on disconnect
+24[2026-02-25 03:08:44] * Disconnected..
+16[2026-02-25 03:08:44] *** DuckHunt: Timers cleared on disconnect
+16[2026-02-25 03:08:44] *** DuckHunt: Timers cleared on disconnect
+24[2026-02-25 03:08:52] * Rejoined #url
+25[2026-02-25 03:08:52] * Now talking in: #url
+16[2026-02-25 03:43:26] *** DuckHunt Auto-Reply: ENABLED (Channel: #url only)
+16[2026-02-25 03:43:26] *** Retry on miss: DISABLED
+16[2026-02-25 03:43:26] *** Befriend decoys: ENABLED
+21[2026-02-25 03:43:28] <@url> !inv
+18[2026-02-25 03:43:28] <DuckHunt> url > 🎒 Inventory: Magazine x8 (#2)
+21[2026-02-25 03:43:30] <@url> !daily
+18[2026-02-25 03:43:30] <DuckHunt> url > ⏳ Daily already claimed! Come back in 6h 30m.
+16[2026-02-25 03:43:30] *** [#url] Daily XP already claimed today
+16[2026-02-25 03:43:35] *** Retry on miss: ENABLED (Warning: increases friendly-fire risk!)
+21[2026-02-25 03:43:47] <@url> !duckstats
+18[2026-02-25 03:43:47] <DuckHunt> url: Lv6 Duck Whisperer | 1241XP (Need 759 XP for Legendary Hunter) | 266 shot | 0 befriended | 100% accuracy | 75.1% hit rate | Armed | 6/6|3 mags | 0% jam chance | Items: Magazine x8
+16[2026-02-25 03:43:47] *** [#url] BEFRIEND SUCCESSFUL
+21[2026-02-25 03:44:21] <@url> !shop
+16[2026-02-25 03:44:22] <DuckHunt> DuckHunt Shop: (1) Single Bullet - 5 XP | (2) Magazine - 15 XP | (3) Sand - 10 XP | (4) Gun Brush - 20 XP | (5) Bread - 50 XP | (6) Hunter's Insurance - 75 XP | (7) Buy Gun Back - 40 XP | (8) Bucket of Water - 25 XP | (9) Dry Clothes - 30 XP | (10) 4-Leaf Clover - 250 XP | (11) Binoculars - 30 XP | (12) Hunting Dog - 80 XP | (13) Scope - 60 XP | (14) Body Armor - 100 XP | (15) Decoy Trap - 45 XP |
+16[2026-02-25 03:44:22] <DuckHunt> (16) Mystery Box - 35 XP | You have 1241 XP
+21[2026-02-25 03:44:39] <@url> !shop 7
+18[2026-02-25 03:44:39] <DuckHunt> url > Successfully purchased Buy Gun Back for 40 XP! Stored in inventory (x1). Remaining XP: 1201
+16[2026-02-25 03:44:39] *** [#url] Inventory: Buy Gun Back x1
+16[2026-02-25 03:44:39] *** [#url] PURCHASED Buy Gun Back (now have: 2) - stored
+21[2026-02-25 03:44:42] <@url> !shop 3
+18[2026-02-25 03:44:42] <DuckHunt> url > Successfully purchased Sand for 10 XP! Stored in inventory (x1). Remaining XP: 1191
+21[2026-02-25 03:44:50] <@url> !shop 6
+18[2026-02-25 03:44:50] <DuckHunt> url > Successfully purchased Hunter's Insurance for 75 XP! Stored in inventory (x1). Remaining XP: 1116
+16[2026-02-25 03:44:50] *** [#url] Hunter's Insurance active - friendly fire protected for 24h
+21[2026-02-25 03:47:12] <@url> !use 3 earl
+18[2026-02-25 03:47:12] <DuckHunt> url > Used Sand on earl!
+21[2026-02-25 03:47:33] <@url> !use 4 earl
+18[2026-02-25 03:47:33] <DuckHunt> url > You don't have any Gun Brush in your inventory
+16[2026-02-25 04:03:30] <DuckHunt> ·.¸¸.·´¯`·.¸¸.·´¯`·. \_O<  QUACK! [Weather: 🌧️ Rainy]
+16[2026-02-25 04:03:30] *** [#url] DUCK SPAWNED
+21[2026-02-25 04:03:31] <@url> !bang
+18[2026-02-25 04:03:31] <DuckHunt> url > *BANG* You missed the duck! [-1 XP]
+16[2026-02-25 04:03:31] *** [#url] MISSED THE DUCK
+16[2026-02-25 04:03:31] *** [#url] RETRYING (retry enabled)
+21[2026-02-25 04:03:32] <@url> !bang
+18[2026-02-25 04:03:33] <DuckHunt> url > *click* You're trying to shoot too fast! Calm down and aim.
+16[2026-02-25 04:04:31] <DuckHunt> The duck takes flight and vanishes! ·°'`'°-.,¸¸.·°'`
+16[2026-02-25 04:04:31] *** [#url] DUCK ESCAPED
+21[2026-02-25 04:07:02] <@url> !shop
+16[2026-02-25 04:07:02] <DuckHunt> DuckHunt Shop: (1) Single Bullet - 5 XP | (2) Magazine - 15 XP | (3) Sand - 10 XP | (4) Gun Brush - 20 XP | (5) Bread - 50 XP | (6) Hunter's Insurance - 75 XP | (7) Buy Gun Back - 40 XP | (8) Bucket of Water - 25 XP | (9) Dry Clothes - 30 XP | (10) 4-Leaf Clover - 250 XP | (11) Binoculars - 30 XP | (12) Hunting Dog - 80 XP | (13) Scope - 60 XP | (14) Body Armor - 100 XP | (15) Decoy Trap - 45 XP |
+16[2026-02-25 04:07:02] <DuckHunt> (16) Mystery Box - 35 XP | You have 1115 XP
+21[2026-02-25 04:07:17] <@url> !shop 12
+18[2026-02-25 04:07:18] <DuckHunt> url > Successfully purchased Hunting Dog for 80 XP! Stored in inventory (x1). Remaining XP: 1035
+21[2026-02-25 04:07:25] <@url> !use 12
+18[2026-02-25 04:07:25] <DuckHunt> url > Used Hunting Dog!
+21[2026-02-25 04:07:35] <@url> !duckstats
+18[2026-02-25 04:07:35] <DuckHunt> url: Lv6 Duck Whisperer | 1035XP (Need 965 XP for Legendary Hunter) | 266 shot | 0 befriended | 98% accuracy | 74.9% hit rate | Armed | 5/6|3 mags | 0% jam chance | Items: Magazine x8, Buy Gun Back x1, Hunter's Insurance x1 | Effects:Hunting Dog
+16[2026-02-25 04:07:35] *** [#url] Inventory: Buy Gun Back x1
+16[2026-02-25 04:07:35] *** [#url] BEFRIEND SUCCESSFUL
+21[2026-02-25 04:07:59] <@url> !use 6
+18[2026-02-25 04:07:59] <DuckHunt> url > You activated Hunter's Insurance! Protected from friendly fire penalties for 24 hours.
+21[2026-02-25 04:08:11] <@url> !effects
+18[2026-02-25 04:08:11] <DuckHunt> url > Active effects: Hunting Dog [59m 13s] | Hunter's Insurance [23h 59m]
+21[2026-02-25 04:08:35] <@url> !shop 5
+18[2026-02-25 04:08:35] <DuckHunt> url > Successfully purchased Bread for 50 XP! Stored in inventory (x1). Remaining XP: 985
+21[2026-02-25 04:08:42] <@url> !use 5
+18[2026-02-25 04:08:42] <DuckHunt> url > You scattered bread around the pond! Ducks will spawn 2.0x faster for 20 minutes.
+21[2026-02-25 04:09:02] <@url> !shop 13
+18[2026-02-25 04:09:02] <DuckHunt> url > Successfully purchased Scope for 60 XP! Stored in inventory (x1). Remaining XP: 925
+21[2026-02-25 04:09:08] <@url> !use 13
+18[2026-02-25 04:09:08] <DuckHunt> url > Used Scope!
+21[2026-02-25 04:09:20] <@url> !effects
+18[2026-02-25 04:09:20] <DuckHunt> url > Active effects: Hunting Dog [58m 4s] | Hunter's Insurance [23h 58m] | Attract Ducks [19m 21s] | Scope (5 shots left) [59m 47s]

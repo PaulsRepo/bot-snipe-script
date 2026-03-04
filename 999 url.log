@@ -1,0 +1,896 @@
+16[2026-01-24 19:48:00] <DuckHunt> ·.¸¸.·´¯`·.¸¸.·´¯`·. \_O<  QUACK!
+21[2026-01-24 19:48:00] <@url> !bang
+18[2026-01-24 19:48:00] <DuckHunt> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 1]
+16[2026-01-24 21:11:06] <DuckHunt> ・゜゜・。。・゜゜\_O> *flap flap*
+21[2026-01-24 21:11:06] <@url> !bang
+18[2026-01-24 21:11:07] <DuckHunt> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 2]
+16[2026-01-24 21:42:05] <DuckHunt> ≋≋≋ \_O< ≋≋≋  QUACK!
+21[2026-01-24 21:42:05] <@url> !bang
+18[2026-01-24 21:42:06] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [3 HP remaining] [+15 xp] [Total ducks: 0]
+21[2026-01-24 21:42:16] <@url> !bang
+18[2026-01-24 21:42:16] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [2 HP remaining] [+15 xp] [Total ducks: 0]
+21[2026-01-24 21:42:18] <@url> !bang
+18[2026-01-24 21:42:18] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [1 HP remaining] [+15 xp] [Total ducks: 0]
+21[2026-01-24 21:42:20] <@url> !bang
+18[2026-01-24 21:42:20] <DuckHunt> url > *BANG* You killed the GOLDEN DUCK! [+60 xp] [Total ducks: 3]
+21[2026-01-24 21:42:34] <@url> !reload
+18[2026-01-24 21:42:34] <DuckHunt> url > Your gun is already loaded!
+21[2026-01-24 21:42:41] <@url> !duckstats
+18[2026-01-24 21:42:41] <DuckHunt> url: Lv2 Pond Visitor | 0XP (Need 70 XP for Duck Hunter) | 3 shot | 0 befriended | 81% accuracy | 75.0% hit rate | Armed | 6/6|3 mags | 15% jam chance
+21[2026-01-24 21:43:32] <@url> !shop
+16[2026-01-24 21:43:32] <DuckHunt> DuckHunt Shop: (1) Single Bullet - 5 XP | (2) Magazine - 15 XP | (3) Sand - 10 XP | (4) Gun Brush - 20 XP | (5) Bread - 50 XP | (6) Hunter's Insurance - 75 XP | (7) Buy Gun Back - 40 XP | (8) Bucket of Water - 25 XP | You have 80 XP
+21[2026-01-24 21:43:52] <@url> !shop 4
+18[2026-01-24 21:43:53] <DuckHunt> url > Successfully purchased Gun Brush for 20 XP! Stored in inventory (x1). Remaining XP: 60
+21[2026-01-24 21:43:56] <@url> !shop 4
+18[2026-01-24 21:43:56] <DuckHunt> url > Successfully purchased Gun Brush for 20 XP! Stored in inventory (x2). Remaining XP: 40
+21[2026-01-24 21:44:01] <@url> !use 4
+18[2026-01-24 21:44:01] <DuckHunt> url > Used Gun Brush! (1 remaining)
+21[2026-01-24 21:44:03] <@url> !use 4
+18[2026-01-24 21:44:05] <DuckHunt> url > Used Gun Brush!
+21[2026-01-24 21:44:10] <@url> !duckstats
+18[2026-01-24 21:44:11] <DuckHunt> url: Lv1 Duck Novice | 0XP (Need 10 XP for Pond Visitor) | 3 shot | 0 befriended | 81% accuracy | 75.0% hit rate | Armed | 6/6|3 mags | 0% jam chance
+21[2026-01-24 21:44:29] <@url> !shop
+16[2026-01-24 21:44:29] <DuckHunt> DuckHunt Shop: (1) Single Bullet - 5 XP | (2) Magazine - 15 XP | (3) Sand - 10 XP | (4) Gun Brush - 20 XP | (5) Bread - 50 XP | (6) Hunter's Insurance - 75 XP | (7) Buy Gun Back - 40 XP | (8) Bucket of Water - 25 XP | You have 40 XP
+21[2026-01-24 21:44:45] <@url> !shop 2
+18[2026-01-24 21:44:45] <DuckHunt> url > Successfully purchased Magazine for 15 XP! Stored in inventory (x1). Remaining XP: 25
+21[2026-01-24 21:44:47] <@url> !shop 2
+18[2026-01-24 21:44:48] <DuckHunt> url > Successfully purchased Magazine for 15 XP! Stored in inventory (x2). Remaining XP: 10
+16[2026-01-24 22:20:47] <DuckHunt> \_O<  *q u a c k*  (respawned)
+21[2026-01-24 22:20:48] <@url> !bang
+18[2026-01-24 22:20:48] <DuckHunt> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 4]
+21[2026-01-24 22:22:39] <@url> !duckstats
+18[2026-01-24 22:22:39] <DuckHunt> url: Lv1 Duck Novice | 0XP (Need 30 XP for Pond Visitor) | 4 shot | 0 befriended | 82% accuracy | 80.0% hit rate | Armed | 5/6|3 mags | 0% jam chance | Items: Magazine x2
+16[2026-01-24 22:45:40] <DuckHunt> ・゜゜・。。・゜゜\_O< QUACK!
+21[2026-01-24 22:45:40] <@url> !bang
+18[2026-01-24 22:45:40] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [4 HP remaining] [+15 xp] [Total ducks: 0]
+21[2026-01-24 22:45:47] <@url> !bang
+18[2026-01-24 22:45:47] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [3 HP remaining] [+15 xp] [Total ducks: 0]
+21[2026-01-24 22:45:48] <@url> !bang
+18[2026-01-24 22:45:48] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [2 HP remaining] [+15 xp] [Total ducks: 0]
+21[2026-01-24 22:45:51] <@url> !bang
+18[2026-01-24 22:45:51] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [1 HP remaining] [+15 xp] [Total ducks: 0]
+21[2026-01-24 22:45:53] <@url> !bang
+18[2026-01-24 22:45:53] <DuckHunt> url > *BANG* You killed the GOLDEN DUCK! [+75 xp] [Total ducks: 5]
+21[2026-01-24 22:46:10] <@url> !duckstats
+18[2026-01-24 22:46:10] <DuckHunt> url: Lv2 Pond Visitor | 5XP (Need 55 XP for Duck Hunter) | 5 shot | 0 befriended | 87% accuracy | 83.3% hit rate | Armed | 6/6|3 mags | 0% jam chance | Items: Magazine x2
+16[2026-01-24 23:59:32] <DuckHunt> ..::: \_O< :::..  QUACK!
+21[2026-01-24 23:59:32] <@url> !bang
+18[2026-01-24 23:59:32] <DuckHunt> url > *BANG* You shot a FAST DUCK! [+12 xp] [Total ducks: 6]
+24[2026-01-25 00:00:00] * Day changed to Sunday, 25. Jan 2026
+16[2026-01-25 00:23:53] <DuckHunt> \_O< ≫ Q U A C K ≪
+21[2026-01-25 00:23:54] <@url> !bang
+18[2026-01-25 00:23:54] <DuckHunt> url > *BANG* You shot a FAST DUCK! [+12 xp] [Total ducks: 7]
+21[2026-01-25 00:24:23] <@url> !duckstats
+18[2026-01-25 00:24:23] <DuckHunt> url: Lv2 Pond Visitor | 19XP (Need 31 XP for Duck Hunter) | 7 shot | 0 befriended | 89% accuracy | 87.5% hit rate | Armed | 4/6|3 mags | 0% jam chance | Items: Magazine x2
+16[2026-01-25 02:00:00] <DuckHunt> ≋≋≋ \_O< ≋≋≋  QUACK!
+21[2026-01-25 02:00:01] <@url> !bang
+18[2026-01-25 02:00:01] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [4 HP remaining] [+15 xp] [Total ducks: 0]
+21[2026-01-25 02:00:13] <@url> !bang
+18[2026-01-25 02:00:14] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [3 HP remaining] [+15 xp] [Total ducks: 0]
+21[2026-01-25 02:00:15] <@url> !bang
+18[2026-01-25 02:00:15] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [2 HP remaining] [+15 xp] [Total ducks: 0]
+21[2026-01-25 02:00:16] <@url> !bang
+18[2026-01-25 02:00:16] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [1 HP remaining] [+15 xp] [Total ducks: 0]
+21[2026-01-25 02:00:17] <@url> !bang
+18[2026-01-25 02:00:17] <DuckHunt> url > *click* You're out of ammo! Use !reload
+21[2026-01-25 02:00:21] <@url> !reload
+18[2026-01-25 02:00:21] <DuckHunt> url > *click* New magazine loaded! [Ammo: 6/6] [Spare magazines: 1]
+21[2026-01-25 02:00:23] <@url> !bang
+18[2026-01-25 02:00:23] <DuckHunt> url > *BANG* You killed the GOLDEN DUCK! [+75 xp] [Total ducks: 8]
+18[2026-01-25 02:00:23] <DuckHunt> url > The golden duck dropped a Magazine! [Added to inventory]
+21[2026-01-25 02:00:30] <@url> !duckstats
+18[2026-01-25 02:00:30] <DuckHunt> url: Lv3 Duck Hunter | 94XP (Need 106 XP for Wetland Stalker) | 8 shot | 0 befriended | 94% accuracy | 88.9% hit rate | Armed | 6/6|3 mags | 0% jam chance | Items: Magazine x3
+16[2026-01-25 03:30:16] <DuckHunt> \_O<  *q u a c k*  (respawned)
+21[2026-01-25 03:30:17] <@url> !bang
+18[2026-01-25 03:30:17] <DuckHunt> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 9]
+21[2026-01-25 03:59:34] <@url> !duckstats
+18[2026-01-25 03:59:34] <DuckHunt> url: Lv3 Duck Hunter | 04XP (Need 96 XP for Wetland Stalker) | 9 shot | 0 befriended | 95% accuracy | 90.0% hit rate | Armed | 5/6|3 mags | 0% jam chance | Items: Magazine x3
+21[2026-01-25 04:04:49] <@url> !ducklaunch
+16[2026-01-25 04:58:30] <DuckHunt> ..::: \_O< :::..  QUACK!
+21[2026-01-25 04:58:30] <@url> !bang
+18[2026-01-25 04:58:30] <DuckHunt> url > *BANG* You shot a FAST DUCK! [+12 xp] [Total ducks: 10]
+18[2026-01-25 04:58:30] <DuckHunt> url > The fast duck dropped a Gun Brush! [Added to inventory]
+25[2026-01-25 16:56:45] * Now talking in: #url
+16[2026-01-25 16:58:31] <DuckHunt> ・゜゜・。。・゜゜\_o< quack~
+21[2026-01-25 16:58:32] <@url> !bang
+18[2026-01-25 16:58:32] <DuckHunt> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 11]
+21[2026-01-25 17:00:49] <@url> !duckstats
+18[2026-01-25 17:00:49] <DuckHunt> url: Lv3 Duck Hunter | 26XP (Need 74 XP for Wetland Stalker) | 11 shot | 0 befriended | 97% accuracy | 91.7% hit rate | Armed | 3/6|3 mags | 0% jam chance | Items: Magazine x3, Gun Brush x1
+16[2026-01-25 17:53:54] <DuckHunt> ⟦\_O<⟧  Q U A C K
+21[2026-01-25 17:53:54] <@url> !bang
+18[2026-01-25 17:53:55] <DuckHunt> url > *BANG* You shot a FAST DUCK! [+12 xp] [Total ducks: 12]
+16[2026-01-25 18:37:25] <DuckHunt> ・゜゜・。。・゜゜\_o< quack~
+21[2026-01-25 18:37:26] <@url> !bang
+18[2026-01-25 18:37:26] <DuckHunt> url > *BANG* You shot a FAST DUCK! [+12 xp] [Total ducks: 13]
+21[2026-01-25 18:37:42] <@url> !duckstats
+18[2026-01-25 18:37:43] <DuckHunt> url: Lv3 Duck Hunter | 50XP (Need 50 XP for Wetland Stalker) | 13 shot | 0 befriended | 99% accuracy | 92.9% hit rate | Armed | 1/6|3 mags | 0% jam chance | Items: Magazine x3, Gun Brush x1
+21[2026-01-25 18:37:52] <@url> !reload
+18[2026-01-25 18:37:52] <DuckHunt> url > *click* New magazine loaded! [Ammo: 6/6] [Spare magazines: 1]
+21[2026-01-25 18:37:59] <@url> !use 2
+18[2026-01-25 18:38:00] <DuckHunt> url > Used Magazine! (2 remaining)
+21[2026-01-25 18:38:05] <@url> !use 2
+18[2026-01-25 18:38:06] <DuckHunt> url > Already at maximum magazines (3) for current level!
+21[2026-01-25 18:38:11] <@url> !duckstats
+18[2026-01-25 18:38:12] <DuckHunt> url: Lv3 Duck Hunter | 50XP (Need 50 XP for Wetland Stalker) | 13 shot | 0 befriended | 99% accuracy | 92.9% hit rate | Armed | 6/6|3 mags | 0% jam chance | Items: Magazine x2, Gun Brush x1
+21[2026-01-25 18:38:28] <@url> !shop
+16[2026-01-25 18:38:28] <DuckHunt> DuckHunt Shop: (1) Single Bullet - 5 XP | (2) Magazine - 15 XP | (3) Sand - 10 XP | (4) Gun Brush - 20 XP | (5) Bread - 50 XP | (6) Hunter's Insurance - 75 XP | (7) Buy Gun Back - 40 XP | (8) Bucket of Water - 25 XP | You have 250 XP
+21[2026-01-25 18:38:50] <@url> !global top
+21[2026-01-25 18:38:55] <@url> !globaltop
+18[2026-01-25 18:38:55] <DuckHunt> Top XP:  🥇 loulan 664XP #computertech | 🥈 antitheus 627XP #computertech | 🥉 admiral_hubris 513XP #computertech | #4 url 250XP #url | #5 milambar 145XP #computertech
+16[2026-01-25 19:38:59] <DuckHunt> ..::: \_O< :::..  QUACK!
+21[2026-01-25 19:39:00] <@url> !bang
+18[2026-01-25 19:39:00] <DuckHunt> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 14]
+16[2026-01-25 20:31:30] <DuckHunt> ·.¸¸.·´¯`·.¸¸.·´¯`·. \_O<  QUACK!
+21[2026-01-25 20:31:30] <@url> !bang
+18[2026-01-25 20:31:31] <DuckHunt> url > *BANG* You shot a FAST DUCK! [+12 xp] [Total ducks: 15]
+16[2026-01-25 21:03:33] <DuckHunt> ・゜゜・。。・゜゜\_O< QUACK!
+21[2026-01-25 21:03:33] <@url> !bang
+18[2026-01-25 21:03:34] <DuckHunt> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 16]
+16[2026-01-25 21:59:07] <DuckHunt> ・゜゜・。。・゜゜\_o< quack~
+21[2026-01-25 21:59:08] <@url> !bang
+18[2026-01-25 21:59:08] <DuckHunt> url > *BANG* You shot a FAST DUCK! [+12 xp] [Total ducks: 17]
+16[2026-01-25 23:54:54] <DuckHunt> ・゜゜・。。・゜゜\_O> *flap flap*
+21[2026-01-25 23:54:55] <@url> !bang
+18[2026-01-25 23:54:55] <DuckHunt> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 18]
+24[2026-01-26 00:00:00] * Day changed to Monday, 26. Jan 2026
+24[2026-01-26 03:02:38] * Disconnected..
+24[2026-01-26 03:02:46] * Rejoined #url
+25[2026-01-26 03:02:46] * Now talking in: #url
+16[2026-01-26 03:45:17] <DuckHunt> -.,¸¸.-·°'`'°·-.,¸¸.-·°'`'°· \_O<   QUACK
+21[2026-01-26 03:45:17] <@url> !bang
+18[2026-01-26 03:45:18] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [4 HP remaining] [+15 xp] [Total ducks: 0]
+16[2026-01-26 03:46:17] <DuckHunt> The precious golden duck escapes to safety! ·°'`'°-.,¸¸.·°'`
+21[2026-01-26 04:17:57] <@url> !duckstats
+18[2026-01-26 04:17:58] <DuckHunt> url: Lv4 Wetland Stalker | 04XP (Need 296 XP for Apex Predator) | 18 shot | 0 befriended | 100% accuracy | 94.7% hit rate | Armed | 5/6|3 mags | 0% jam chance | Items: Magazine x2, Gun Brush x1
+16[2026-01-26 05:49:10] <DuckHunt> ·.¸¸.·´¯`·.¸¸.·´¯`·. \_O<  QUACK!
+21[2026-01-26 05:49:11] <@earl> !bang
+18[2026-01-26 05:49:11] <DuckHunt> earl > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 1]
+18[2026-01-26 05:49:11] <DuckHunt> earl > The duck dropped a Gun Brush! [Added to inventory]
+16[2026-01-26 06:28:11] <DuckHunt> ・゜゜・。。・゜゜\_O< QUACK!
+21[2026-01-26 06:28:11] <@earl> !bang
+18[2026-01-26 06:28:12] <DuckHunt> earl > *BANG* You shot a FAST DUCK! [+12 xp] [Total ducks: 2]
+16[2026-01-26 07:43:56] <DuckHunt> ・゜゜・。。・゜゜\_O< QUACK!
+21[2026-01-26 07:43:56] <@earl> !bang
+18[2026-01-26 07:43:57] <DuckHunt> earl > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 3]
+24[2026-01-26 16:11:03] * Disconnected..
+24[2026-01-26 16:11:10] * Rejoined #url
+25[2026-01-26 16:11:10] * Now talking in: #url
+16[2026-01-26 16:31:32] <DuckHunt> ..::: \_O< :::..  QUACK!
+21[2026-01-26 16:31:32] <@url> !bang
+18[2026-01-26 16:31:33] <DuckHunt> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 19]
+16[2026-01-26 17:46:04] <DuckHunt> \_O<  *q u a c k*  (respawned)
+21[2026-01-26 17:46:04] <@url> !bang
+18[2026-01-26 17:46:04] <DuckHunt> url > *click* Your gun jammed! [AMMO WASTED]
+16[2026-01-26 17:47:05] <DuckHunt> \o< The golden duck spreads its magnificent wings and soars away.
+16[2026-01-26 18:54:49] <DuckHunt> ・゜゜・。。・゜゜\_O< QUACK!
+21[2026-01-26 18:54:49] <@url> !bang
+18[2026-01-26 18:54:49] <DuckHunt> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 20]
+18[2026-01-26 18:54:49] <DuckHunt> url > The duck dropped a Gun Brush! [Added to inventory]
+21[2026-01-26 19:44:45] <@url> !duckstats
+18[2026-01-26 19:44:45] <DuckHunt> url: Lv4 Wetland Stalker | 24XP (Need 276 XP for Apex Predator) | 20 shot | 0 befriended | 100% accuracy | 95.2% hit rate | Armed | 2/6|3 mags | 0% jam chance | Items: Magazine x2, Gun Brush x2
+21[2026-01-26 19:44:54] <@url> !reload
+18[2026-01-26 19:44:54] <DuckHunt> url > *click* New magazine loaded! [Ammo: 6/6] [Spare magazines: 1]
+21[2026-01-26 19:45:07] <@url> !use 2
+18[2026-01-26 19:45:07] <DuckHunt> url > Used Magazine! (1 remaining)
+21[2026-01-26 19:45:10] <@url> !use 2
+18[2026-01-26 19:45:10] <DuckHunt> url > Already at maximum magazines (3) for current level!
+21[2026-01-26 19:45:14] <@url> !duckstats
+18[2026-01-26 19:45:14] <DuckHunt> url: Lv4 Wetland Stalker | 24XP (Need 276 XP for Apex Predator) | 20 shot | 0 befriended | 100% accuracy | 95.2% hit rate | Armed | 6/6|3 mags | 0% jam chance | Items: Magazine x1, Gun Brush x2
+21[2026-01-26 19:45:27] <@url> !shop
+16[2026-01-26 19:45:27] <DuckHunt> DuckHunt Shop: (1) Single Bullet - 5 XP | (2) Magazine - 15 XP | (3) Sand - 10 XP | (4) Gun Brush - 20 XP | (5) Bread - 50 XP | (6) Hunter's Insurance - 75 XP | (7) Buy Gun Back - 40 XP | (8) Bucket of Water - 25 XP | You have 324 XP
+21[2026-01-26 22:25:19] <@url> !duckstats
+18[2026-01-26 22:25:19] <DuckHunt> url: Lv4 Wetland Stalker | 24XP (Need 276 XP for Apex Predator) | 20 shot | 0 befriended | 100% accuracy | 95.2% hit rate | Armed | 6/6|3 mags | 0% jam chance | Items: Magazine x1, Gun Brush x2
+16[2026-01-26 22:28:37] <DuckHunt> -.,¸¸.-·°'`'°·-.,¸¸.-·°'`'°· \_O<   QUACK
+21[2026-01-26 22:28:38] <@url> !bang
+18[2026-01-26 22:28:38] <DuckHunt> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 21]
+21[2026-01-26 23:10:45] <@url> !duckstats
+18[2026-01-26 23:10:45] <DuckHunt> url: Lv4 Wetland Stalker | 34XP (Need 266 XP for Apex Predator) | 21 shot | 0 befriended | 100% accuracy | 95.5% hit rate | Armed | 5/6|3 mags | 0% jam chance | Items: Magazine x1, Gun Brush x2
+24[2026-01-27 00:00:00] * Day changed to Tuesday, 27. Jan 2026
+24[2026-01-27 05:30:49] * Disconnected..
+24[2026-01-27 05:30:57] * Rejoined #url
+25[2026-01-27 05:30:57] * Now talking in: #url
+16[2026-01-27 05:36:18] <DuckHunt> ~\_O<~  QUACK!  ~
+21[2026-01-27 05:36:18] <@url> !bang
+18[2026-01-27 05:36:18] <DuckHunt> url > *BANG* You shot a FAST DUCK! [+12 xp] [Total ducks: 22]
+16[2026-01-27 05:59:58] <DuckHunt> ・゜゜・。。・゜゜\_O< QUACK!
+21[2026-01-27 05:59:59] <@url> !bang
+18[2026-01-27 05:59:59] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [4 HP remaining] [+15 xp] [Total ducks: 0]
+16[2026-01-27 06:01:00] <DuckHunt> The precious golden duck escapes to safety! ·°'`'°-.,¸¸.·°'`
+21[2026-01-27 06:25:38] <@url> !globaltop
+18[2026-01-27 06:25:38] <DuckHunt> Top XP:  🥇 loulan 781XP #computertech | 🥈 antitheus 637XP #computertech | 🥉 admiral_hubris 553XP #computertech | #4 url 346XP #url | #5 milambar 150XP #computertech
+21[2026-01-27 06:25:47] <@url> !duckstats
+18[2026-01-27 06:25:48] <DuckHunt> url: Lv4 Wetland Stalker | 46XP (Need 254 XP for Apex Predator) | 22 shot | 0 befriended | 100% accuracy | 95.7% hit rate | Armed | 3/6|3 mags | 0% jam chance | Items: Magazine x1, Gun Brush x2
+16[2026-01-27 06:48:29] <DuckHunt> -.,¸¸.-·°'`'°·-.,¸¸.-·°'`'°· \_O<   QUACK
+21[2026-01-27 06:48:30] <@url> !bang
+18[2026-01-27 06:48:30] <DuckHunt> url > *BANG* You shot a FAST DUCK! [+12 xp] [Total ducks: 23]
+16[2026-01-27 07:38:18] <DuckHunt> ~\_O<~  QUACK!  ~
+21[2026-01-27 07:38:18] <@url> !bang
+18[2026-01-27 07:38:18] <DuckHunt> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 24]
+21[2026-01-27 08:46:10] <@url> !duckstats
+18[2026-01-27 08:46:10] <DuckHunt> url: Lv4 Wetland Stalker | 68XP (Need 232 XP for Apex Predator) | 24 shot | 0 befriended | 100% accuracy | 96.0% hit rate | Armed | 1/6|3 mags | 0% jam chance | Items: Magazine x1, Gun Brush x2
+21[2026-01-27 08:46:17] <@url> !reload
+18[2026-01-27 08:46:17] <DuckHunt> url > *click* New magazine loaded! [Ammo: 6/6] [Spare magazines: 1]
+21[2026-01-27 08:46:18] <@url> !bang
+18[2026-01-27 08:46:18] <DuckHunt> url > *BANG* What did you shoot at? There is no duck in the area... [GUN CONFISCATED]
+16[2026-01-27 08:51:22] <antitheus> !globaltop
+18[2026-01-27 08:51:22] <DuckHunt> Top XP:  🥇 loulan 781XP #computertech | 🥈 antitheus 637XP #computertech | 🥉 admiral_hubris 553XP #computertech | #4 url 368XP #url | #5 milambar 150XP #computertech
+18[2026-01-27 08:51:37] <antitheus> that's the combined xp of #url and #computertech?
+16[2026-01-27 08:52:08] <antitheus> oh it says which channel, nvm
+21[2026-01-27 09:02:10] <@url> it does ya
+21[2026-01-27 09:02:41] <@url> duckstats only shows the current channel its in
+21[2026-01-27 09:02:58] <@url> global is highests across the server
+21[2026-01-27 09:03:08] <@url> i'm disarmed atm
+21[2026-01-27 09:03:20] <@url> if you could kill the next one that'd be great :p
+16[2026-01-27 09:38:29] <DuckHunt> ・゜゜・。。・゜゜\_O< QUACK!
+21[2026-01-27 09:38:30] <@url> !bang
+18[2026-01-27 09:38:30] <DuckHunt> url > Your gun has been confiscated. Buy it back from the shop.
+16[2026-01-27 09:38:50] <DuckHunt> The swift duck darts away before you can blink! ·°'`'°-.,¸¸.·°'`
+16[2026-01-27 10:16:08] <DuckHunt> \_O<  *q u a c k*  (respawned)
+21[2026-01-27 10:16:08] <@url> !bang
+18[2026-01-27 10:16:08] <DuckHunt> url > Your gun has been confiscated. Buy it back from the shop.
+21[2026-01-27 10:16:28] <@url> shop 7
+21[2026-01-27 10:16:35] <@url> !shop 7
+18[2026-01-27 10:16:35] <DuckHunt> url > Successfully purchased Buy Gun Back for 40 XP! Stored in inventory (x1). Remaining XP: 328
+21[2026-01-27 10:16:40] <@url> !use 7
+18[2026-01-27 10:16:40] <DuckHunt> url > Your gun has been returned with 5 bullets and 0 magazines.
+21[2026-01-27 10:16:51] <@url> !bang
+18[2026-01-27 10:16:51] <DuckHunt> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 25]
+21[2026-01-27 10:16:59] <@url> !duckstats
+18[2026-01-27 10:16:59] <DuckHunt> url: Lv4 Wetland Stalker | 38XP (Need 262 XP for Apex Predator) | 25 shot | 0 befriended | 100% accuracy | 92.6% hit rate | Armed | 4/6|2 mags | 0% jam chance | Items: Magazine x1, Gun Brush x2
+21[2026-01-27 10:17:12] <@url> !shop
+16[2026-01-27 10:17:13] <DuckHunt> DuckHunt Shop: (1) Single Bullet - 5 XP | (2) Magazine - 15 XP | (3) Sand - 10 XP | (4) Gun Brush - 20 XP | (5) Bread - 50 XP | (6) Hunter's Insurance - 75 XP | (7) Buy Gun Back - 40 XP | (8) Bucket of Water - 25 XP | You have 338 XP
+21[2026-01-27 10:17:20] <@url> !shop 7
+18[2026-01-27 10:17:20] <DuckHunt> url > Successfully purchased Buy Gun Back for 40 XP! Stored in inventory (x1). Remaining XP: 298
+21[2026-01-27 10:17:21] <@url> !shop 7
+18[2026-01-27 10:17:21] <DuckHunt> url > Successfully purchased Buy Gun Back for 40 XP! Stored in inventory (x2). Remaining XP: 258
+21[2026-01-27 10:17:26] <@url> !shop 2
+18[2026-01-27 10:17:26] <DuckHunt> url > Successfully purchased Magazine for 15 XP! Stored in inventory (x2). Remaining XP: 243
+21[2026-01-27 10:17:28] <@url> !shop 2
+18[2026-01-27 10:17:28] <DuckHunt> url > Successfully purchased Magazine for 15 XP! Stored in inventory (x3). Remaining XP: 228
+21[2026-01-27 10:17:30] <@url> !shop 2
+18[2026-01-27 10:17:30] <DuckHunt> url > Successfully purchased Magazine for 15 XP! Stored in inventory (x4). Remaining XP: 213
+21[2026-01-27 10:17:36] <@url> !duckstats
+18[2026-01-27 10:17:36] <DuckHunt> url: Lv3 Duck Hunter | 13XP (Need 87 XP for Wetland Stalker) | 25 shot | 0 befriended | 100% accuracy | 92.6% hit rate | Armed | 4/6|2 mags | 0% jam chance | Items: Magazine x4, Gun Brush x2, Buy Gun Back x2
+16[2026-01-27 10:52:09] <DuckHunt> ・゜゜・。。・゜゜\_O< QUACK!
+21[2026-01-27 10:52:09] <@url> !bang
+18[2026-01-27 10:52:09] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [4 HP remaining] [+15 xp] [Total ducks: 0]
+21[2026-01-27 10:52:10] <@url> !bang
+18[2026-01-27 10:52:10] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [3 HP remaining] [+15 xp] [Total ducks: 0]
+21[2026-01-27 10:52:11] <@url> !bang
+18[2026-01-27 10:52:11] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [2 HP remaining] [+15 xp] [Total ducks: 0]
+21[2026-01-27 10:52:11] <@url> !bang
+18[2026-01-27 10:52:11] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [1 HP remaining] [+15 xp] [Total ducks: 0]
+21[2026-01-27 10:52:12] <@url> !bang
+18[2026-01-27 10:52:12] <DuckHunt> url > *click* You're out of ammo! Use !reload
+21[2026-01-27 10:52:12] <@url> !reload
+18[2026-01-27 10:52:13] <DuckHunt> url > *click* New magazine loaded! [Ammo: 6/6] [Spare magazines: 0]
+21[2026-01-27 10:52:13] <@url> !bang
+18[2026-01-27 10:52:13] <DuckHunt> url > *BANG* You killed the GOLDEN DUCK! [+75 xp] [Total ducks: 26]
+16[2026-01-27 11:42:38] <DuckHunt> ・゜゜・。。・゜゜\_O> *flap flap*
+21[2026-01-27 11:42:39] <@url> !bang
+18[2026-01-27 11:42:39] <DuckHunt> url > *BANG* You shot a FAST DUCK! [+12 xp] [Total ducks: 27]
+21[2026-01-27 11:53:33] <@url> !duckstats
+18[2026-01-27 11:53:33] <DuckHunt> url: Lv4 Wetland Stalker | 00XP (Need 300 XP for Apex Predator) | 27 shot | 0 befriended | 100% accuracy | 93.1% hit rate | Armed | 4/6|3 mags | 0% jam chance | Items: Magazine x4, Gun Brush x2, Buy Gun Back x2
+21[2026-01-27 11:53:44] <@url> !globaltop
+18[2026-01-27 11:53:44] <DuckHunt> Top XP:  🥇 loulan 781XP #computertech | 🥈 antitheus 637XP #computertech | 🥉 admiral_hubris 553XP #computertech | #4 url 300XP #url | #5 milambar 150XP #computertech
+16[2026-01-27 13:34:14] <DuckHunt> ・゜゜・。。・゜゜\_O< QUACK!
+21[2026-01-27 13:34:15] <@url> !bang
+18[2026-01-27 13:34:15] <DuckHunt> url > *BANG* You missed the duck! [-1 XP]
+21[2026-01-27 13:34:15] <@url> !bang
+18[2026-01-27 13:34:15] <DuckHunt> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 28]
+21[2026-01-27 13:34:52] <@url> !duckstats
+18[2026-01-27 13:34:52] <DuckHunt> url: Lv4 Wetland Stalker | 09XP (Need 291 XP for Apex Predator) | 28 shot | 0 befriended | 99% accuracy | 90.3% hit rate | Armed | 6/6|3 mags | 0% jam chance | Items: Magazine x4, Gun Brush x2, Buy Gun Back x2
+16[2026-01-27 16:21:10] <DuckHunt> ·.¸¸.·´¯`·.¸¸.·´¯`·. \_O<  QUACK!
+21[2026-01-27 16:21:10] <@url> !bang
+18[2026-01-27 16:21:10] <DuckHunt> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 29]
+21[2026-01-27 16:33:17] <@url> !duckstats
+18[2026-01-27 16:33:17] <DuckHunt> url: Lv4 Wetland Stalker | 19XP (Need 281 XP for Apex Predator) | 29 shot | 0 befriended | 100% accuracy | 90.6% hit rate | Armed | 5/6|3 mags | 0% jam chance | Items: Magazine x4, Gun Brush x2, Buy Gun Back x2
+16[2026-01-27 16:41:28] <DuckHunt> ~\_O<~  QUACK!  ~
+21[2026-01-27 16:41:29] <@url> !bang
+18[2026-01-27 16:41:29] <DuckHunt> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 30]
+16[2026-01-27 17:38:43] <DuckHunt> \_O<  *q u a c k*  (respawned)
+21[2026-01-27 17:38:43] <@url> !bang
+18[2026-01-27 17:38:43] <DuckHunt> url > *BANG* You shot a FAST DUCK! [+12 xp] [Total ducks: 31]
+16[2026-01-27 18:47:41] <DuckHunt> ~\_O<~  QUACK!  ~
+21[2026-01-27 18:47:42] <@url> !bang
+18[2026-01-27 18:47:42] <DuckHunt> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 32]
+16[2026-01-27 19:14:24] <DuckHunt> \_O< ≫ Q U A C K ≪
+21[2026-01-27 19:14:24] <@url> !bang
+18[2026-01-27 19:14:24] <DuckHunt> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 33]
+16[2026-01-27 21:35:14] <DuckHunt> \_O< ≫ Q U A C K ≪
+21[2026-01-27 21:35:14] <@url> !bang
+18[2026-01-27 21:35:14] <DuckHunt> url > *BANG* You shot a FAST DUCK! [+12 xp] [Total ducks: 34]
+18[2026-01-27 21:35:14] <DuckHunt> url > The fast duck dropped a Magazine! [Added to inventory]
+16[2026-01-27 22:23:35] <DuckHunt> ・゜゜・。。・゜゜\_O> *flap flap*
+21[2026-01-27 22:23:35] <@url> !bang
+18[2026-01-27 22:23:35] <DuckHunt> url > *click* You're out of ammo! Use !reload
+21[2026-01-27 22:23:36] <@url> !reload
+18[2026-01-27 22:23:36] <DuckHunt> url > *click* New magazine loaded! [Ammo: 6/6] [Spare magazines: 1]
+21[2026-01-27 22:23:36] <@url> !bang
+18[2026-01-27 22:23:37] <DuckHunt> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 35]
+16[2026-01-27 23:22:42] <DuckHunt> ≋≋≋ \_O< ≋≋≋  QUACK!
+21[2026-01-27 23:22:42] <@url> !bang
+18[2026-01-27 23:22:42] <DuckHunt> url > *BANG* You shot a FAST DUCK! [+12 xp] [Total ducks: 36]
+24[2026-01-28 00:00:00] * Day changed to Wednesday, 28. Jan 2026
+24[2026-01-28 03:05:20] * Disconnected..
+24[2026-01-28 03:05:27] * Rejoined #url
+25[2026-01-28 03:05:27] * Now talking in: #url
+16[2026-01-28 03:20:08] <DuckHunt> ・゜゜・。。・゜゜\_O< QUACK!
+21[2026-01-28 03:20:08] <@url> !bang
+18[2026-01-28 03:20:08] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [4 HP remaining] [+15 xp] [Total ducks: 0]
+21[2026-01-28 03:20:09] <@url> !bang
+18[2026-01-28 03:20:09] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [3 HP remaining] [+15 xp] [Total ducks: 0]
+21[2026-01-28 03:20:09] <@url> !bang
+18[2026-01-28 03:20:09] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [2 HP remaining] [+15 xp] [Total ducks: 0]
+21[2026-01-28 03:20:10] <@url> !bang
+18[2026-01-28 03:20:10] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [1 HP remaining] [+15 xp] [Total ducks: 0]
+21[2026-01-28 03:20:10] <@url> !bang
+18[2026-01-28 03:20:11] <DuckHunt> url > *click* You're out of ammo! Use !reload
+21[2026-01-28 03:20:11] <@url> !reload
+18[2026-01-28 03:20:11] <DuckHunt> url > *click* New magazine loaded! [Ammo: 6/6] [Spare magazines: 0]
+21[2026-01-28 03:20:12] <@url> !bang
+18[2026-01-28 03:20:12] <DuckHunt> url > *BANG* You killed the GOLDEN DUCK! [+75 xp] [Total ducks: 37]
+18[2026-01-28 03:20:12] <DuckHunt> url > The golden duck dropped a Single Bullet! [Added to inventory]
+16[2026-01-28 03:47:36] <DuckHunt> ・゜゜・。。・゜゜\_O> *flap flap*
+21[2026-01-28 03:47:37] <@url> !bang
+18[2026-01-28 03:47:37] <DuckHunt> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 38]
+21[2026-01-28 04:17:28] <@url> !bang
+18[2026-01-28 04:17:28] <DuckHunt> url > *BANG* What did you shoot at? There is no duck in the area... [GUN CONFISCATED]
+21[2026-01-28 04:18:04] <@url> !use 1
+18[2026-01-28 04:18:04] <DuckHunt> url > Used Single Bullet!
+21[2026-01-28 04:18:09] <@url> !use 7
+18[2026-01-28 04:18:09] <DuckHunt> url > Your gun has been returned with 3 bullets and 0 magazines. (1 remaining)
+21[2026-01-28 04:18:27] <@url> !duckstats
+18[2026-01-28 04:18:28] <DuckHunt> url: Lv4 Wetland Stalker | 80XP (Need 120 XP for Apex Predator) | 38 shot | 0 befriended | 100% accuracy | 90.5% hit rate | Armed | 3/6|1 mags | 0% jam chance | Items: Magazine x5, Gun Brush x2, Buy Gun Back x1
+21[2026-01-28 04:19:33] <@url> !use 2
+18[2026-01-28 04:19:34] <DuckHunt> url > Used Magazine! (4 remaining)
+21[2026-01-28 04:19:41] <@url> !duckstats
+18[2026-01-28 04:19:41] <DuckHunt> url: Lv4 Wetland Stalker | 80XP (Need 120 XP for Apex Predator) | 38 shot | 0 befriended | 100% accuracy | 90.5% hit rate | Armed | 3/6|2 mags | 0% jam chance | Items: Magazine x4, Gun Brush x2, Buy Gun Back x1
+21[2026-01-28 04:19:48] <@url> !use 2
+18[2026-01-28 04:19:48] <DuckHunt> url > Used Magazine! (3 remaining)
+21[2026-01-28 04:19:51] <@url> !duckstats
+18[2026-01-28 04:19:51] <DuckHunt> url: Lv4 Wetland Stalker | 80XP (Need 120 XP for Apex Predator) | 38 shot | 0 befriended | 100% accuracy | 90.5% hit rate | Armed | 3/6|3 mags | 0% jam chance | Items: Magazine x3, Gun Brush x2, Buy Gun Back x1
+21[2026-01-28 04:20:06] <@url> !globaltop
+18[2026-01-28 04:20:07] <DuckHunt> Top XP:  🥇 loulan 781XP #computertech | 🥈 antitheus 637XP #computertech | 🥉 admiral_hubris 583XP #computertech | #4 url 480XP #url | #5 milambar 150XP #computertech
+16[2026-01-28 06:39:22] <DuckHunt> ≋≋≋ \_O< ≋≋≋  QUACK!
+21[2026-01-28 06:39:23] <@url> !bang
+18[2026-01-28 06:39:23] <DuckHunt> url > *BANG* You missed and hit antitheus! [GUN CONFISCATED] [LOST 25 XP]
+16[2026-01-28 06:40:23] <DuckHunt> The duck escapes into the sky! ·°'`'°-.,¸¸.·°'`
+24[2026-01-28 15:57:29] * Disconnected..
+24[2026-01-28 15:57:37] * Rejoined #url
+25[2026-01-28 15:57:37] * Now talking in: #url
+16[2026-01-28 16:29:56] <DuckHunt> ⟦\_O<⟧  Q U A C K
+21[2026-01-28 16:29:57] <@url> !bang
+18[2026-01-28 16:29:57] <DuckHunt> url > Your gun has been confiscated. Buy it back from the shop.
+16[2026-01-28 16:30:57] <DuckHunt> The duck escapes into the sky! ·°'`'°-.,¸¸.·°'`
+16[2026-01-28 17:11:33] <DuckHunt> ..::: \_O< :::..  QUACK!
+21[2026-01-28 17:11:33] <@url> !bang
+18[2026-01-28 17:11:34] <DuckHunt> url > Your gun has been confiscated. Buy it back from the shop.
+16[2026-01-28 17:11:54] <DuckHunt> The swift duck darts away before you can blink! ·°'`'°-.,¸¸.·°'`
+16[2026-01-28 17:54:47] <DuckHunt> ≋≋≋ \_O< ≋≋≋  QUACK!
+21[2026-01-28 17:54:47] <@url> !bang
+18[2026-01-28 17:54:47] <DuckHunt> url > Your gun has been confiscated. Buy it back from the shop.
+16[2026-01-28 17:55:48] <DuckHunt> The duck takes flight and vanishes! ·°'`'°-.,¸¸.·°'`
+21[2026-01-28 18:40:14] <@url> !use 7
+18[2026-01-28 18:40:14] <DuckHunt> url > Your gun has been returned with 2 bullets and 0 magazines.
+21[2026-01-28 18:40:27] <@url> !duckstats
+18[2026-01-28 18:40:27] <DuckHunt> url: Lv4 Wetland Stalker | 54XP (Need 146 XP for Apex Predator) | 38 shot | 0 befriended | 98% accuracy | 88.4% hit rate | Armed | 2/6|3 mags | 0% jam chance | Items: Magazine x3, Gun Brush x2
+21[2026-01-28 18:40:37] <@url> !reload
+18[2026-01-28 18:40:38] <DuckHunt> url > *click* New magazine loaded! [Ammo: 6/6] [Spare magazines: 1]
+21[2026-01-28 18:40:38] <@url> !bang
+18[2026-01-28 18:40:38] <DuckHunt> url > *BANG* What did you shoot at? There is no duck in the area... [GUN CONFISCATED]
+21[2026-01-28 18:40:50] <@url> ffs
+21[2026-01-28 18:40:57] <@url> !shop 7
+18[2026-01-28 18:40:58] <DuckHunt> url > Successfully purchased Buy Gun Back for 40 XP! Stored in inventory (x1). Remaining XP: 414
+21[2026-01-28 18:41:06] <@url> !use 7
+18[2026-01-28 18:41:06] <DuckHunt> url > Your gun has been returned with 5 bullets and 0 magazines.
+21[2026-01-28 18:41:13] <@url> !duckstats
+18[2026-01-28 18:41:13] <DuckHunt> url: Lv4 Wetland Stalker | 14XP (Need 186 XP for Apex Predator) | 38 shot | 0 befriended | 98% accuracy | 86.4% hit rate | Armed | 5/6|2 mags | 0% jam chance | Items: Magazine x3, Gun Brush x2
+16[2026-01-28 21:09:29] <DuckHunt> ・゜゜・。。・゜゜\_o< quack~
+21[2026-01-28 21:09:30] <@url> !bang
+18[2026-01-28 21:09:30] <DuckHunt> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 39]
+21[2026-01-28 21:20:23] <@url> !duckstats
+18[2026-01-28 21:20:23] <DuckHunt> url: Lv4 Wetland Stalker | 24XP (Need 176 XP for Apex Predator) | 39 shot | 0 befriended | 99% accuracy | 86.7% hit rate | Armed | 4/6|2 mags | 0% jam chance | Items: Magazine x3, Gun Brush x2
+21[2026-01-28 21:20:33] <@url> !globaltop
+18[2026-01-28 21:20:33] <DuckHunt> Top XP:  🥇 loulan 781XP #computertech | 🥈 antitheus 647XP #computertech | 🥉 admiral_hubris 616XP #computertech | #4 url 424XP #url | #5 milambar 150XP #computertech
+16[2026-01-28 22:37:25] <DuckHunt> ・゜゜・。。・゜゜\_o< quack~
+21[2026-01-28 22:37:25] <@url> !bang
+18[2026-01-28 22:37:25] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [3 HP remaining] [+15 xp] [Total ducks: 0]
+21[2026-01-28 22:37:26] <@url> !bang
+18[2026-01-28 22:37:26] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [2 HP remaining] [+15 xp] [Total ducks: 0]
+21[2026-01-28 22:37:26] <@url> !bang
+18[2026-01-28 22:37:27] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [1 HP remaining] [+15 xp] [Total ducks: 0]
+21[2026-01-28 22:37:27] <@url> !bang
+18[2026-01-28 22:37:27] <DuckHunt> url > *BANG* You killed the GOLDEN DUCK! [+60 xp] [Total ducks: 40]
+16[2026-01-28 23:07:43] <DuckHunt> ・゜゜・。。・゜゜\_O> *flap flap*
+21[2026-01-28 23:07:43] <@url> !bang
+18[2026-01-28 23:07:43] <DuckHunt> url > *click* You're out of ammo! Use !reload
+21[2026-01-28 23:07:44] <@url> !reload
+18[2026-01-28 23:07:44] <DuckHunt> url > *click* New magazine loaded! [Ammo: 6/6] [Spare magazines: 0]
+21[2026-01-28 23:07:44] <@url> !bang
+18[2026-01-28 23:07:45] <DuckHunt> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 41]
+24[2026-01-29 00:00:00] * Day changed to Thursday, 29. Jan 2026
+16[2026-01-29 01:14:42] <DuckHunt> ・゜゜・。。・゜゜\_O< QUACK!
+21[2026-01-29 01:14:42] <@earl> !bang
+18[2026-01-29 01:14:42] <DuckHunt> earl > *BANG* You shot a FAST DUCK! [+12 xp] [Total ducks: 4]
+16[2026-01-29 04:13:01] <DuckHunt> ・゜゜・。。・゜゜\_O< QUACK!
+21[2026-01-29 04:13:02] <@earl> !bang
+18[2026-01-29 04:13:02] <DuckHunt> earl > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 5]
+16[2026-01-29 05:35:29] <DuckHunt> ・゜゜・。。・゜゜\_O< QUACK!
+21[2026-01-29 05:35:29] <@earl> !bang
+18[2026-01-29 05:35:29] <DuckHunt> earl > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 6]
+16[2026-01-29 05:59:59] <DuckHunt> -.,¸¸.-·°'`'°·-.,¸¸.-·°'`'°· \_O<   QUACK
+21[2026-01-29 06:00:00] <@earl> !bang
+18[2026-01-29 06:00:00] <DuckHunt> earl > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 7]
+24[2026-01-29 07:31:50] * Disconnected..
+24[2026-01-29 07:31:58] * Rejoined #url
+25[2026-01-29 07:31:58] * Now talking in: #url
+16[2026-01-29 07:41:08] <DuckHunt> ≋≋≋ \_O< ≋≋≋  QUACK!
+21[2026-01-29 07:41:08] <@url> !bang
+18[2026-01-29 07:41:09] <DuckHunt> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 42]
+16[2026-01-29 08:08:22] <DuckHunt> ・゜゜・。。・゜゜\_O< QUACK!
+21[2026-01-29 08:08:22] <@url> !bang
+18[2026-01-29 08:08:22] <DuckHunt> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 43]
+24[2026-01-29 10:04:40] * Disconnected..
+24[2026-01-29 10:04:47] * Rejoined #url
+25[2026-01-29 10:04:47] * Now talking in: #url
+21[2026-01-29 10:05:31] <@url> !duckstats
+18[2026-01-29 10:05:31] <DuckHunt> url: Lv4 Wetland Stalker | 14XP (Need 86 XP for Apex Predator) | 43 shot | 0 befriended | 100% accuracy | 87.8% hit rate | Armed | 3/6|1 mags | 0% jam chance | Items: Magazine x3, Gun Brush x2
+21[2026-01-29 10:05:37] <@url> !globaltop
+18[2026-01-29 10:05:37] <DuckHunt> Top XP:  🥇 loulan 791XP #computertech | 🥈 antitheus 656XP #computertech | 🥉 admiral_hubris 616XP #computertech | #4 url 514XP #url | #5 milambar 150XP #computertech
+21[2026-01-29 10:10:45] <@url> !shop
+16[2026-01-29 10:10:46] <DuckHunt> DuckHunt Shop: (1) Single Bullet - 5 XP | (2) Magazine - 15 XP | (3) Sand - 10 XP | (4) Gun Brush - 20 XP | (5) Bread - 50 XP | (6) Hunter's Insurance - 75 XP | (7) Buy Gun Back - 40 XP | (8) Bucket of Water - 25 XP | You have 514 XP
+21[2026-01-29 10:11:01] <@url> !shop 2
+18[2026-01-29 10:11:02] <DuckHunt> url > Successfully purchased Magazine for 15 XP! Stored in inventory (x4). Remaining XP: 499
+21[2026-01-29 10:11:02] <@url> !shop 2
+18[2026-01-29 10:11:03] <DuckHunt> url > Successfully purchased Magazine for 15 XP! Stored in inventory (x5). Remaining XP: 484
+21[2026-01-29 10:11:03] <@url> !shop 2
+18[2026-01-29 10:11:04] <DuckHunt> url > Successfully purchased Magazine for 15 XP! Stored in inventory (x6). Remaining XP: 469
+21[2026-01-29 10:11:04] <@url> !shop 2
+18[2026-01-29 10:11:05] <DuckHunt> url > Successfully purchased Magazine for 15 XP! Stored in inventory (x7). Remaining XP: 454
+21[2026-01-29 10:11:11] <@url> !use 2
+18[2026-01-29 10:11:12] <DuckHunt> url > Used Magazine! (6 remaining)
+21[2026-01-29 10:11:13] <@url> !use 2
+18[2026-01-29 10:11:14] <DuckHunt> url > Used Magazine! (5 remaining)
+21[2026-01-29 10:11:20] <@url> !duckstats
+18[2026-01-29 10:11:20] <DuckHunt> url: Lv4 Wetland Stalker | 54XP (Need 146 XP for Apex Predator) | 43 shot | 0 befriended | 100% accuracy | 87.8% hit rate | Armed | 3/6|3 mags | 0% jam chance | Items: Magazine x5, Gun Brush x2
+21[2026-01-29 10:11:29] <@url> !shop 7
+18[2026-01-29 10:11:29] <DuckHunt> url > Successfully purchased Buy Gun Back for 40 XP! Stored in inventory (x1). Remaining XP: 414
+21[2026-01-29 10:11:31] <@url> !shop 7
+18[2026-01-29 10:11:31] <DuckHunt> url > Successfully purchased Buy Gun Back for 40 XP! Stored in inventory (x2). Remaining XP: 374
+21[2026-01-29 10:11:35] <@url> !duckstats
+18[2026-01-29 10:11:35] <DuckHunt> url: Lv4 Wetland Stalker | 74XP (Need 226 XP for Apex Predator) | 43 shot | 0 befriended | 100% accuracy | 87.8% hit rate | Armed | 3/6|3 mags | 0% jam chance | Items: Magazine x5, Gun Brush x2, Buy Gun Back x2
+21[2026-01-29 10:11:47] <@url> !shop
+16[2026-01-29 10:11:47] <DuckHunt> DuckHunt Shop: (1) Single Bullet - 5 XP | (2) Magazine - 15 XP | (3) Sand - 10 XP | (4) Gun Brush - 20 XP | (5) Bread - 50 XP | (6) Hunter's Insurance - 75 XP | (7) Buy Gun Back - 40 XP | (8) Bucket of Water - 25 XP | You have 374 XP
+16[2026-01-29 10:16:18] <DuckHunt> \_O<  *q u a c k*  (respawned)
+21[2026-01-29 10:16:19] <@url> !bang
+18[2026-01-29 10:16:19] <DuckHunt> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 44]
+25[2026-01-29 11:04:35] * Now talking in: #url
+21[2026-01-29 11:13:17] <@url> !globltop
+21[2026-01-29 11:13:22] <@url> !globaltop
+18[2026-01-29 11:13:22] <DuckHunt> Top XP:  🥇 loulan 791XP #computertech | 🥈 antitheus 656XP #computertech | 🥉 admiral_hubris 628XP #computertech | #4 url 384XP #url | #5 milambar 150XP #computertech
+21[2026-01-29 11:13:29] <@url> !duckstats
+18[2026-01-29 11:13:30] <DuckHunt> url: Lv4 Wetland Stalker | 84XP (Need 216 XP for Apex Predator) | 44 shot | 0 befriended | 100% accuracy | 88.0% hit rate | Armed | 2/6|3 mags | 0% jam chance | Items: Magazine x5, Gun Brush x2, Buy Gun Back x2
+21[2026-01-29 11:13:31] <@url> !shop
+16[2026-01-29 11:13:32] <DuckHunt> DuckHunt Shop: (1) Single Bullet - 5 XP | (2) Magazine - 15 XP | (3) Sand - 10 XP | (4) Gun Brush - 20 XP | (5) Bread - 50 XP | (6) Hunter's Insurance - 75 XP | (7) Buy Gun Back - 40 XP | (8) Bucket of Water - 25 XP | You have 384 XP
+16[2026-01-29 12:07:55] <DuckHunt> ⟦\_O<⟧  Q U A C K
+21[2026-01-29 12:07:55] <@url> !bang
+18[2026-01-29 12:07:56] <DuckHunt> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 45]
+21[2026-01-29 12:08:18] <@url> !duckstats
+18[2026-01-29 12:08:19] <DuckHunt> url: Lv4 Wetland Stalker | 94XP (Need 206 XP for Apex Predator) | 45 shot | 0 befriended | 100% accuracy | 88.2% hit rate | Armed | 1/6|3 mags | 0% jam chance | Items: Magazine x5, Gun Brush x2, Buy Gun Back x2
+21[2026-01-29 12:08:26] <@url> !reload
+18[2026-01-29 12:08:27] <DuckHunt> url > *click* New magazine loaded! [Ammo: 6/6] [Spare magazines: 1]
+21[2026-01-29 12:08:27] <@url> !bang
+18[2026-01-29 12:08:28] <DuckHunt> url > *BANG* What did you shoot at? There is no duck in the area... [GUN CONFISCATED]
+21[2026-01-29 12:08:37] <@url> !use 7
+18[2026-01-29 12:08:38] <DuckHunt> url > Your gun has been returned with 5 bullets and 0 magazines. (1 remaining)
+16[2026-01-29 12:53:51] <DuckHunt> ≋≋≋ \_O< ≋≋≋  QUACK!
+21[2026-01-29 12:53:52] <@url> !bang
+18[2026-01-29 12:53:52] <DuckHunt> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 46]
+16[2026-01-29 13:25:21] <DuckHunt> ・゜゜・。。・゜゜\_O< QUACK!
+21[2026-01-29 13:25:22] <@url> !bang
+18[2026-01-29 13:25:23] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [4 HP remaining] [+15 xp] [Total ducks: 0]
+21[2026-01-29 13:25:23] <@url> !bang
+18[2026-01-29 13:25:24] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [3 HP remaining] [+15 xp] [Total ducks: 0]
+21[2026-01-29 13:25:24] <@url> !bang
+18[2026-01-29 13:25:25] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [2 HP remaining] [+15 xp] [Total ducks: 0]
+21[2026-01-29 13:25:25] <@url> !bang
+18[2026-01-29 13:25:26] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [1 HP remaining] [+15 xp] [Total ducks: 0]
+21[2026-01-29 13:25:26] <@url> !bang
+18[2026-01-29 13:25:27] <DuckHunt> url > *click* You're out of ammo! Use !reload
+21[2026-01-29 13:25:27] <@url> !reload
+18[2026-01-29 13:25:28] <DuckHunt> url > *click* New magazine loaded! [Ammo: 6/6] [Spare magazines: 0]
+21[2026-01-29 13:25:28] <@url> !bang
+18[2026-01-29 13:25:29] <DuckHunt> url > *click* Your gun jammed! [AMMO WASTED]
+21[2026-01-29 13:25:29] <@url> !bang
+18[2026-01-29 13:25:30] <DuckHunt> url > *BANG* You killed the GOLDEN DUCK! [+75 xp] [Total ducks: 47]
+18[2026-01-29 13:25:30] <DuckHunt> url > The golden duck dropped a Magazine! [Added to inventory]
+21[2026-01-29 13:26:08] <@url> !duckstats
+18[2026-01-29 13:26:09] <DuckHunt> url: Lv4 Wetland Stalker | 79XP (Need 121 XP for Apex Predator) | 47 shot | 0 befriended | 100% accuracy | 87.0% hit rate | Armed | 4/6|1 mags | 0% jam chance | Items: Magazine x6, Gun Brush x2, Buy Gun Back x1
+21[2026-01-29 13:26:22] <@url> !use 2
+18[2026-01-29 13:26:22] <DuckHunt> url > Used Magazine! (5 remaining)
+21[2026-01-29 13:26:26] <@url> !use 2
+18[2026-01-29 13:26:26] <DuckHunt> url > Used Magazine! (4 remaining)
+21[2026-01-29 13:26:29] <@url> !duckstats
+18[2026-01-29 13:26:30] <DuckHunt> url: Lv4 Wetland Stalker | 79XP (Need 121 XP for Apex Predator) | 47 shot | 0 befriended | 100% accuracy | 87.0% hit rate | Armed | 4/6|3 mags | 0% jam chance | Items: Magazine x4, Gun Brush x2, Buy Gun Back x1
+21[2026-01-29 13:26:53] <@url> !shop
+16[2026-01-29 13:26:54] <DuckHunt> DuckHunt Shop: (1) Single Bullet - 5 XP | (2) Magazine - 15 XP | (3) Sand - 10 XP | (4) Gun Brush - 20 XP | (5) Bread - 50 XP | (6) Hunter's Insurance - 75 XP | (7) Buy Gun Back - 40 XP | (8) Bucket of Water - 25 XP | You have 479 XP
+21[2026-01-29 13:27:01] <@url> !golbaltop
+21[2026-01-29 13:27:11] <@url> !globaltop
+18[2026-01-29 13:27:12] <DuckHunt> Top XP:  🥇 loulan 791XP #computertech | 🥈 antitheus 656XP #computertech | 🥉 admiral_hubris 638XP #computertech | #4 url 479XP #url | #5 milambar 150XP #computertech
+16[2026-01-29 13:48:39] <DuckHunt> ·.¸¸.·´¯`·.¸¸.·´¯`·. \_O<  QUACK!
+21[2026-01-29 13:48:39] <@url> !bang
+18[2026-01-29 13:48:40] <DuckHunt> url > *BANG* You shot a FAST DUCK! [+12 xp] [Total ducks: 48]
+16[2026-01-29 14:11:03] <DuckHunt> ≋≋≋ \_O< ≋≋≋  QUACK!
+21[2026-01-29 14:11:04] <@url> !bang
+18[2026-01-29 14:11:04] <DuckHunt> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 49]
+16[2026-01-29 18:14:33] <DuckHunt> ・゜゜・。。・゜゜\_o< quack~
+21[2026-01-29 18:14:34] <@url> !bang
+18[2026-01-29 18:14:34] <DuckHunt> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 50]
+21[2026-01-29 18:19:46] <@url> !duckstats
+18[2026-01-29 18:19:47] <DuckHunt> url: Lv4 Wetland Stalker | 11XP (Need 89 XP for Apex Predator) | 50 shot | 0 befriended | 100% accuracy | 87.7% hit rate | Armed | 1/6|3 mags | 0% jam chance | Items: Magazine x4, Gun Brush x2, Buy Gun Back x1
+16[2026-01-29 19:32:24] <DuckHunt> ~\_O<~  QUACK!  ~
+21[2026-01-29 19:32:24] <@url> !bang
+18[2026-01-29 19:32:25] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [4 HP remaining] [+15 xp] [Total ducks: 0]
+21[2026-01-29 19:32:26] <@url> !bang
+18[2026-01-29 19:32:26] <DuckHunt> url > *click* You're out of ammo! Use !reload
+21[2026-01-29 19:32:27] <@url> !reload
+18[2026-01-29 19:32:27] <DuckHunt> url > *click* New magazine loaded! [Ammo: 6/6] [Spare magazines: 1]
+21[2026-01-29 19:32:28] <@url> !bang
+18[2026-01-29 19:32:28] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [3 HP remaining] [+15 xp] [Total ducks: 0]
+21[2026-01-29 19:32:29] <@url> !bang
+18[2026-01-29 19:32:29] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [2 HP remaining] [+15 xp] [Total ducks: 0]
+21[2026-01-29 19:32:30] <@url> !bang
+18[2026-01-29 19:32:30] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [1 HP remaining] [+15 xp] [Total ducks: 0]
+21[2026-01-29 19:32:31] <@url> !bang
+18[2026-01-29 19:32:31] <DuckHunt> url > *BANG* You killed the GOLDEN DUCK! [+75 xp] [Total ducks: 51]
+16[2026-01-29 19:57:19] <DuckHunt> ·.¸¸.·´¯`·.¸¸.·´¯`·. \_O<  QUACK!
+21[2026-01-29 19:57:19] <@url> !bang
+18[2026-01-29 19:57:20] <DuckHunt> url > *BANG* You shot a FAST DUCK! [+12 xp] [Total ducks: 52]
+21[2026-01-29 20:04:25] <@url> !globaltop
+18[2026-01-29 20:04:25] <DuckHunt> Top XP:  🥇 loulan 801XP #computertech | 🥈 antitheus 656XP #computertech | 🥉 admiral_hubris 638XP #computertech | #4 url 598XP #url | #5 milambar 150XP #computertech
+21[2026-01-29 21:22:14] <@url> !duckstats
+18[2026-01-29 21:22:15] <DuckHunt> url: Lv4 Wetland Stalker | 98XP (Need 2 XP for Apex Predator) | 52 shot | 0 befriended | 100% accuracy | 88.1% hit rate | Armed | 1/6|2 mags | 0% jam chance | Items: Magazine x4, Gun Brush x2, Buy Gun Back x1
+21[2026-01-29 21:22:20] <@url> !shop
+16[2026-01-29 21:22:21] <DuckHunt> DuckHunt Shop: (1) Single Bullet - 5 XP | (2) Magazine - 15 XP | (3) Sand - 10 XP | (4) Gun Brush - 20 XP | (5) Bread - 50 XP | (6) Hunter's Insurance - 75 XP | (7) Buy Gun Back - 40 XP | (8) Bucket of Water - 25 XP | You have 598 XP
+16[2026-01-29 21:46:16] <DuckHunt> ・゜゜・。。・゜゜\_O> *flap flap*
+21[2026-01-29 21:46:16] <@url> !bang
+18[2026-01-29 21:46:17] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [4 HP remaining] [+15 xp] [Total ducks: 0]
+21[2026-01-29 21:46:17] <@url> !bang
+18[2026-01-29 21:46:18] <DuckHunt> url > *click* You're out of ammo! Use !reload
+21[2026-01-29 21:46:18] <@url> !reload
+18[2026-01-29 21:46:19] <DuckHunt> url > *click* New magazine loaded! [Ammo: 6/6] [Spare magazines: 0]
+21[2026-01-29 21:46:19] <@url> !bang
+18[2026-01-29 21:46:20] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [3 HP remaining] [+15 xp] [Total ducks: 0]
+21[2026-01-29 21:46:20] <@url> !bang
+18[2026-01-29 21:46:21] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [2 HP remaining] [+15 xp] [Total ducks: 0]
+21[2026-01-29 21:46:21] <@url> !bang
+18[2026-01-29 21:46:22] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [1 HP remaining] [+15 xp] [Total ducks: 0]
+21[2026-01-29 21:46:22] <@url> !bang
+18[2026-01-29 21:46:23] <DuckHunt> url > *BANG* You missed the duck! [-1 XP]
+21[2026-01-29 21:46:23] <@url> !bang
+18[2026-01-29 21:46:24] <DuckHunt> url > *BANG* You killed the GOLDEN DUCK! [+75 xp] [Total ducks: 53]
+16[2026-01-29 23:24:11] <DuckHunt> ・゜゜・。。・゜゜\_O< QUACK!
+21[2026-01-29 23:24:11] <@url> !bang
+18[2026-01-29 23:24:12] <DuckHunt> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 54]
+24[2026-01-30 00:00:00] * Day changed to Friday, 30. Jan 2026
+16[2026-01-30 00:04:58] <DuckHunt> ・゜゜・。。・゜゜\_O< QUACK!
+21[2026-01-30 00:04:59] <@url> !bang
+18[2026-01-30 00:04:59] <DuckHunt> url > *click* You're out of ammo! Use !reload
+21[2026-01-30 00:05:00] <@url> !reload
+18[2026-01-30 00:05:00] <DuckHunt> url > *click* New magazine loaded! [Ammo: 6/6] [Spare magazines: 1]
+21[2026-01-30 00:05:01] <@url> !bang
+18[2026-01-30 00:05:01] <DuckHunt> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 55]
+24[2026-01-30 03:29:30] * Disconnected..
+24[2026-01-30 03:29:37] * Rejoined #url
+25[2026-01-30 03:29:37] * Now talking in: #url
+25[2026-01-30 03:46:06] * Now talking in: #url
+21[2026-01-30 03:47:43] <@url> .
+16[2026-01-30 05:23:43] <DuckHunt> \_O<  *q u a c k*  (respawned)
+21[2026-01-30 05:23:44] <@url> !bang
+18[2026-01-30 05:23:44] <DuckHunt> url > *BANG* You shot a FAST DUCK! [+12 xp] [Total ducks: 56]
+21[2026-01-30 05:24:05] <@url> !duckstats
+18[2026-01-30 05:24:05] <DuckHunt> url: Lv5 Apex Predator | 04XP (Need 296 XP for Duck Whisperer) | 56 shot | 0 befriended | 100% accuracy | 87.5% hit rate | Armed | 4/6|2 mags | 0% jam chance | Items: Magazine x4, Gun Brush x2, Buy Gun Back x1
+16[2026-01-30 06:54:17] <DuckHunt> ~\_O<~  QUACK!  ~
+21[2026-01-30 06:54:18] <@url> !bang
+18[2026-01-30 06:54:18] <DuckHunt> url > *BANG* You shot a FAST DUCK! [+12 xp] [Total ducks: 57]
+25[2026-01-30 22:15:25] * Now talking in: #url
+24[2026-01-31 00:00:00] * Day changed to Saturday, 31. Jan 2026
+16[2026-01-31 01:32:12] <DuckHunt> ・゜゜・。。・゜゜\_O< QUACK!
+21[2026-01-31 01:32:13] <@url> !bang
+18[2026-01-31 01:32:14] <DuckHunt> url > *BANG* You missed the duck! [-1 XP]
+21[2026-01-31 01:32:14] <@url> !bang
+18[2026-01-31 01:32:15] <DuckHunt> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 58]
+24[2026-01-31 06:24:28] * Disconnected..
+24[2026-01-31 06:24:36] * Rejoined #url
+25[2026-01-31 06:24:36] * Now talking in: #url
+16[2026-01-31 09:48:41] <DuckHunt> ⟦\_O<⟧  Q U A C K
+21[2026-01-31 09:48:42] <@url> !bang
+18[2026-01-31 09:48:42] <DuckHunt> url > *BANG* You shot a FAST DUCK! [+12 xp] [Total ducks: 59]
+18[2026-01-31 09:48:42] <DuckHunt> url > The fast duck dropped a Single Bullet! [Added to inventory]
+16[2026-01-31 10:57:05] <DuckHunt> ..::: \_O< :::..  QUACK!
+21[2026-01-31 10:57:05] <@url> !bang
+18[2026-01-31 10:57:05] <DuckHunt> url > *click* You're out of ammo! Use !reload
+21[2026-01-31 10:57:06] <@url> !reload
+18[2026-01-31 10:57:06] <DuckHunt> url > *click* New magazine loaded! [Ammo: 6/6] [Spare magazines: 0]
+21[2026-01-31 10:57:07] <@url> !bang
+18[2026-01-31 10:57:07] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [2 HP remaining] [+15 xp] [Total ducks: 0]
+21[2026-01-31 10:57:07] <@url> !bang
+18[2026-01-31 10:57:07] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [1 HP remaining] [+15 xp] [Total ducks: 0]
+21[2026-01-31 10:57:08] <@url> !bang
+18[2026-01-31 10:57:08] <DuckHunt> url > *BANG* You killed the GOLDEN DUCK! [+45 xp] [Total ducks: 60]
+24[2026-01-31 12:46:54] * Disconnected..
+24[2026-01-31 12:47:01] * Rejoined #url
+25[2026-01-31 12:47:01] * Now talking in: #url
+16[2026-01-31 14:24:48] <DuckHunt> ・゜゜・。。・゜゜\_O> *flap flap*
+21[2026-01-31 14:24:49] <@url> !bang
+18[2026-01-31 14:24:49] <DuckHunt> url > *BANG* You shot a FAST DUCK! [+12 xp] [Total ducks: 61]
+16[2026-01-31 15:14:06] <DuckHunt> ・゜゜・。。・゜゜\_O< QUACK!
+21[2026-01-31 15:14:07] <@url> !bang
+18[2026-01-31 15:14:07] <DuckHunt> url > *BANG* You shot a FAST DUCK! [+12 xp] [Total ducks: 62]
+18[2026-01-31 15:14:07] <DuckHunt> url > The fast duck dropped a Magazine! [Added to inventory]
+16[2026-01-31 17:58:39] <DuckHunt> ・゜゜・。。・゜゜\_o< quack~
+21[2026-01-31 17:58:39] <@url> !bang
+18[2026-01-31 17:58:40] <DuckHunt> url > *BANG* You shot a FAST DUCK! [+12 xp] [Total ducks: 63]
+16[2026-01-31 19:52:35] <DuckHunt> ≋≋≋ \_O< ≋≋≋  QUACK!
+21[2026-01-31 19:52:36] <@url> !bang
+18[2026-01-31 19:52:36] <DuckHunt> url > *click* You're out of ammo! Use !reload
+21[2026-01-31 19:52:36] <@url> !reload
+18[2026-01-31 19:52:37] <DuckHunt> url > You're out of ammo!
+16[2026-01-31 19:53:36] <DuckHunt> The duck takes flight and vanishes! ·°'`'°-.,¸¸.·°'`
+21[2026-01-31 21:07:22] <@url> !use 2
+18[2026-01-31 21:07:22] <DuckHunt> url > Used Magazine! (4 remaining)
+21[2026-01-31 21:07:24] <@url> !use 2
+18[2026-01-31 21:07:24] <DuckHunt> url > Used Magazine! (3 remaining)
+21[2026-01-31 21:07:25] <@url> !use 2
+18[2026-01-31 21:07:25] <DuckHunt> url > Already at maximum magazines (3) for current level!
+21[2026-01-31 21:07:40] <@url> !shop 2
+18[2026-01-31 21:07:40] <DuckHunt> url > Successfully purchased Magazine for 15 XP! Stored in inventory (x4). Remaining XP: 803
+21[2026-01-31 21:07:41] <@url> !shop 2
+18[2026-01-31 21:07:41] <DuckHunt> url > Successfully purchased Magazine for 15 XP! Stored in inventory (x5). Remaining XP: 788
+21[2026-01-31 21:07:42] <@url> !shop 2
+18[2026-01-31 21:07:42] <DuckHunt> url > Successfully purchased Magazine for 15 XP! Stored in inventory (x6). Remaining XP: 773
+21[2026-01-31 21:07:43] <@url> !shop 2
+18[2026-01-31 21:07:43] <DuckHunt> url > Successfully purchased Magazine for 15 XP! Stored in inventory (x7). Remaining XP: 758
+21[2026-01-31 21:07:43] <@url> !shop 2
+18[2026-01-31 21:07:44] <DuckHunt> url > Successfully purchased Magazine for 15 XP! Stored in inventory (x8). Remaining XP: 743
+21[2026-01-31 21:08:00] <@url> !globaltop
+18[2026-01-31 21:08:00] <DuckHunt> Top XP:  🥇 loulan 811XP #computertech | 🥈 url 743XP #url | 🥉 antitheus 656XP #computertech | #4 admiral_hubris 433XP #computertech | #5 milambar 165XP #computertech
+16[2026-01-31 21:15:21] <DuckHunt> \_O< ≫ Q U A C K ≪
+21[2026-01-31 21:15:21] <@url> !bang
+18[2026-01-31 21:15:21] <DuckHunt> url > *click* You're out of ammo! Use !reload
+21[2026-01-31 21:15:22] <@url> !reload
+18[2026-01-31 21:15:22] <DuckHunt> url > *click* New magazine loaded! [Ammo: 6/6] [Spare magazines: 1]
+21[2026-01-31 21:15:22] <@url> !bang
+18[2026-01-31 21:15:22] <DuckHunt> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 64]
+16[2026-01-31 21:49:31] <DuckHunt> ≋≋≋ \_O< ≋≋≋  QUACK!
+21[2026-01-31 21:49:31] <@url> !bang
+18[2026-01-31 21:49:31] <DuckHunt> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 65]
+24[2026-02-01 03:27:40] * Day changed to Sunday, 1. Feb 2026
+24[2026-02-01 03:27:40] * Disconnected..
+24[2026-02-01 03:27:47] * Rejoined #url
+25[2026-02-01 03:27:47] * Now talking in: #url
+16[2026-02-01 03:50:16] <DuckHunt> ・゜゜・。。・゜゜\_o< quack~
+21[2026-02-01 03:50:17] <@url> !bang
+18[2026-02-01 03:50:17] <DuckHunt> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 66]
+16[2026-02-01 04:48:26] <DuckHunt> ·.¸¸.·´¯`·.¸¸.·´¯`·. \_O<  QUACK!
+21[2026-02-01 04:48:26] <@url> !bang
+18[2026-02-01 04:48:27] <DuckHunt> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 67]
+16[2026-02-01 05:40:02] <DuckHunt> -.,¸¸.-·°'`'°·-.,¸¸.-·°'`'°· \_O<   QUACK
+21[2026-02-01 05:40:03] <@url> !bang
+18[2026-02-01 05:40:03] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [3 HP remaining] [+15 xp] [Total ducks: 0]
+21[2026-02-01 05:40:04] <@url> !bang
+18[2026-02-01 05:40:04] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [2 HP remaining] [+15 xp] [Total ducks: 0]
+21[2026-02-01 05:40:05] <@url> !bang
+18[2026-02-01 05:40:05] <DuckHunt> url > *click* You're out of ammo! Use !reload
+21[2026-02-01 05:40:06] <@url> !reload
+18[2026-02-01 05:40:06] <DuckHunt> url > *click* New magazine loaded! [Ammo: 6/6] [Spare magazines: 0]
+21[2026-02-01 05:40:07] <@url> !bang
+18[2026-02-01 05:40:07] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [1 HP remaining] [+15 xp] [Total ducks: 0]
+21[2026-02-01 05:40:08] <@url> !bang
+18[2026-02-01 05:40:08] <DuckHunt> url > *click* Your gun jammed! [AMMO WASTED]
+21[2026-02-01 05:40:09] <@url> !bang
+18[2026-02-01 05:40:09] <DuckHunt> url > *BANG* You killed the GOLDEN DUCK! [+60 xp] [Total ducks: 68]
+18[2026-02-01 05:40:10] <DuckHunt> url > The golden duck dropped a Bread! [Added to inventory]
+16[2026-02-01 06:14:41] <DuckHunt> ⟦\_O<⟧  Q U A C K
+21[2026-02-01 06:14:42] <@url> !bang
+18[2026-02-01 06:14:42] <DuckHunt> url > *BANG* You missed the duck! [-1 XP]
+21[2026-02-01 06:14:43] <@url> !bang
+18[2026-02-01 06:14:44] <DuckHunt> url > *BANG* You missed and hit earl! [GUN CONFISCATED] [LOST 25 XP]
+16[2026-02-01 06:15:01] <DuckHunt> \o< *whoosh* The fast duck is gone!
+24[2026-02-01 11:10:28] * Disconnected..
+24[2026-02-01 11:10:35] * Rejoined #url
+25[2026-02-01 11:10:35] * Now talking in: #url
+21[2026-02-01 11:11:45] <@url> !use 7
+18[2026-02-01 11:11:45] <DuckHunt> url > Your gun has been returned with 1 bullets and 0 magazines.
+21[2026-02-01 11:12:02] <@url> !duckstats
+18[2026-02-01 11:12:02] <DuckHunt> url: Lv5 Apex Predator | 16XP (Need 184 XP for Duck Whisperer) | 68 shot | 0 befriended | 96% accuracy | 86.1% hit rate | Armed | 1/6|1 mags | 0% jam chance | Items: Magazine x8, Gun Brush x2, Single Bullet x1, Bread x1
+21[2026-02-01 11:12:15] <@url> !use 1
+18[2026-02-01 11:12:15] <DuckHunt> url > Used Single Bullet!
+21[2026-02-01 11:12:29] <@url> !use 2
+18[2026-02-01 11:12:29] <DuckHunt> url > Used Magazine! (7 remaining)
+21[2026-02-01 11:12:31] <@url> !use 2
+18[2026-02-01 11:12:31] <DuckHunt> url > Used Magazine! (6 remaining)
+21[2026-02-01 11:12:33] <@url> !use 2
+18[2026-02-01 11:12:34] <DuckHunt> url > Already at maximum magazines (3) for current level!
+21[2026-02-01 11:12:45] <@url> !shop
+16[2026-02-01 11:12:45] <DuckHunt> DuckHunt Shop: (1) Single Bullet - 5 XP | (2) Magazine - 15 XP | (3) Sand - 10 XP | (4) Gun Brush - 20 XP | (5) Bread - 50 XP | (6) Hunter's Insurance - 75 XP | (7) Buy Gun Back - 40 XP | (8) Bucket of Water - 25 XP | You have 816 XP
+21[2026-02-01 11:12:53] <@url> !use 5
+18[2026-02-01 11:12:53] <DuckHunt> url > You scattered bread around the pond! Ducks will spawn 2.0x faster for 20 minutes.
+16[2026-02-01 11:23:50] <DuckHunt> ..::: \_O< :::..  QUACK!
+21[2026-02-01 11:23:51] <@url> !bang
+18[2026-02-01 11:23:51] <DuckHunt> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 69]
+16[2026-02-01 11:44:20] <DuckHunt> ≋≋≋ \_O< ≋≋≋  QUACK!
+21[2026-02-01 11:44:20] <@url> !bang
+18[2026-02-01 11:44:21] <DuckHunt> url > *BANG* You shot a FAST DUCK! [+12 xp] [Total ducks: 70]
+16[2026-02-01 12:07:05] <DuckHunt> ・゜゜・。。・゜゜\_o< quack~
+21[2026-02-01 12:07:05] <@url> !bang
+18[2026-02-01 12:07:05] <DuckHunt> url > *click* You're out of ammo! Use !reload
+21[2026-02-01 12:07:06] <@url> !reload
+18[2026-02-01 12:07:06] <DuckHunt> url > *click* New magazine loaded! [Ammo: 6/6] [Spare magazines: 1]
+21[2026-02-01 12:07:07] <@url> !bang
+18[2026-02-01 12:07:07] <DuckHunt> url > *BANG* You shot a FAST DUCK! [+12 xp] [Total ducks: 71]
+18[2026-02-01 12:07:08] <DuckHunt> url > The fast duck dropped a Bucket of Water! [Added to inventory]
+16[2026-02-01 14:05:43] <DuckHunt> ≋≋≋ \_O< ≋≋≋  QUACK!
+21[2026-02-01 14:05:43] <@url> !bang
+18[2026-02-01 14:05:44] <DuckHunt> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 72]
+16[2026-02-01 18:02:00] <DuckHunt> ・゜゜・。。・゜゜\_o< quack~
+21[2026-02-01 18:02:00] <@url> !bang
+18[2026-02-01 18:02:01] <DuckHunt> url > *BANG* You shot a FAST DUCK! [+12 xp] [Total ducks: 73]
+16[2026-02-01 18:26:43] <DuckHunt> ・゜゜・。。・゜゜\_O< QUACK!
+21[2026-02-01 18:26:43] <@url> !bang
+18[2026-02-01 18:26:44] <DuckHunt> url > *BANG* You shot a FAST DUCK! [+12 xp] [Total ducks: 74]
+16[2026-02-01 18:49:20] <DuckHunt> ・゜゜・。。・゜゜\_O< QUACK!
+21[2026-02-01 18:49:21] <@url> !bang
+18[2026-02-01 18:49:21] <DuckHunt> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 75]
+16[2026-02-01 19:41:29] <DuckHunt> ·.¸¸.·´¯`·.¸¸.·´¯`·. \_O<  QUACK!
+21[2026-02-01 19:41:30] <@url> !bang
+18[2026-02-01 19:41:30] <DuckHunt> url > *BANG* You missed the duck! [-1 XP]
+21[2026-02-01 19:41:31] <@url> !bang
+18[2026-02-01 19:41:31] <DuckHunt> url > *click* You're out of ammo! Use !reload
+21[2026-02-01 19:41:32] <@url> !reload
+18[2026-02-01 19:41:32] <DuckHunt> url > *click* New magazine loaded! [Ammo: 6/6] [Spare magazines: 0]
+21[2026-02-01 19:41:33] <@url> !bang
+18[2026-02-01 19:41:33] <DuckHunt> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 76]
+16[2026-02-01 20:38:43] <DuckHunt> ・゜゜・。。・゜゜\_O< QUACK!
+21[2026-02-01 20:38:44] <@url> !bang
+18[2026-02-01 20:38:44] <DuckHunt> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 77]
+24[2026-02-02 03:12:16] * Disconnected..
+24[2026-02-02 03:12:17] * Day changed to Monday, 2. Feb 2026
+24[2026-02-02 03:12:24] * Rejoined #url
+25[2026-02-02 03:12:24] * Now talking in: #url
+24[2026-02-02 06:28:17] * Disconnected..
+24[2026-02-02 06:28:24] * Rejoined #url
+25[2026-02-02 06:28:24] * Now talking in: #url
+24[2026-02-02 11:49:03] * Disconnected..
+24[2026-02-02 11:49:11] * Rejoined #url
+25[2026-02-02 11:49:11] * Now talking in: #url
+21[2026-02-02 11:57:35] <@url> !duckstats
+18[2026-02-02 11:57:35] <DuckHunt> url: Lv5 Apex Predator | 13XP (Need 87 XP for Duck Whisperer) | 77 shot | 0 befriended | 100% accuracy | 86.5% hit rate | Armed | 4/6|1 mags | 0% jam chance | Items: Magazine x6, Gun Brush x2, Bucket of Water x1
+21[2026-02-02 11:57:47] <@url> !globaltop
+18[2026-02-02 11:57:48] <DuckHunt> Top XP:  🥇 url 913XP #url | 🥈 loulan 822XP #computertech | 🥉 antitheus 656XP #computertech | #4 admiral_hubris 486XP #computertech | #5 milambar 165XP #computertech
+16[2026-02-02 13:33:55] <DuckHunt> -.,¸¸.-·°'`'°·-.,¸¸.-·°'`'°· \_O<   QUACK
+21[2026-02-02 13:33:56] <@url> !bang
+18[2026-02-02 13:33:56] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [3 HP remaining] [+15 xp] [Total ducks: 0]
+21[2026-02-02 13:33:57] <@url> !bang
+18[2026-02-02 13:33:57] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [2 HP remaining] [+15 xp] [Total ducks: 0]
+21[2026-02-02 13:33:58] <@url> !bang
+18[2026-02-02 13:33:58] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [1 HP remaining] [+15 xp] [Total ducks: 0]
+21[2026-02-02 13:33:59] <@url> !bang
+18[2026-02-02 13:33:59] <DuckHunt> url > *BANG* You missed and hit antitheus! [GUN CONFISCATED] [LOST 25 XP]
+16[2026-02-02 13:34:57] <DuckHunt> \o< The golden duck glides away gracefully, its feathers shimmering.
+21[2026-02-02 13:37:26] <@url> .use 7
+21[2026-02-02 13:37:34] <@url> !use 7
+18[2026-02-02 13:37:35] <DuckHunt> url > You don't have any Buy Gun Back in your inventory
+21[2026-02-02 13:37:40] <@url> !shop 7
+18[2026-02-02 13:37:41] <DuckHunt> url > Successfully purchased Buy Gun Back for 40 XP! Stored in inventory (x1). Remaining XP: 847
+21[2026-02-02 13:37:46] <@url> !use 7
+18[2026-02-02 13:37:47] <DuckHunt> url > Your gun has been returned with 0 bullets and 0 magazines.
+21[2026-02-02 13:38:00] <@url> !use 2
+18[2026-02-02 13:38:00] <DuckHunt> url > Used Magazine! (5 remaining)
+21[2026-02-02 13:38:03] <@url> !use 2
+18[2026-02-02 13:38:04] <DuckHunt> url > Used Magazine! (4 remaining)
+21[2026-02-02 13:38:05] <@url> !use 2
+18[2026-02-02 13:38:06] <DuckHunt> url > Already at maximum magazines (3) for current level!
+21[2026-02-02 13:38:10] <@url> !duckstats
+18[2026-02-02 13:38:10] <DuckHunt> url: Lv5 Apex Predator | 47XP (Need 153 XP for Duck Whisperer) | 77 shot | 0 befriended | 98% accuracy | 85.6% hit rate | Armed | 0/6|3 mags | 0% jam chance | Items: Magazine x4, Gun Brush x2, Bucket of Water x1
+21[2026-02-02 13:38:21] <@url> !reload
+18[2026-02-02 13:38:22] <DuckHunt> url > *click* New magazine loaded! [Ammo: 6/6] [Spare magazines: 1]
+21[2026-02-02 13:38:22] <@url> !bang
+18[2026-02-02 13:38:23] <DuckHunt> url > *click* Your gun jammed! [AMMO WASTED]
+21[2026-02-02 13:38:23] <@url> !bang
+18[2026-02-02 13:38:24] <DuckHunt> url > *BANG* What did you shoot at? There is no duck in the area... [GUN CONFISCATED]
+21[2026-02-02 13:38:28] <@url> ffs
+21[2026-02-02 13:38:33] <@url> !shop 7
+18[2026-02-02 13:38:33] <DuckHunt> url > Successfully purchased Buy Gun Back for 40 XP! Stored in inventory (x1). Remaining XP: 807
+21[2026-02-02 13:38:38] <@url> !use 7
+18[2026-02-02 13:38:38] <DuckHunt> url > Your gun has been returned with 4 bullets and 0 magazines.
+24[2026-02-02 14:21:44] * Disconnected..
+24[2026-02-02 14:21:57] * Rejoined #url
+25[2026-02-02 14:21:57] * Now talking in: #url
+32[2026-02-02 14:22:22] * You were kicked by misurltoe (misurltoe)
+24[2026-02-02 14:22:41] * Rejoined #url
+25[2026-02-02 14:22:41] * Now talking in: #url
+16[2026-02-02 14:58:56] <DuckHunt> ・゜゜・。。・゜゜\_O< QUACK!
+21[2026-02-02 14:58:56] <@url> !bang
+18[2026-02-02 14:58:57] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [3 HP remaining] [+15 xp] [Total ducks: 0]
+21[2026-02-02 14:58:57] <@url> !bang
+18[2026-02-02 14:58:58] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [2 HP remaining] [+15 xp] [Total ducks: 0]
+21[2026-02-02 14:58:58] <@url> !bang
+18[2026-02-02 14:58:59] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [1 HP remaining] [+15 xp] [Total ducks: 0]
+21[2026-02-02 14:58:59] <@url> !bang
+18[2026-02-02 14:59:00] <DuckHunt> url > *BANG* You killed the GOLDEN DUCK! [+60 xp] [Total ducks: 78]
+18[2026-02-02 14:59:00] <DuckHunt> url > The golden duck dropped a Magazine! [Added to inventory]
+21[2026-02-02 14:59:23] <@url> !use 2
+18[2026-02-02 14:59:24] <DuckHunt> url > Used Magazine! (4 remaining)
+21[2026-02-02 14:59:31] <@url> !duckstats
+18[2026-02-02 14:59:32] <DuckHunt> url: Lv5 Apex Predator | 67XP (Need 133 XP for Duck Whisperer) | 78 shot | 0 befriended | 100% accuracy | 84.8% hit rate | Armed | 0/6|3 mags | 0% jam chance | Items: Magazine x4, Gun Brush x2, Bucket of Water x1
+16[2026-02-02 15:21:20] <DuckHunt> ..::: \_O< :::..  QUACK!
+21[2026-02-02 15:21:21] <@url> !bang
+18[2026-02-02 15:21:21] <DuckHunt> url > *click* You're out of ammo! Use !reload
+21[2026-02-02 15:21:22] <@url> !reload
+18[2026-02-02 15:21:22] <DuckHunt> url > *click* New magazine loaded! [Ammo: 6/6] [Spare magazines: 1]
+21[2026-02-02 15:21:23] <@url> !bang
+18[2026-02-02 15:21:23] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [3 HP remaining] [+15 xp] [Total ducks: 0]
+21[2026-02-02 15:21:24] <@url> !bang
+18[2026-02-02 15:21:24] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [2 HP remaining] [+15 xp] [Total ducks: 0]
+21[2026-02-02 15:21:25] <@url> !bang
+18[2026-02-02 15:21:25] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [1 HP remaining] [+15 xp] [Total ducks: 0]
+21[2026-02-02 15:21:26] <@url> !bang
+18[2026-02-02 15:21:26] <DuckHunt> url > *BANG* You killed the GOLDEN DUCK! [+60 xp] [Total ducks: 79]
+16[2026-02-02 16:07:54] <DuckHunt> ・゜゜・。。・゜゜\_O< QUACK!
+21[2026-02-02 16:07:54] <@url> !bang
+18[2026-02-02 16:07:55] <DuckHunt> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 80]
+16[2026-02-02 19:14:00] <DuckHunt> ·.¸¸.·´¯`·.¸¸.·´¯`·. \_O<  QUACK!
+21[2026-02-02 19:14:00] <@url> !bang
+18[2026-02-02 19:14:01] <DuckHunt> url > *BANG* You shot a FAST DUCK! [+12 xp] [Total ducks: 81]
+18[2026-02-02 19:14:01] <DuckHunt> url > The fast duck dropped a Gun Brush! [Added to inventory]
+21[2026-02-02 19:24:14] <@url> !shop
+16[2026-02-02 19:24:15] <DuckHunt> DuckHunt Shop: (1) Single Bullet - 5 XP | (2) Magazine - 15 XP | (3) Sand - 10 XP | (4) Gun Brush - 20 XP | (5) Bread - 50 XP | (6) Hunter's Insurance - 75 XP | (7) Buy Gun Back - 40 XP | (8) Bucket of Water - 25 XP | You have 949 XP
+21[2026-02-02 19:24:38] <@url> !use 4
+18[2026-02-02 19:24:38] <DuckHunt> url > Used Gun Brush! (2 remaining)
+21[2026-02-02 19:24:52] <@url> !duckstats
+18[2026-02-02 19:24:52] <DuckHunt> url: Lv5 Apex Predator | 49XP (Need 51 XP for Duck Whisperer) | 81 shot | 0 befriended | 100% accuracy | 85.3% hit rate | Armed | 0/6|2 mags | 0% jam chance | Items: Magazine x4, Gun Brush x2, Bucket of Water x1
+21[2026-02-02 19:25:17] <@url> !use 8 misurltoe
+18[2026-02-02 19:25:17] <DuckHunt> url > Player 'misurltoe' not found in #url. They need to participate in this channel first.
+21[2026-02-02 19:25:27] <@url> !use 8 earl
+18[2026-02-02 19:25:28] <DuckHunt> url > *SPLASH* You soaked earl with water! They can't shoot for 5 minutes.
+16[2026-02-02 20:23:27] <DuckHunt> ~\_O<~  QUACK!  ~
+21[2026-02-02 20:23:28] <@url> !bang
+18[2026-02-02 20:23:28] <DuckHunt> url > *click* You're out of ammo! Use !reload
+21[2026-02-02 20:23:29] <@url> !reload
+18[2026-02-02 20:23:30] <DuckHunt> url > *click* New magazine loaded! [Ammo: 6/6] [Spare magazines: 0]
+21[2026-02-02 20:23:30] <@url> !bang
+18[2026-02-02 20:23:31] <DuckHunt> url > *BANG* You shot the duck! \_X<   *KWAK*  [+10 xp] [Total ducks: 82]
+18[2026-02-02 20:23:31] <DuckHunt> url > The duck dropped a Single Bullet! [Added to inventory]
+21[2026-02-02 20:23:56] <@url> !use 1
+18[2026-02-02 20:23:57] <DuckHunt> url > Used Single Bullet!
+21[2026-02-02 20:24:04] <@url> !duckstats
+18[2026-02-02 20:24:04] <DuckHunt> url: Lv5 Apex Predator | 59XP (Need 41 XP for Duck Whisperer) | 82 shot | 0 befriended | 100% accuracy | 85.4% hit rate | Armed | 6/6|1 mags | 0% jam chance | Items: Magazine x4, Gun Brush x2
+21[2026-02-02 20:24:22] <@url> !use 2
+18[2026-02-02 20:24:22] <DuckHunt> url > Used Magazine! (3 remaining)
+21[2026-02-02 20:24:25] <@url> !use 2
+18[2026-02-02 20:24:25] <DuckHunt> url > Used Magazine! (2 remaining)
+21[2026-02-02 20:24:35] <@url> !duckstats
+18[2026-02-02 20:24:35] <DuckHunt> url: Lv5 Apex Predator | 59XP (Need 41 XP for Duck Whisperer) | 82 shot | 0 befriended | 100% accuracy | 85.4% hit rate | Armed | 6/6|3 mags | 0% jam chance | Items: Magazine x2, Gun Brush x2
+16[2026-02-02 21:12:43] <DuckHunt> ・゜゜・。。・゜゜\_O< QUACK!
+21[2026-02-02 21:12:43] <@url> !bang
+18[2026-02-02 21:12:43] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [4 HP remaining] [+15 xp] [Total ducks: 0]
+21[2026-02-02 21:12:44] <@url> !bang
+18[2026-02-02 21:12:44] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [3 HP remaining] [+15 xp] [Total ducks: 0]
+21[2026-02-02 21:12:45] <@url> !bang
+18[2026-02-02 21:12:46] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [2 HP remaining] [+15 xp] [Total ducks: 0]
+21[2026-02-02 21:12:46] <@url> !bang
+18[2026-02-02 21:12:47] <DuckHunt> url > *BANG* You shot a GOLDEN DUCK! [1 HP remaining] [+15 xp] [Total ducks: 0]
+21[2026-02-02 21:12:47] <@url> !bang
+18[2026-02-02 21:12:48] <DuckHunt> url > *BANG* You killed the GOLDEN DUCK! [+75 xp] [Total ducks: 83]
+18[2026-02-02 21:12:48] <DuckHunt> url > The golden duck dropped a Bread! [Added to inventory]
+21[2026-02-02 21:30:53] <@url> !use 5
+18[2026-02-02 21:30:53] <DuckHunt> url > You scattered bread around the pond! Ducks will spawn 2.0x faster for 20 minutes.
+21[2026-02-02 23:13:51] <@url> .
+21[2026-02-02 23:13:52] <@url> .
+21[2026-02-02 23:13:54] <@url> .
+21[2026-02-02 23:14:34] <@url> !duckstats
+18[2026-02-02 23:14:34] <DuckHunt> url: Lv6 Duck Whisperer | 034XP (Need 966 XP for Legendary Hunter) | 83 shot | 0 befriended | 100% accuracy | 85.6% hit rate | Armed | 6/6|3 mags | 0% jam chance | Items: Magazine x2, Gun Brush x2
+21[2026-02-02 23:14:42] <@url> !globaltop
+18[2026-02-02 23:14:43] <DuckHunt> Top XP:  🥇 url 1034XP #url | 🥈 loulan 832XP #computertech | 🥉 antitheus 665XP #computertech | #4 admiral_hubris 486XP #computertech | #5 milambar 165XP #computertech
